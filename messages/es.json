@@ -296,6 +296,583 @@
       ],
       "notes": "Se dejan enfriar las tortas y listas para comer",
       "image": "/minxos-coques-de-panis.webp"
+    },
+    "borra": {
+      "title": "Borra",
+      "author": "LA REVOLICA",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "30m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 kg de patatas",
+        "2-3 cebollas",
+        "¼ de melva fresca",
+        "¼ de bacalao",
+        "2 pimientos secos",
+        "8 tomates secos",
+        "½ kg de espinacas",
+        "4 huevos",
+        "1 vaso de vino de aceite",
+        "1 cabeza de ajos",
+        "azafrán"
+      ],
+      "instructions": [
+        "Poner a hervir el agua. Cuando esté hirviendo añadir las cebollas, las patatas, las espinacas, los pimientos secos, los tomates secos, la cabeza de ajos, el azafrán y el aceite. Es importante poner el aceite cuando esté hirviendo.",
+        "Dejar que hiervan todos los ingredientes y a continuación añadir el bacalao y la melva. Hacerlo en este orden, ya que si se añade antes, el bacalao y la melva se pueden deshacer y será más difícil servirlo.",
+        "El tiempo de cocción es de 30 minutos aproximadamente. Estará bien cocido cuando al pinchar la patata esté blanda.",
+        "Minutos antes de servir el plato añadir los 4 huevos a la parte superior del conjunto, para que se queden escalfados."
+      ],
+      "notes": "Se aconseja poner en remojo 24 horas antes la melva y el bacalao, para evitar que esté todo muy salado. El tomate seco se deberá desalar también 24 horas antes.",
+      "image": "/borra.webp"
+    },
+    "guisat-de-parva": {
+      "title": "Guisado de Parva",
+      "author": "Antonia \"el Serrà\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 conejo bastante grande",
+        "1kg de patatas",
+        "1 tomate",
+        "1 cebolla",
+        "3-4 judías verdes anchas",
+        "Almendras",
+        "pan",
+        "ajo"
+      ],
+      "instructions": [
+        "Sofreír en una sartén el conejo troceado. Cuando la carne esté dorada retirar.",
+        "A continuación sofreír las patatas cortadas de forma irregular. Una vez fritas las retiramos.",
+        "Sofreír la cebolla y el tomate triturado.",
+        "Poner en una olla el sofrito de cebolla y tomate, las patatas, el conejo y las judías. Cubrir con agua por completo las patatas y dejarlo al fuego para que se cueza a fuego lento.",
+        "Picar un par de almendras fritas, pan frito y ajo en un mortero. Verter el picado en la olla cuando el conjunto anterior ya haya hervido."
+      ],
+      "notes": "Se puede añadir también otro tipo de carne como el cabrito",
+      "image": "/guisat-de-parva.webp"
+    },
+    "guisat-de-carabassa": {
+      "title": "Guisado de Calabaza",
+      "author": "Maria \"Bota\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 trozo de bacalao inglés (250 g)",
+        "8 patatas",
+        "1 trozo de calabaza rugosa con piel (aproximadamente 1/4)",
+        "2 medidas de aceite (0,75 dl cada medida)",
+        "sal",
+        "1 papel de azafrán",
+        "1 cebolla",
+        "3-4 almendras y pan para el picado"
+      ],
+      "instructions": [
+        "Preparar un picado en un mortero con las almendras y el pan que habremos frito previamente. En la misma olla donde se guisará el plato sofreír el bacalao. Reservar.",
+        "A continuación, con el aceite anterior y en la olla, sofreír la cebolla. Cuando esté bien hecha, añadir la patata cortada en trozos y la calabaza -con piel- también en trozos. Tanto la patata como la calabaza no es necesario que estén mucho tiempo, es suficiente con darle una vuelta para mezclarlo y sofreírlo un poco.",
+        "Añadir 2 dientes de ajo que estén asados a esta mezcla. Cubrirlo todo con agua y ponerlo a fuego lento. Al empezar a hervir, añadir el azafrán, el bacalao y el picado. Durante la cocción rectificar de sal, ya que al llevar bacalao tal vez no necesitemos añadir mucha sal."
+      ],
+      "notes": "Este plato se acompaña con alioli",
+      "image": "/guisat-de-carabassa.webp"
+    },
+    "pericana": {
+      "title": "Pericana",
+      "author": "L'Aigüera",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "cookingTime": "variable",
+      "category": "starters",
+      "ingredients": [
+        "3 pimientos secos",
+        "1 pimiento picante",
+        "1 cabeza de ajos",
+        "1 trozo de bacalao"
+      ],
+      "instructions": [
+        "Asar los pimientos secos y trocear en un bol.",
+        "A continuación asar también el pimiento picante, trocearlo y ponerlo también en el bol. Se pueden añadir más pimientos picantes, según el grado de picante deseado.",
+        "Asar la cabeza de ajo, trocearla y añadirla también al bol.",
+        "Por último asar el bacalao, desmigarlo y añadirlo a la mezcla anterior.",
+        "Añadir buena cantidad de aceite de oliva y para finalizar, escaldar la mezcla con agua hirviendo.",
+        "Ahora... a servir, ya que se debe comer caliente. ¡Listo para mojar pan!"
+      ],
+      "notes": "Se puede sustituir el bacalao por capellanes. Aunque también hay gente que los combina. Hay muchas variantes de este plato y en algunos casos recibe el nombre de \"Picant\".",
+      "image": "/pericana.webp"
+    },
+    "farinetes": {
+      "title": "Farinetes",
+      "author": "SELLERS",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "Caldo: ½ kg de morralla",
+        "1 l ½ de agua",
+        "2 tomates maduros",
+        "1 cebolla",
+        "Perejil",
+        "5-6 dientes de ajo",
+        "300g de harina",
+        "Sal",
+        "Aceite de oliva"
+      ],
+      "instructions": [
+        "Sofreír el tomate, la cebolla, el perejil y el ajo, todo cortado en trocitos en una sartén aparte. Añadir sal y probar. Una vez sofrito reservar.",
+        "Cuando empiece a hervir, dejar media hora al fuego para que se haga bien.",
+        "Dejar reposar.",
+        "Pasar el caldo por un colador. De este caldo coger un litro para hacer las farinetes, el resto guardarlo para añadir más tarde si hace falta.",
+        "Poner el caldo tibio en una cazuela de barro con el sofrito preparado. Poner a fuego lento y añadir poco a poco la harina sin dejar de remover. A partir de aquí ya es a gusto del cocinero. Se puede añadir más caldo del reservado si las \"farinetes\" quedan muy duras."
+      ],
+      "notes": "Se puede hacer también con caldo de carne.",
+      "image": "/farinetes.webp"
+    },
+    "pebreres-en-oli": {
+      "title": "Pimientos en Aceite",
+      "author": "Amparo \"de la Era El Carro\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "starters",
+      "ingredients": [
+        "1 docena de pimientos secos",
+        "¼ litro de aceite de oliva",
+        "½ melva"
+      ],
+      "instructions": [
+        "Poner los pimientos a hervir con agua helada. El agua debe cubrir los pimientos. Tirar el agua cuando haya hervido 10 minutos.",
+        "Volver a poner agua helada y cuando haya hervido 10 minutos volver a tirar.",
+        "Otra vez poner agua helada y añadir a los pimientos la melva -toda en un trozo para que no se deshaga-.",
+        "Después de hervir durante 10 minutos apagar el fuego.",
+        "Sacar los pimientos y la melva en un bol y cubrir por completo de aceite.",
+        "Se puede comer ese mismo día o reservar para otro."
+      ],
+      "notes": "Se puede añadir también una guindilla seca.",
+      "image": "/pebreres-en-oli.webp"
+    },
+    "talvina": {
+      "title": "Talvina",
+      "author": "Luis \"de la Era El Carro\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 cabeza de ajos",
+        "4 manojos de espinacas",
+        "150-200 g de harina",
+        "¼ de litro de aceite de oliva",
+        "1 guindilla",
+        "4 pimientos secos",
+        "sal"
+      ],
+      "instructions": [
+        "Cocer las espinacas en agua unos 10 minutos aproximadamente. A continuación, escurrir hasta que suelten toda el agua. Reservar.",
+        "Sofreír los pimientos secos y la guindilla. Añadir sal al gusto y reservar.",
+        "Cortar los ajos. Sofreírlos un poco y añadir las espinacas dándole un par de vueltas.",
+        "Añadir la harina poco a poco sin dejar de remover con una cuchara de madera. Poner un poco de sal. Cuatro o cinco minutos al fuego serán suficientes.",
+        "Apagar el fuego cuando la mezcla se quede seca y la harina empiece a dorarse.",
+        "Servir en el centro de un plato y poner los pimientos y la guindilla en los laterales."
+      ],
+      "image": "/talvina.webp"
+    },
+    "arros-amb-bacallar-i-flor-i-col": {
+      "title": "Arroz con Bacalao y Coliflor",
+      "author": "EL GOTET",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "30m",
+      "category": "main-courses",
+      "ingredients": [
+        "200 g de bacalao inglés para comer crudo",
+        "400 g de arroz",
+        "400 g de coliflor",
+        "Ajos tiernos",
+        "Aceite de oliva",
+        "Azafrán",
+        "Agua o Caldo de verduras"
+      ],
+      "instructions": [
+        "Limpiar, pelar y cortar los ajos. Deshacer la coliflor en ramitos pequeños. Escurrir bien el bacalao.",
+        "Sofreír los ajos, la coliflor y el bacalao en una sartén con un poco de aceite.",
+        "Cuando esté sofrito, añadir el arroz, rehogar bien y añadir el agua caliente (o caldo de verduras) con un poco de azafrán. Poner el triple de agua que de arroz y probar de sal. Dejar cocer unos 10 minutos a fuego vivo. Apagar el fuego, tapar y dejar reposar 5 minutos más."
+      ],
+      "notes": "Se aconseja poner el bacalao en remojo 24 horas antes, para evitar que esté demasiado salado. El arroz debe quedar un poco meloso, para que se aprecie mejor el sabor.",
+      "image": "/arros-amb-bacallar-i-flor-i-col.webp"
+    },
+    "arros-amb-fesols-i-penques": {
+      "title": "Arroz con Alubias y Pencas",
+      "author": "EL DESFASE",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "2h",
+      "category": "main-courses",
+      "ingredients": [
+        "¼ de kg de alubias",
+        "1 hueso de jamón",
+        "1 manita de cerdo",
+        "1 oreja de cerdo",
+        "1 morcilla",
+        "1 blanquito",
+        "3 pencas grandes",
+        "1 nabo",
+        "1 zanahoria",
+        "1 chirivía",
+        "3 cucharadas de aceite",
+        "sal",
+        "½ kg de arroz"
+      ],
+      "instructions": [
+        "Poner a hervir las alubias en un cazo. Cuando hiervan, añadir agua helada para romper el hervor. Esta operación se realizará otra vez antes de añadirlas a la cazuela del arroz.",
+        "En otro cazo, poner las pencas con bastante sal.",
+        "Poner tres cucharadas de aceite en la cazuela en la que vamos a preparar el arroz. Calentarlo (debe estar casi listo para freír). Añadir a la cazuela litro y medio de agua, toda la verdura y carne (toda la carne menos la morcilla y el blanquito).",
+        "Añadir las alubias a la cazuela, después de haberle roto la ebullición dos veces.",
+        "Ya en la cazuela, se le volverá a romper el hervor dos veces más con ½ o 1 litro más de agua. Estará listo cuando las alubias estén abiertas y el caldo empiece a espesar.",
+        "Añadir el arroz, la morcilla y el blanquito.",
+        "Servir cuando veamos que el arroz está cocido."
+      ],
+      "notes": "Si el agua de las pencas está verde, añadiremos a la cazuela únicamente las pencas. En este tipo de arroz puede suprimirse el embutido y la carne, según el gusto de los comensales.",
+      "image": "/arros-amb-fesols-i-penques.webp"
+    },
+    "fassedures": {
+      "title": "Fassedures",
+      "author": "AMICS 85",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "2h",
+      "cookingTime": "20m",
+      "category": "main-courses",
+      "ingredients": [
+        "Fassedures:",
+        "250 g de harina de maíz",
+        "50 g de tocino",
+        "longaniza blanca",
+        "pan a remojo",
+        "perejil",
+        "sal",
+        "pimentón dulce",
+        "Olleta:",
+        "2 pencas",
+        "2 nabos",
+        "1 chirivía",
+        "1 boniato",
+        "1 o 2 patatas",
+        "1 hueso de pata y rabo de cerdo",
+        "un trozo de gallina (aproximadamente 250 g)",
+        "un blanquito",
+        "sal",
+        "azafrán",
+        "150 g habichuelas secas"
+      ],
+      "instructions": [
+        "Olleta:",
+        "Poner a hervir durante dos horas en una olla con agua todos los ingredientes de la olleta: las pencas, los nabos, la chirivía, el boniato, la patata, la pata y rabo del cerdo, el trozo de gallina, el blanquito, la sal, el azafrán, las habichuelas.",
+        "Fassedura:",
+        "Calentar un poco el aceite. Mezclar el aceite caliente con la harina de maíz y después añadir el pan a remojo bien escurrido, el tocino a trocitos, la longaniza blanca troceada, el perejil, la sal y el pimentón dulce. Amasar todos los ingredientes y moldear con la mano dándole forma redonda o un poco alargada. Añadir las fassedures a la olleta ya cocinada una hora antes de comer."
+      ],
+      "image": "/fassedures.webp"
+    },
+    "bollitori-de-bacallar": {
+      "title": "Bollitori de Bacalao",
+      "author": "Trini \"de Josefina de Ramón de Cruz\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "80-90m",
+      "category": "main-courses",
+      "ingredients": [
+        "2 medidas de aceite",
+        "1 cebolla",
+        "4 ñoras",
+        "4 huevos (duros)",
+        "col (al gusto)",
+        "1 kg patatas",
+        "4 lomos bacalao",
+        "alioli"
+      ],
+      "instructions": [
+        "Poner a cocer durante 40 minutos en la olla con agua la col, la cebolla, las ñoras y el aceite.",
+        "A continuación, añadir las patatas durante 25 minutos aproximadamente.",
+        "Poner el bacalao por encima entre 15 o 20 minutos.",
+        "Por último, colocar los huevos. Los huevos se pueden poner ya duros o bien escalfarlos, según el gusto de cada cocinero."
+      ],
+      "notes": "El secreto de este plato es cocinarlo a fuego lento. Se acompaña con alioli.",
+      "image": "/bollitori-de-bacallar.webp"
+    },
+    "putxero-amb-pilotes": {
+      "title": "Puchero con Pelotas",
+      "author": "Las cocineras de San Antonio 2012 (Amelia \"Guillermina\", Amparo \"Llober\", Antonia \"la Carnicera\", Encarnita \"el Surdo\", Eva Alemany)",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "120m",
+      "category": "main-courses",
+      "ingredients": [
+        "Puchero:",
+        "un nabo",
+        "una chirivía",
+        "2 zanahorias",
+        "3 ramas de apio",
+        "2 puerros",
+        "2 patatas",
+        "un blanquito",
+        "250 g de garbanzos",
+        "un trozo de tocino",
+        "200 g de ternera",
+        "250 g de gallina",
+        "250 g de pollo",
+        "sal",
+        "azafrán",
+        "Pelota:",
+        "250 g de carne picada de ternera y magro",
+        "un poco de pimienta",
+        "un puñado de piñones",
+        "1 huevo batido",
+        "un trozo de pan a remojo bien escurrido",
+        "un poco de limón rallado",
+        "perejil",
+        "un poco de sal",
+        "Opcional, una pizca de orégano"
+      ],
+      "instructions": [
+        "Puchero:",
+        "Poner a hervir la olla llena de agua, primero se ponen a hervir media hora los garbanzos que ya han estado a remojo la noche anterior, y después añadiremos el resto de ingredientes (nabo, chirivía, zanahoria, apio, puerros, blanquito, tocino, pollo, gallina, ternera y dejando las patatas para el final).",
+        "Pelota:",
+        "Mezclar todos los ingredientes de la pelota, amasar y darle forma redonda para añadir al puchero pasada una hora. Después, poner las pelotas y las patatas a hervir durante una hora más."
+      ],
+      "image": "/putxero-amb-pilotes.webp"
+    },
+    "canuts-caldosos": {
+      "title": "Canutos Caldosos",
+      "author": "Josefina \"els Jerseis\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "120m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 cebolla",
+        "1 tomate",
+        "1 pimiento",
+        "carne (costilla de cerdo o pollo)",
+        "patatas",
+        "judías",
+        "ajos",
+        "perejil",
+        "aceite",
+        "sal",
+        "macarrones"
+      ],
+      "instructions": [
+        "Sofreír una cebolla, un pedazo de tomate, dos tiras de pimiento, un par de patatas -no muy grandes- y la carne.",
+        "Una vez sofrito, añadir agua a la olla y dejar que hierva.",
+        "Mientras, preparar en un mortero una picada de ajo y perejil y añadirlo a la olla.",
+        "Cuando esté bien cocido, añadir los macarrones (un puñado por persona). Dejar cocer hasta que la pasta esté blanda."
+      ],
+      "notes": "Hay personas que hacen este plato como si fuera \"arroz con alubias y pencas\", sustituyendo los macarrones por el arroz",
+      "image": "/canuts-caldosos.webp"
+    },
+    "fesols-en-salsa": {
+      "title": "Alubias en Salsa",
+      "author": "Rosa \"el Conde\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "2h",
+      "category": "main-courses",
+      "ingredients": [
+        "2 puñados de alubias blancas por persona",
+        "1 o 2 hojas de laurel",
+        "1 cebolla y media",
+        "1 cabeza de ajos",
+        "1 trozo de chorizo de guisar",
+        "1 patata",
+        "1 zanahoria",
+        "1 cucharada de café de pimentón dulce",
+        "harina",
+        "sal",
+        "aceite"
+      ],
+      "instructions": [
+        "Poner una olla a hervir con agua las alubias, a continuación añadir el trozo de cebolla, la cabeza de ajos, la hoja de laurel, la zanahoria, la patata y el chorizo. El conjunto estará cocido cuando veamos que las alubias se empiezan a abrir y el caldo está espeso.",
+        "Mientras se hacen las alubias, sofreír con medio vasito de aceite una cebolla cortada en pedazos pequeños, una cucharada de harina y una cucharadita de pimentón. Es importante no dejar de remover para evitar que se pegue la harina.",
+        "Poner este sofrito en la olla en la que tenemos las alubias cuando éstas estén bien cocidas. Probar de sal y rectificar al gusto. Dejar unos minutos al fuego. Este plato debe quedar espeso por tanto se debe tener cuidado de no dejar mucho tiempo para evitar que se quede muy seco o se peguen."
+      ],
+      "notes": "Si vemos que el caldo se espesa mucho y no están cocidas las alubias, añadiremos más agua.",
+      "image": "/fesols-en-salsa.webp"
+    },
+    "miques": {
+      "title": "Migas",
+      "author": "Maria \"Sanxet\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "2h",
+      "category": "main-courses",
+      "ingredients": [
+        "1 barra de pan duro",
+        "1 tomate rallado",
+        "1 cebolla",
+        "aceite",
+        "sal"
+      ],
+      "instructions": [
+        "Cortar el pan duro en pedazos y remojar. Quitar el exceso de agua apretando con las manos el pan. (El pan debe quedar húmedo y blandito)",
+        "Hacer una fritanga -en una sartén o en una olla de barro- sofriendo en aceite el tomate rallado, la cebolla picada finita y sal.",
+        "Cuando el sofrito esté listo añadir el pan sin dejar de remover hasta que veamos que las migas quedan sueltas y ligeramente doradas."
+      ],
+      "notes": "Si se quiere se le puede añadir tocino y/o longanizas al sofrito para darle otro sabor. Existe una variante que se llama \"Migas de Pastor\". En este tipo de migas, cuando se está haciendo el sofrito se añade harina poco a poco, sin dejar de remover. Para evitar que se resequen se pone un poco de agua",
+      "image": "/miques.webp"
+    },
+    "sopa-dall": {
+      "title": "Sopa de Ajo",
+      "author": "Maria \"Cabot\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "10m",
+      "category": "main-courses",
+      "ingredients": [
+        "4 o 5 rebanadas finas de pan por persona",
+        "1 huevo por persona",
+        "1 medida de aceite",
+        "4 o 6 dientes de ajo",
+        "sal",
+        "azafrán"
+      ],
+      "instructions": [
+        "Chafar los dientes de ajo sin pelar y preparar una cazuela con aceite para sofreír el ajo.",
+        "Sacar el ajo sofrito. Sofreír en este aceite las rebanadas de pan.",
+        "Añadir el ajo sofrito y cubrir el preparado con bastante agua. Añadir sal y azafrán.",
+        "Cuando empiece a hervir el agua, echar los huevos que deben quedar escalfados."
+      ],
+      "notes": "Es fácil y rápido de hacer",
+      "image": "/sopa-dall.webp"
+    },
+    "guisat-de-freixura": {
+      "title": "Guisado de Asadura",
+      "author": "PEPICA \"EL SURDO\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "30m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 asadura de cordero -de un animal joven-",
+        "1 kg de patatas",
+        "2 cebollas",
+        "1 tomate",
+        "4 dientes de ajo",
+        "1 hoja de laurel",
+        "6 pencas tiernas",
+        "aceite",
+        "sal"
+      ],
+      "instructions": [
+        "Sofreír la asadura cortadita en trocitos pequeños con la cebolla también troceada, el tomate y cuatro dientes de ajos majados.",
+        "Añadir agua al sofrito. El agua debe cubrir unos dos o tres dedos de la mezcla anterior. Esperar a que hierva el agua para añadir las pencas tiernas cortadas a trocitos y una hoja de laurel.",
+        "A continuación, añadir la patata a trocitos y un picado de almendra."
+      ],
+      "notes": "Para que las pencas estén tiernas y para quitarle un poco su amargor, se le puede dar una hervida antes de añadirlas a la olla",
+      "image": "/guisat-de-freixura.webp"
+    },
+    "daus-de-porc-senglar": {
+      "title": "Dados de Jabalí al Vino Tinto con Patatas Partidas",
+      "author": "DANI y RAUL FRACÉS AGULLÓ",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 kg de carne de jabalí",
+        "4 patatas medianas",
+        "2 peras blanquilla",
+        "2 manzanas Golden",
+        "3 zanahorias",
+        "1 cebolla grande",
+        "1 botella de vino tinto",
+        "Hierbas aromáticas al gusto (tomillo y romero)",
+        "3 hojas de laurel",
+        "Aceite de oliva",
+        "sal",
+        "pimienta"
+      ],
+      "instructions": [
+        "Poner la carne troceada en dados en un recipiente para que macere. Pelar y trocear las manzanas y las peras. Echar en el recipiente junto con las zanahorias cortadas en rodajas y la cebolla, pelada y cortada en gajos. Añadir las hierbas aromáticas, al gusto, y el vino, de forma que lo cubra todo.",
+        "Cubrir el recipiente y dejar macerar en un lugar fresco, puede valer la parte baja del frigorífico, durante unas 24 horas. Transcurrido este tiempo, colar, recogiendo el vino que se reservará para la cocción de la carne. Del resto que queda en el colador, separar por una parte la carne y por otra las zanahorias y los gajos de cebolla, desechando los trozos de pera, de manzana y las hierbas aromáticas.",
+        "Poner una cazuela al fuego con el aceite y se van echando los trozos de carne, debidamente salpimentados, de forma que se vayan rehogando. Cuando la carne esté bien rehogada, añadir los trozos de zanahorias, la cebolla y el laurel. Darle unas vueltas hasta que las verduras queden también rehogadas. Por último añadir el vino tinto. Cuando rompa a hervir y se haya evaporado el alcohol, bajar el fuego dejando a fuego lento y tapada, entre 1 hora y una hora y media, hasta que la carne esté tierna. Si durante este tiempo el caldo mengua, se puede añadir agua caliente.",
+        "Una vez que la carne esté tierna, recuperar los trozos de carne, reservarlos en otra cazuela. El resto de ingredientes pasarlo por la batidora y colarlos con un colador chino, con el fin de conseguir una salsa limpia. Freír las patatas previamente cortadas a tacos grandes. Añadir las patatas a la cazuela en la que teníamos la carne, cubrir con la salsa y dejar cocer a fuego lento durante unos minutos hasta que las patatas queden tiernas."
+      ],
+      "notes": "Como en cualquier receta de caza, es conveniente esperar unos días después de la muerte del animal, antes de cocinarla porque la carne pierda fuerza. Si la carne de caza la tenemos en el congelador, es preferible sacarla 24 horas antes de cocinarla y dejar que se descongele en la nevera.",
+      "image": "/daus-de-porc-senglar.webp"
+    },
+    "arros-amb-cigrons-tendres": {
+      "title": "Arroz con Garbanzos Tiernos",
+      "author": "Adolfo \"el Trosset\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "15m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 conejo -no muy grande-",
+        "100 g de garbanzos tiernos",
+        "1 pimiento",
+        "1 tomate grande",
+        "4 dientes de ajo",
+        "1 cebolla",
+        "Arroz"
+      ],
+      "instructions": [
+        "Sofreír el pimiento y reservar.",
+        "Rallar el tomate, los 4 dientes de ajo y la cebolla.",
+        "Sofreír la carne de conejo. Añadir a continuación el rallado anterior.",
+        "Añadir los garbanzos y darle un par de vueltas.",
+        "Añadir el agua y dejar una media hora al fuego.",
+        "Pasado este tiempo agregar el arroz y dejar unos 15 minutos."
+      ],
+      "notes": "Este arroz queda meloso. Si se tiene conejo de monte y se prepara al fuego de leña queda exquisito. Se le pueden añadir guisantes, para hacerlo, antes se les engaña para que saquen la pulpa y se sofríen con la carne.",
+      "image": "/arros-amb-cigrons-tendres.webp"
+    },
+    "arros-amb-verdures-i-aladroc": {
+      "title": "Arroz con Verduras y Boquerón",
+      "author": "PENSAT I FET",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "20m",
+      "category": "main-courses",
+      "ingredients": [
+        "½ kg de boquerón",
+        "½ kg de habas tiernas",
+        "un manojo de ajos tiernos",
+        "4 alcachofas",
+        "media coliflor",
+        "un manojo de espinacas",
+        "1 tomate maduro",
+        "400 g de arroz",
+        "150 ml de aceite",
+        "azafrán de hebra",
+        "agua",
+        "sal"
+      ],
+      "instructions": [
+        "Sofreír en una paella los boquerones. Reservar.",
+        "Con este aceite, sofreír las verduras (habas, ajos tiernos, alcachofas, coliflor, espinacas) y reservarlas en un plato.",
+        "Una vez fritas las verduras sofreír el tomate rallado y el arroz.",
+        "Añadir a continuación las verduras reservadas, el azafrán y el agua hirviendo (doble cantidad de agua que de arroz). Pasados unos 5 o 10 minutos añadir el boquerón decorando la paella y dejar que se cueza el arroz."
+      ],
+      "image": "/arros-amb-verdures-i-aladroc.webp"
     }
   }
 }
