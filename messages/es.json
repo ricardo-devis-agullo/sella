@@ -845,6 +845,30 @@
         "Una vez fritas las verduras sofreír el tomate rallado y el arroz.",
         "Añadir a continuación las verduras reservadas, el azafrán y el agua hirviendo (doble cantidad de agua que de arroz). Pasados unos 5 o 10 minutos añadir el boquerón decorando la paella y dejar que se cueza el arroz."
       ]
+    },
+    "bescuit": {
+      "title": "Bizcocho",
+      "author": "Amelia \"Guilermina\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "8 huevos",
+        "8 onzas de azúcar (250 g)",
+        "8 onzas de flor de almidón"
+      ],
+      "instructions": [
+        "Separar la clara de las yemas. Reservar las yemas para añadir después.",
+        "Batir las claras al punto de nieve.",
+        "Añadir el azúcar -poco a poco- y sin dejar de batir para que se deshaga bien el azúcar.",
+        "Añadir las yemas y batir.",
+        "Por último añadir la flor de almidón y batir el conjunto bien.",
+        "Una vez preparada la mezcla, verter en un molde previamente untado en mantequilla, para que nos sea fácil de desmoldar.",
+        "Se pone al horno unos 20 minutos a una temperatura de 170°C – 180°C."
+      ],
+      "image": "/bescuit.webp"
     }
   }
 }

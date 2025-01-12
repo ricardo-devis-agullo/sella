@@ -847,6 +847,30 @@
         "Un cop fregides les verdures sofregir la tomaca ratllada i l'arròs.",
         "Afegir a continuació les verdures reservades, el safrà i l'aigua bullint (doble quantitat d'aigua que d'arròs). Als 5 o 10 minuts afegir l'aladroc decorant la paella i deixar que s'acabe de coure l'arròs."
       ]
+    },
+    "bescuit": {
+      "title": "Bescuit",
+      "author": "Amelia \"Guilermina\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "8 ous",
+        "8 unces de sucre (250 g)",
+        "8 unces de flor de midó"
+      ],
+      "instructions": [
+        "Separar la clara del rovell. Reservar aquest per a afegir després.",
+        "Batre les clares a punt de neu.",
+        "Afegir el sucre, poc a poc, i sense deixar de batre perquè es desfaça bé el sucre.",
+        "Afegir els rovells i batre.",
+        "Per últim, posar la flor de midó i batre el conjunt bé.",
+        "Un cop preparada la mescla, abocar en un motle prèviament untat amb mantega, perquè siga fàcil traure-ho del motle.",
+        "Coure al forn uns 20 minuts a una temperatura de 170°C – 180°C."
+      ],
+      "image": "/bescuit.webp"
     }
   }
 }
