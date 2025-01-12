@@ -10,6 +10,7 @@ export type Recipe = {
   difficulty: "easy" | "medium" | "hard";
   preparationTime: string;
   cookingTime?: string;
+  servings?: number;
   category: Category;
   ingredients: string[];
   instructions: string[];

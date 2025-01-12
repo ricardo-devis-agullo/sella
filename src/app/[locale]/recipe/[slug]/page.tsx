@@ -36,6 +36,7 @@ export default async function Recipe({
           <span>
             {tr("difficulty.title")}: {tr(`difficulty.${recipe.difficulty}`)}
           </span>
+          {recipe.servings && <span>Racions: {recipe.servings}</span>}
           <span>
             {tr("prepTime")}: {t("preparationTime")}
           </span>

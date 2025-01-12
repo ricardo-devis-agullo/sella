@@ -56,6 +56,7 @@
       "title": "Espencat",
       "author": "I SABENTHO",
       "difficulty": "easy",
+      "servings": 4,
       "preparationTime": "15m",
       "cookingTime": "60m",
       "category": "starters",
@@ -76,6 +77,28 @@
       ],
       "notes": "Se li pot afegir també capella a l'espencat",
       "image": "/espencat.webp"
+    },
+    "sang-amb-ceba": {
+      "title": "Sang amb Ceba",
+      "difficulty": "easy",
+      "servings": 2,
+      "preparationTime": "30m",
+      "category": "starters",
+      "ingredients": [
+        "150 g de sang de porc o de vedella",
+        "1 ceba xicoteta",
+        "oli d'oliva",
+        "sal",
+        "orenga"
+      ],
+      "instructions": [
+        "Tallar la ceba a trossos molt xicotets i posar-los en una paella amb oli. Afegir un pessic de sal i sofregir a foc lent o mitjà.",
+        "Abans que la ceba comence a daurar-se, deixar caure la sang tallada en daus. Remenar constantment la sang perquè vaja fent-se per cada cara. S'ha d'anar amb compte ja que no requereix de molta exposició al foc.",
+        "Quan ja està cuita la sang afegir la orenga al gust.",
+        "S'apaga el foc... i ja es pot servir."
+      ],
+      "notes": "S'aconsella bullir uns 5 minuts la sang perquè no estiga molt dura. És important que ni la ceba ni la sang es dauren excessivament al sofregir-los, ja que si es crema perdrà el sabor característic.",
+      "image": "/sang-amb-ceba.webp"
     }
   }
 }
