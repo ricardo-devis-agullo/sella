@@ -1,30 +1,46 @@
 import fs from "node:fs";
 import path from "node:path";
+import z from "zod";
 
-export const categories = ["starters", "cocas", "main-courses", "sweets"];
-export type Category = (typeof categories)[number];
+export const categories = [
+  "starters",
+  "cocas",
+  "main-courses",
+  "sweets",
+] as const;
+export const Category = z.enum(categories);
+export type Category = z.infer<typeof Category>;
 
-export type Recipe = {
-  title: string;
-  author?: string;
-  difficulty: "easy" | "medium" | "hard";
-  preparationTime: string;
-  cookingTime?: string;
-  servings?: number;
-  category: Category;
-  ingredients: string[];
-  instructions: string[];
-  notes?: string;
-  image: string;
-};
+export const Recipe = z.object({
+  title: z.string(),
+  author: z.string().optional(),
+  difficulty: z.enum(["easy", "medium", "hard"]),
+  preparationTime: z.string(),
+  cookingTime: z.string().optional(),
+  servings: z.number().optional(),
+  category: z.enum(categories),
+  ingredients: z.array(z.string()),
+  instructions: z.array(z.string()),
+  notes: z.string().optional(),
+  image: z.string(),
+});
+export type Recipe = z.infer<typeof Recipe>;
+
 let recipes: Record<string, Recipe> | undefined = undefined;
 
-function loadRecipes(): Record<string, Recipe> {
+export function loadRecipes(locale = "ca"): Record<string, Recipe> {
   if (recipes) return recipes;
 
-  const loadedRecipes = JSON.parse(
-    fs.readFileSync(path.join(process.cwd(), "messages", "ca.json"), "utf-8")
-  ).recipes;
+  const loadedRecipes = z
+    .record(Recipe)
+    .parse(
+      JSON.parse(
+        fs.readFileSync(
+          path.join(process.cwd(), "messages", `${locale}.json`),
+          "utf-8"
+        )
+      ).recipes
+    );
   recipes = loadedRecipes;
 
   return loadedRecipes;

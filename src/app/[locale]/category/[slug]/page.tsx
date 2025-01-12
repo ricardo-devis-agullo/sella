@@ -1,15 +1,15 @@
 import Link from "next/link";
 import Layout from "../../../components/layout";
-import { getRecipesByCategory } from "@/data/recipes";
+import { Category, getRecipesByCategory } from "@/data/recipes";
 import { getTranslations } from "next-intl/server";
 
-export default async function Category({
+export default async function CategoryPage({
   params,
 }: {
   params: Promise<{ slug: string; locale: string }>;
 }) {
   const { slug, locale } = await params;
-  const recipes = getRecipesByCategory(slug);
+  const recipes = getRecipesByCategory(Category.parse(slug));
   const t = await getTranslations("Category");
   const tr = await getTranslations("Recipe");
 

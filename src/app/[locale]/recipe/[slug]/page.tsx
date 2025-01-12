@@ -73,7 +73,7 @@ export default async function Recipe({
             ))}
           </ol>
         </section>
-        {t("notes") && (
+        {t.has("notes") && (
           <section>
             <h2 className="text-2xl font-semibold mb-2">{tr("notes")}</h2>
             <p>{t("notes")}</p>
