@@ -49,8 +49,7 @@
         "Amb l'ajuda de dos culleres fem les croquetes.",
         "Es passen per pa rallat i es frigen amb oli abundant molt calent"
       ],
-      "notes": "És recomanable usar una fregidora per fregir-les",
-      "image": "croquetes.webp"
+      "notes": "És recomanable usar una fregidora per fregir-les"
     },
     "espencat": {
       "title": "Espencat",
@@ -75,8 +74,7 @@
         "Una vegada torrades llevar la pell de les pebreres. Fer tires amb les verdures i posar-les en un plat.",
         "Opcionalment, es pot afegir al plat el bacallar desfet. Per últim es posa la sal i l'oli al gust."
       ],
-      "notes": "Se li pot afegir també capella a l'espencat",
-      "image": "espencat.webp"
+      "notes": "Se li pot afegir també capella a l'espencat"
     },
     "sang-amb-ceba": {
       "title": "Sang amb Ceba",
@@ -869,8 +867,7 @@
         "Per últim, posar la flor de midó i batre el conjunt bé.",
         "Un cop preparada la mescla, abocar en un motle prèviament untat amb mantega, perquè siga fàcil traure-ho del motle.",
         "Coure al forn uns 20 minuts a una temperatura de 170°C – 180°C."
-      ],
-      "image": "/bescuit.webp"
+      ]
     },
     "bunyols-de-carabassa": {
       "title": "Bunyols de Carabassa",
@@ -895,8 +892,7 @@
         "Mentre reposa la massa, posar una paella pregona amb oli al foc. Quan l'oli estiga calent, submergir la bunyolera.",
         "Si ja tenim la massa preparada i l'oli calent, començar a bullir els bunyols."
       ],
-      "notes": "Després d'amassar el conjunt afegim un poc de farina damunt, quan vegem que la farina s'ha enfonsat sabrem que la massa està ja llesta per a començar a fer els bunyols.",
-      "image": "/bunyols-de-carabassa.webp"
+      "notes": "Després d'amassar el conjunt afegim un poc de farina damunt, quan vegem que la farina s'ha enfonsat sabrem que la massa està ja llesta per a començar a fer els bunyols."
     },
     "coca-dametla": {
       "title": "Coca d'Ametla",
@@ -926,8 +922,7 @@
         "Preparar un motle amb paper antiadherent i abocar la mescla repartint-la bé perquè quedi uniforme.",
         "Posar el motle en el forn durant una hora aproximadament, vigilant que no es creme."
       ],
-      "notes": "És important no tocar la coca mentre estiga en el forn, ja que si no s'enfonsarà.",
-      "image": "/coca-dametla.webp"
+      "notes": "És important no tocar la coca mentre estiga en el forn, ja que si no s'enfonsarà."
     },
     "pastis-de-carabassa": {
       "title": "Pastís de Carabassa",
@@ -953,8 +948,7 @@
         "Posar al forn, calfat prèviament, a 180°C durant 40 minuts aproximadament. Punxar al centre amb un furgadents i si ix net, retirar del forn.",
         "Deixar gelar i traure del motle."
       ],
-      "notes": "La mesura d'1 got correspon a la de 1 got dels d'aigua",
-      "image": "/pastis-de-carabassa.webp"
+      "notes": "La mesura d'1 got correspon a la de 1 got dels d'aigua"
     },
     "rotllo-de-san-blai": {
       "title": "Rotllo de San Blai",
@@ -986,8 +980,7 @@
         "Ara toca tornar a amassar i donar-li la forma de rotllo. Posar el rotllo sobre un paper antiadherent. Donar-li color pintant-lo amb un ou batut i decorar amb sucre per damunt. Deixar reposar en un lloc calent perquè torne a pujar, quan vegem que està el doble del seu tamany, ja està llest per posar al forn.",
         "El forn ha d'estar calent a uns 200°C. Posar el rotllo i esperar uns 15 minuts. I ja estarà llest."
       ],
-      "notes": "Per a saber si la massa està bona, després d'obtenir la massa, agafem una boleta de la massa i la tirem en un got amb aigua. Aquest got el deixem al costat de la massa, quan haja pujat dalt de tot, la massa ja està bona. El rotllo s'ha de portar a beneir si volem que \"Sant Blai gloriós, ens lliure de la tos\".",
-      "image": "/rotllo-de-san-blai.webp"
+      "notes": "Per a saber si la massa està bona, després d'obtenir la massa, agafem una boleta de la massa i la tirem en un got amb aigua. Aquest got el deixem al costat de la massa, quan haja pujat dalt de tot, la massa ja està bona. El rotllo s'ha de portar a beneir si volem que \"Sant Blai gloriós, ens lliure de la tos\"."
     },
     "mostatxons": {
       "title": "Mostatxons",
@@ -1010,8 +1003,7 @@
         "Posar paper antiadherent sobre la placa del forn i deixar caure cullerades de la massa sobre el paper. En una fulla de paper caben uns 6 mostatxons, per la qual cosa s'han de col·locar separats, per evitar que s'apeguen uns a altres.",
         "Introduir la placa en el forn que prèviament haurem calfat a temperatura màxima. És important que el forn estiga ben calent ja que bastarà amb uns 7-8 minuts perquè es dauren i poder traure'ls."
       ],
-      "notes": "Se li pot posar per damunt una mescla de sucre glacé i canella.",
-      "image": "/mostatxons.webp"
+      "notes": "Se li pot posar per damunt una mescla de sucre glacé i canella."
     },
     "culleradetes": {
       "title": "Culleradetes",
@@ -1033,8 +1025,7 @@
         "Mesclar tots els ingredients en un bol, primer amb una cullera de fusta i finalment amb la batedora perquè no queden grumolls.",
         "Preparar una paella pregona amb molt oli de gira-sol i quan estiga calent, deixar caure cullerades de pasta (la mescla).",
         "Ja preparats es poden menjar arrebossats de sucre."
-      ],
-      "image": "/culleradetes.webp"
+      ]
     },
     "torrades": {
       "title": "Torrades",
@@ -1059,8 +1050,7 @@
         "Passar les rodanxes de pa per la llet tèbia i deixar reposar sobre un drap net una mitjana hora.",
         "Batre un ou i passar les rodanxes per ell per a fregir-les en una paella amb oli calent. Deixar-les en un plat amb tovallons de paper perquè absorbisquen l'excés d'oli.",
         "Mesclar sucre i un poc de canella molta i passar les torrades per aquesta mescla i llestes per a menjar."
-      ],
-      "image": "/torrades.webp"
+      ]
     },
     "magdalenes-dametla": {
       "title": "Magdalenes d'Ametla",
@@ -1086,8 +1076,7 @@
         "A continuació, afegir el sucre, i batre sense perdre el punt de neu.",
         "Finalment, afegir la resta d'ingredients i batre-ho tot.",
         "Quan estiga ben batut, omplir els motles de la magdalena."
-      ],
-      "image": "/magdalenes-dametla.webp"
+      ]
     },
     "torro": {
       "title": "Torró",
@@ -1108,8 +1097,7 @@
         "Abocar la mescla anterior en un bol i afegir els dos rovells, mesclant-ho tot bé.",
         "Posar en una caixeta de fusta paper de tonya i abocar la mescla dins, aplanant-la amb les mans perquè quedi ben premsada."
       ],
-      "notes": "Aquesta recepta és per fer 4 caixetes de torró. Un cop gelat ja haurà quallat la mescla, per la qual cosa ja podem menjar-nos el nostre torró. Si veiem que la mescla de l'aigua i el sucre fa espuma, retirem un moment del foc i després ho tornem a posar.",
-      "image": "/torro.webp"
+      "notes": "Aquesta recepta és per fer 4 caixetes de torró. Un cop gelat ja haurà quallat la mescla, per la qual cosa ja podem menjar-nos el nostre torró. Si veiem que la mescla de l'aigua i el sucre fa espuma, retirem un moment del foc i després ho tornem a posar."
     },
     "ametlats": {
       "title": "Ametlats",
@@ -1133,8 +1121,7 @@
         "Cada ametlat es fa agafant amb tres dits un pessic de massa. Quan més lletjos millor.",
         "El forn s'ha de calfar a 180°C. Coure a eixa temperatura fins que els vegem començar a daurar-se, llavors els traurem."
       ],
-      "notes": "També es poden fer amb ametla sense pell.",
-      "image": "/ametlats.webp"
+      "notes": "També es poden fer amb ametla sense pell."
     },
     "saginoses": {
       "title": "Saginoses",
@@ -1162,8 +1149,7 @@
         "Posteriorment, amb una brotxa de cuina pintar amb clara d'ou i espolsar amb sucre i canella damunt de la saginosa.",
         "Per últim, deixar entre 10 i 15 minuts al forn que prèviament haurem calfat a 180°C."
       ],
-      "notes": "En l'elaboració de les saginoses l'ametla no és un ingredient imprescindible. Però sí que és molt recomanable per a millorar la qualitat i el sabor d'aquest dolç nadalenc.",
-      "image": "/saginoses.webp"
+      "notes": "En l'elaboració de les saginoses l'ametla no és un ingredient imprescindible. Però sí que és molt recomanable per a millorar la qualitat i el sabor d'aquest dolç nadalenc."
     },
     "fabiola": {
       "title": "Fabiola",
@@ -1193,8 +1179,7 @@
         "Traure la Fabiola del forn i abocar poc a poc el xarop per damunt per emborratxar-la. Tornar a posar uns 5 minuts al forn.",
         "Decorar per damunt amb coco i esperar que es gele."
       ],
-      "notes": "És ideal per a acompanyar el café.",
-      "image": "/fabiola.webp"
+      "notes": "És ideal per a acompanyar el café."
     },
     "tonyes": {
       "title": "Tonyes",
@@ -1224,8 +1209,7 @@
         "Batre un ou i afegir un poc d'aigua per rebaixar-lo. Pintar amb aquesta mescla la massa i posar sucre per damunt per decorar.",
         "Ficar al forn, prèviament calfat a uns 160°C, aproximadament 15 minuts fins que vegem que estan morenetes."
       ],
-      "notes": "És important que la massa estiga en un lloc resguardat i calent. De la massa de la tonya es poden fer rotllets. El procediment és el mateix que per a les tonyes, però no se li posa ni ou ni sucre per damunt.",
-      "image": "/tonyes.webp"
+      "notes": "És important que la massa estiga en un lloc resguardat i calent. De la massa de la tonya es poden fer rotllets. El procediment és el mateix que per a les tonyes, però no se li posa ni ou ni sucre per damunt."
     },
     "rotllets-de-candial": {
       "title": "Rotllets de Candial",
@@ -1250,8 +1234,7 @@
         "Posar en un recipient la farina, afegir la mescla anterior amb el bicarbonat i el suc de la mitjana llima.",
         "Fer rotllets amb la massa i posar-los en una safata de forn. Un cop preparats posar al forn, calent a 180°C, uns 20-25 minuts."
       ],
-      "notes": "Ideal per a berenar. És difícil d'amassar. Els rotllets quedaran blancs per damunt.",
-      "image": "/rotllets-de-candial.webp"
+      "notes": "Ideal per a berenar. És difícil d'amassar. Els rotllets quedaran blancs per damunt."
     },
     "pastissets-de-moniato": {
       "title": "Pastissets de Moniato",
@@ -1285,8 +1268,7 @@
         "Fer boles xicotetes d'aquesta pasta i aplanar molt bé formant cercles. Per a fer-ho ens podem ajudar d'una tassa amb la boca bastant ampla. Omplir cada cercle amb una cullerada de dolç de moniato i tancar-lo formant empanades.",
         "Un cop fetes, pintar-les amb ou batut i fornejar durant 45 minuts aproximadament. El forn ha d'estar calent a 170°C."
       ],
-      "notes": "Encara que és recomanable preparar nosaltres mateixos el farcit, hi ha gent que opta per comprar el dolç de moniato ja fet. Amb açò es simplifica la recepta.",
-      "image": "/pastissets-de-moniato.webp"
+      "notes": "Encara que és recomanable preparar nosaltres mateixos el farcit, hi ha gent que opta per comprar el dolç de moniato ja fet. Amb açò es simplifica la recepta."
     },
     "melmelada-de-taronja": {
       "title": "Melmelada de Taronja",
@@ -1314,8 +1296,7 @@
         "Traure la cassola del foc i esperar uns 15 minuts.",
         "Ja per últim, posar la melmelada en pots de vidre."
       ],
-      "notes": "Es pot utilitzar qualsevol tipus de taronja però ixirà millor amb les amargues. Es recomana: Usar una cassola gran, pregona i d'un metall fort. Calfar els pots abans d'afegir la melmelada.",
-      "image": "/melmelada-de-taronja.webp"
+      "notes": "Es pot utilitzar qualsevol tipus de taronja però ixirà millor amb les amargues. Es recomana: Usar una cassola gran, pregona i d'un metall fort. Calfar els pots abans d'afegir la melmelada."
     },
     "orelletes": {
       "title": "Orelletes",
@@ -1338,8 +1319,7 @@
         "Quan l'oli estiga calent, pessigar cada quadradet i deixar caure en l'oli perquè agafen la seva forma característica.",
         "Deixar sobre un plat preparat amb paper perquè absorbisca l'excés d'oli.",
         "Servir en un plat amb sucre per damunt."
-      ],
-      "image": "/orelletes.webp"
+      ]
     },
     "mantegada": {
       "title": "Mantegada",
@@ -1362,8 +1342,7 @@
         "Deixar refredar per complet i ficar-ho al congelador.",
         "Traure la mescla del congelador cada 6 minuts i remenar bé fins obtindre una textura cremosa i amb consistència de gelat."
       ],
-      "notes": "Se li poden afegir 2 rovells més si ens agrada amb més sabor d'ou i també un poc de vainilla.",
-      "image": "/mantegada.webp"
+      "notes": "Se li poden afegir 2 rovells més si ens agrada amb més sabor d'ou i també un poc de vainilla."
     },
     "brac-de-gitano": {
       "title": "Braç de Gitano",
@@ -1401,8 +1380,7 @@
         "Llevar el paper poc a poc i posar el dolç d'ametla en la massa estenet-lo bé.",
         "Ja per últim, enrotllar la massa amb cura evitant que s'obriga i donant-li la forma d'espiral."
       ],
-      "notes": "Si es desitja es pot adornar per damunt el braç de gitano amb merenga, xocolate, canella i sucre, etc.",
-      "image": "/brac-de-gitano.webp"
+      "notes": "Si es desitja es pot adornar per damunt el braç de gitano amb merenga, xocolate, canella i sucre, etc."
     },
     "pitxeret": {
       "title": "Pitxeret",
@@ -1439,8 +1417,7 @@
         "Passar la mescla per un colador de tela.",
         "Pitxeret:",
         "Barrejar 1/3 de café licor amb 2/3 d'aigua llimó."
-      ],
-      "image": "/pitxeret.webp"
+      ]
     }
   }
 }
