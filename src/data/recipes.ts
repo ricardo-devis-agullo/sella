@@ -14,7 +14,7 @@ export type Category = z.infer<typeof Category>;
 export const Recipe = z.object({
   title: z.string(),
   author: z.string().optional(),
-  difficulty: z.enum(["easy", "medium", "hard"]),
+  difficulty: z.enum(["easy", "easy-medium", "medium", "medium-hard", "hard"]),
   preparationTime: z.string(),
   cookingTime: z.string().optional(),
   servings: z.number().optional(),

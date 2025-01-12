@@ -6,7 +6,9 @@
     "difficulty": {
       "title": "Dificultad",
       "easy": "Fácil",
+      "easy-medium": "Fácil-Media",
       "medium": "Media",
+      "medium-hard": "Media-Difícil",
       "hard": "Difícil"
     },
     "prepTime": "Tiempo de preparación",

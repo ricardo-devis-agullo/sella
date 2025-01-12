@@ -6,7 +6,9 @@
     "difficulty": {
       "title": "Dificultat",
       "easy": "Baixa",
+      "easy-medium": "Baixa-Mitjana",
       "medium": "Mitjana",
+      "medium-hard": "Mitjana-Alta",
       "hard": "Alta"
     },
     "prepTime": "Temps de preparació",
