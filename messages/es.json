@@ -76,6 +76,226 @@
       ],
       "notes": "Se le puede añadir también alcaparra al espencat",
       "image": "/espencat.webp"
+    },
+    "sang-amb-ceba": {
+      "title": "Sangre con Cebolla",
+      "difficulty": "easy",
+      "servings": 2,
+      "preparationTime": "30m",
+      "category": "starters",
+      "ingredients": [
+        "150 g de sangre de cerdo o de ternera",
+        "1 cebolla pequeña",
+        "aceite de oliva",
+        "sal",
+        "orégano"
+      ],
+      "instructions": [
+        "Cortar la cebolla en trozos muy pequeños y ponerlos en una sartén con aceite. Añadir una pizca de sal y sofreír a fuego lento o medio.",
+        "Antes de que la cebolla empiece a dorarse, dejar caer la sangre cortada en dados. Remover constantemente la sangre para que se vaya haciendo por cada cara. Hay que tener cuidado ya que no requiere de mucha exposición al fuego.",
+        "Cuando ya está cocida la sangre añadir el orégano al gusto.",
+        "Se apaga el fuego... y ya se puede servir."
+      ],
+      "notes": "Se aconseja hervir unos 5 minutos la sangre para que no esté muy dura. Es importante que ni la cebolla ni la sangre se doren excesivamente al sofreírlos, ya que si se quema perderá el sabor característico.",
+      "image": "/sang-amb-ceba.webp"
+    },
+    "faves": {
+      "title": "Habas",
+      "author": "LA FAM",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "48h",
+      "cookingTime": "45m",
+      "category": "starters",
+      "ingredients": [
+        "½ kg de habas secas",
+        "jamón en trocitos",
+        "chorizo en trocitos",
+        "pimienta en grano",
+        "una guindilla",
+        "aceite",
+        "sal"
+      ],
+      "instructions": [
+        "Poner las habas a remojo en agua durante dos días.",
+        "En una olla con agua se pone un poco de aceite, las habas, el jamón, el chorizo, unos granos de pimienta, la guindilla y una pizca de sal."
+      ],
+      "notes": "Se puede añadir laurel al gusto, o hacerlas solo con jamón o solo con chorizo picante.",
+      "image": "/faves.webp"
+    },
+    "coca-a-la-paleta": {
+      "title": "Coca a la Paleta",
+      "author": "L'ESTACAT",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "cocas",
+      "ingredients": [
+        "Masa:",
+        "7 vasos de agua",
+        "1 vaso de aceite",
+        "1 pizca de sal",
+        "1 kg de harina",
+        "Relleno:",
+        "2 manojos de espinacas",
+        "1 manojo de acelgas",
+        "100 g de melva desmigada"
+      ],
+      "instructions": [
+        "Relleno:",
+        "Poner a hervir las espinacas en una cazuela. No se deben cubrir de agua porque las espinacas sueltan agua.",
+        "Reducir las espinacas. Añadir las acelgas y la sal. Dejar cocer unos 20 minutos y escurrir bien.",
+        "Sofreír la verdura escurrida en un poco de aceite con unos ajitos a fuego lento. Reservar la mezcla.",
+        "Masa:",
+        "Poner el agua a hervir. Antes de empezar a hervir añadir el aceite y la sal.",
+        "Para escaldar la harina añadirla al agua y removerla bien para que no queden grumos. Puede hacerse con la ayuda de una cuchara de madera.",
+        "De la masa preparada coger pequeñas porciones, según el tamaño que se le quiera dar a la coca. Para evitar que se pegue la masa, untar las manos con aceite y alisar la masa con las manos.",
+        "A la masa alisada, añadir el relleno preparado y la melva desmigada. Cerrarla formando una media luna y a continuación ponerla sobre la plancha bien caliente para que se cueza.",
+        "Cada comensal puede añadir aceite si lo desea."
+      ],
+      "notes": "Se puede sustituir la melva por jamón york para los más pequeños. Se pueden preparar \"prenyaets\" usando la misma masa. Después de alisarla se pone una longaniza o cualquier otro embutido y se enrolla con la masa. Se acaba la preparación dándole una vuelta a la sartén. Otra variante con la misma masa son las \"Tortitas Escaldadas\". La masa alisada se fríe. Una vez frita se le pone azúcar y canela ... ¡RIQUÍSIMAS!",
+      "image": "/coca-a-la-paleta.webp"
+    },
+    "coca-de-ceba-i-tonyina": {
+      "title": "Coca de Cebolla y Atún",
+      "author": "Mª ANGELES",
+      "difficulty": "medium",
+      "preparationTime": "2h 30m",
+      "category": "cocas",
+      "ingredients": [
+        "Masa:",
+        "500 g de harina",
+        "1 vaso de vino blanco",
+        "Vaso y medio de aceite de girasol",
+        "Una pizca de sal",
+        "Relleno:",
+        "1 kg de cebolla",
+        "3 huevos",
+        "1 lata de aceitunas rellenas",
+        "½ kg de atún",
+        "sal"
+      ],
+      "instructions": [
+        "Para hacer el relleno:",
+        "Hervir los huevos hasta que estén duros. Cortarlos en trocitos pequeños y reservar.",
+        "Sofreír la cebolla.",
+        "Partir las aceitunas también en trocitos. Desmigar el atún y mezclarlo todo.",
+        "Masa:",
+        "Mezclar el vaso y medio de aceite, el vaso de vino blanco, la harina y una pizca de sal. Amasar hasta que tenga consistencia (no debe quedar muy dura).",
+        "Extender la mitad de la masa sobre la bandeja del horno, de forma que cubra la totalidad de la superficie.",
+        "Poner sobre esta masa el relleno preparado anteriormente.",
+        "La otra mitad de la masa alisarla con un rodillo de cocina. Debe quedar muy fina. Esta masa fina será la tapa de la coca y debe cubrir por completo el sofrito.",
+        "Pintar la parte superior con huevo batido y poner al horno unos 30 minutos a 180°C"
+      ],
+      "notes": "Para poner la masa aplanada sobre el relleno, se aconseja ponerla encima de un papel film cortado. Coger el papel film y extenderlo sobre el relleno.",
+      "image": "/coca-de-ceba-i-tonyina.webp"
+    },
+    "coca-de-pebrera-i-tomaca": {
+      "title": "Coca de Pimiento y Tomate",
+      "author": "LA CAMPANA",
+      "difficulty": "medium",
+      "preparationTime": "2h 30m",
+      "category": "cocas",
+      "ingredients": [
+        "Masa:",
+        "500 g de harina",
+        "1 huevo",
+        "1 vaso de agua tibia",
+        "25 g de levadura",
+        "½ vaso de aceite de oliva",
+        "unas gotas de vinagre",
+        "1 pizca de sal",
+        "1 pimiento verde",
+        "2 tomates o un bote de tomate",
+        "Embutido o salazón al gusto"
+      ],
+      "instructions": [
+        "Poner en un bol o recipiente la harina, el huevo, el aceite, las gotas de vinagre y la sal. Amasar.",
+        "A continuación verter sobre esta masa el vaso de agua tibia con la levadura. Dejar reposar 1/4 de hora.",
+        "Untar la bandeja del horno con un poco de aceite y transcurrido el cuarto de hora poner la masa en el fondo de la bandeja y extenderla. Dejar reposar.",
+        "Para preparar el relleno sofreír el pimiento y el tomate.",
+        "Poner sobre la masa el sofrito anterior y el embutido o salazón que se desee. Ponerla al horno.",
+        "Calentar el horno unos 20 minutos a 200°C. Poner la bandeja con la masa en el horno unos 30 minutos a 180°C."
+      ],
+      "image": "/coca-de-pebrera-i-tomaca.webp"
+    },
+    "coca-de-molletes": {
+      "title": "Coca de Molletes",
+      "author": "LA COENTOR",
+      "difficulty": "easy",
+      "preparationTime": "30m",
+      "cookingTime": "30m",
+      "category": "cocas",
+      "ingredients": [
+        "Masa:",
+        "350g de harina",
+        "18 g de levadura",
+        "200 cl de agua tibia",
+        "100 cl de aceite de oliva",
+        "1 pizca de sal",
+        "Molletes:",
+        "1/4 de harina",
+        "1/2 vaso de aceite",
+        "Sal"
+      ],
+      "instructions": [
+        "Mezclar la harina con la levadura. Añadir el vaso de agua, el vaso de aceite y la sal.",
+        "Amasar y dejar reposar 10 minutos.",
+        "A continuación extender la masa en una bandeja y poner encima los molletes.",
+        "Para hacer los molletes poner la harina, el aceite y la sal en un bol. Remover todo el conjunto hasta ver que la pasta queda suelta.",
+        "Poner la bandeja en el horno unos 30 minutos a 180°C. Calentar el horno previamente unos 20 minutos."
+      ],
+      "image": "/coca-de-molletes.webp"
+    },
+    "coquetes-escaldades-empanadetes": {
+      "title": "Tortas Escaldadas / Empanadillas",
+      "author": "Mercedes \"Fonda\"",
+      "difficulty": "medium",
+      "preparationTime": "2h 30m",
+      "cookingTime": "20-30m",
+      "category": "cocas",
+      "ingredients": [
+        "Masa:",
+        "2 vasos de agua",
+        "½ vaso de aceite de oliva",
+        "½ kg de harina",
+        "Sal",
+        "Relleno:",
+        "Verdura hervida y frita con ajos",
+        "melva",
+        "atún"
+      ],
+      "instructions": [
+        "Calentar el agua. Cuando está hirviendo añadir el aceite y una pizca de sal. Cuando vuelva a levantar el hervor verter la harina poco a poco sin dejar de remover hasta que quede una masa fina.",
+        "Si se quiere hacer tortas escaldadas, poner sobre un papel de horno la masa con forma redonda, (aplanándola con las manos y un rodillo). Una vez aplanada hacerle un pequeño borde para que no se salga el relleno y poner encima embutido, salazón, pimiento o tomate frito o simplemente aceite y sal -según el gusto de los comensales-.",
+        "Si se quiere hacer empanadillas amasar también la masa dándole forma redonda. Poner en el centro una cucharada de la verdura preparada y darle la vuelta para cerrar la empanadilla.",
+        "Calentar el horno a unos 200°C durante 20 minutos y cuando está listo poner la bandeja unos 20 o 30 minutos a 200°C."
+      ],
+      "notes": "Para darle la vuelta a la masa de las empanadillas, se aplana la masa sobre un film transparente de cocina y solo habrá que doblar el film.",
+      "image": "/coquetes-escaldades-empanadetes.webp"
+    },
+    "minxos-coques-de-panis": {
+      "title": "Minxos o Tortas de Maíz",
+      "author": "Maria Agulló",
+      "difficulty": "easy",
+      "preparationTime": "20m",
+      "cookingTime": "30m",
+      "category": "cocas",
+      "ingredients": [
+        "½ kilo de harina de maíz",
+        "1 pizca de sal",
+        "1 huevo batido (como para tortilla)",
+        "1 pizca de matalahúva o 1 poco de anís Casalla",
+        "300 ml de aceite de oliva",
+        "250 ml de agua"
+      ],
+      "instructions": [
+        "Se amasa bien todos los ingredientes.",
+        "A continuación se hacen las tortas redondas con bordes.",
+        "Y antes de introducirlas en el horno se les pone aceite y harina por encima."
+      ],
+      "notes": "Se dejan enfriar las tortas y listas para comer",
+      "image": "/minxos-coques-de-panis.webp"
     }
   }
 }
