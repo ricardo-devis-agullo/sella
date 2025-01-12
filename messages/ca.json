@@ -871,6 +871,576 @@
         "Coure al forn uns 20 minuts a una temperatura de 170°C – 180°C."
       ],
       "image": "/bescuit.webp"
+    },
+    "bunyols-de-carabassa": {
+      "title": "Bunyols de Carabassa",
+      "author": "LA SOLSIDA",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "120m",
+      "category": "sweets",
+      "ingredients": [
+        "750 kg de farina",
+        "25 g de llevat",
+        "½ kg de carabassa",
+        "oli de gira-sol -el suficient per cobrir la bunyolera-",
+        "1 ou",
+        "1 got de llet"
+      ],
+      "instructions": [
+        "Bullir la carabassa pelada i sense llavors fins que estiga blana. Passar la carabassa per un passapuré perquè quede més fina i siga més fàcil treballar-la.",
+        "Posar en un bol o semblant la farina. Afegir el llevat que prèviament haurem desfet amb un poc d'aigua tèbia. Afegir la carabassa, el got de llet i l'ou batut. Amassar la mescla bé perquè no queden grumolls.",
+        "Si la massa està molt dura, afegir aigua tèbia fins que quede més lleugera.",
+        "Deixar reposar la massa fins que haja pujat.",
+        "Mentre reposa la massa, posar una paella pregona amb oli al foc. Quan l'oli estiga calent, submergir la bunyolera.",
+        "Si ja tenim la massa preparada i l'oli calent, començar a bullir els bunyols."
+      ],
+      "notes": "Després d'amassar el conjunt afegim un poc de farina damunt, quan vegem que la farina s'ha enfonsat sabrem que la massa està ja llesta per a començar a fer els bunyols.",
+      "image": "/bunyols-de-carabassa.webp"
+    },
+    "coca-dametla": {
+      "title": "Coca d'Ametla",
+      "author": "VA DE BÔ",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "sweets",
+      "ingredients": [
+        "350 g de farina",
+        "150 g d'ametla molta",
+        "500 g de sucre",
+        "6 ous",
+        "1 llima",
+        "250 cl de llet",
+        "100 cl d'oli de gira-sol",
+        "4 sobres de bicarbonat",
+        "3 sobres de llima -Soda El Vesubio-"
+      ],
+      "instructions": [
+        "Precalfar el forn a 180°C durant uns 20 minuts.",
+        "Mentrestant, separar les clares dels rovells. Reservar els rovells, i batre les clares a punt de neu.",
+        "Al assolir el punt de neu, afegir el sucre i seguir batent la mescla. A continuació, abocar els rovells i batre.",
+        "A partir d'ara, anem a deixar la batedora per a usar una llengua o cullera de fusta per remenar. Afegir els 150 g d'ametla molta, la llet, l'oli, un poc de canella molta i la farina a la mescla anterior.",
+        "Desfer els 3 sobres de llima en un got de café amb un poc de llet tèbia i abocar a la mescla.",
+        "A continuació, afegir els 4 sobres de bicarbonat i mesclar-ho tot.",
+        "Preparar un motle amb paper antiadherent i abocar la mescla repartint-la bé perquè quedi uniforme.",
+        "Posar el motle en el forn durant una hora aproximadament, vigilant que no es creme."
+      ],
+      "notes": "És important no tocar la coca mentre estiga en el forn, ja que si no s'enfonsarà.",
+      "image": "/coca-dametla.webp"
+    },
+    "pastis-de-carabassa": {
+      "title": "Pastís de Carabassa",
+      "author": "LA FONT",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "sweets",
+      "ingredients": [
+        "1 kg de carabassa bullida",
+        "1 got de farina",
+        "1 got i mig de sucre",
+        "1 got d'oli de gira-sol",
+        "3 ous",
+        "1 sobre de flam de vainilla (a ser possible El Niño)",
+        "1 sobre de llevat en pols (Royal)"
+      ],
+      "instructions": [
+        "Pelar i llevar les pepides a la carabassa. Posar a bullir els trossos uns 20 minuts (fins que notem que estiga blana).",
+        "Mesclar la farina, el sucre, el sobre de flam i el llevat.",
+        "Afegir a la mescla anterior els ous batuts i l'oli, remoure bé i posar la carabassa. Batre tot fins aconseguir una massa uniforme.",
+        "Untar un motle amb mantega i abocar la mescla. No omplir-lo del tot perquè creix bastant.",
+        "Posar al forn, calfat prèviament, a 180°C durant 40 minuts aproximadament. Punxar al centre amb un furgadents i si ix net, retirar del forn.",
+        "Deixar gelar i traure del motle."
+      ],
+      "notes": "La mesura d'1 got correspon a la de 1 got dels d'aigua",
+      "image": "/pastis-de-carabassa.webp"
+    },
+    "rotllo-de-san-blai": {
+      "title": "Rotllo de San Blai",
+      "author": "LA KAIXKERA",
+      "difficulty": "hard",
+      "servings": 4,
+      "preparationTime": "3h",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "1 got d'aigua",
+        "1 culleradeta de llavors de matafaluga (anís)",
+        "la pell d'una llima",
+        "1 tubet de canella en rama",
+        "150 g de llevat premsat",
+        "1 kg de farina de força",
+        "400 g de sucre",
+        "1 taronja",
+        "½ got d'oli",
+        "5 ous mitjans -un dels quals reservarem per a untar el rotllo per damunt-",
+        "50 g de sucre per a decorar"
+      ],
+      "instructions": [
+        "Posar al foc un got d'aigua, quan comence a bullir abocar les llavors de matafaluga (anís), la canella i la pell de la llima. Deixar uns minuts perquè agafe sabor l'aigua. Retirar del foc i deixar gelar un poc.",
+        "En aquesta aigua tèbia dissolvem el llevat. És important que l'aigua estiga tèbia, ja que si està molt calenta la massa no pujarà.",
+        "Posar en un llibrell la farina i el sucre en forma de piràmide. Afegir la infusió anterior i amassar. Poc a poc, afegir el suc d'una taronja i el mig got d'oli. La massa resultant estarà dura.",
+        "Afegir els 4 ous, un a un i amassar, perquè siga fàcil d'amassar se li pot afegir oli i/o farina.",
+        "Deixar la massa reposar una mitjana hora. La massa tindrà que estar en un lloc calent perquè puga duplicar el seu volum.",
+        "Ara toca tornar a amassar i donar-li la forma de rotllo. Posar el rotllo sobre un paper antiadherent. Donar-li color pintant-lo amb un ou batut i decorar amb sucre per damunt. Deixar reposar en un lloc calent perquè torne a pujar, quan vegem que està el doble del seu tamany, ja està llest per posar al forn.",
+        "El forn ha d'estar calent a uns 200°C. Posar el rotllo i esperar uns 15 minuts. I ja estarà llest."
+      ],
+      "notes": "Per a saber si la massa està bona, després d'obtenir la massa, agafem una boleta de la massa i la tirem en un got amb aigua. Aquest got el deixem al costat de la massa, quan haja pujat dalt de tot, la massa ja està bona. El rotllo s'ha de portar a beneir si volem que \"Sant Blai gloriós, ens lliure de la tos\".",
+      "image": "/rotllo-de-san-blai.webp"
+    },
+    "mostatxons": {
+      "title": "Mostatxons",
+      "author": "ESPENTOLÀES",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "20m",
+      "cookingTime": "5-7m",
+      "category": "sweets",
+      "ingredients": [
+        "4 ous",
+        "pesem els ous i el que ens done ho posarem de farina i de sucre",
+        "4 pessics de bicarbonat"
+      ],
+      "instructions": [
+        "Separar la clara dels rovells. Reservar els rovells.",
+        "Batre les clares a punt de neu. Afegir el sucre poc a poc i batre perquè es desfaça bé en la mescla.",
+        "Afegir, a continuació, els rovells i tornar a batre.",
+        "Posar la farina i mesclar amb una cullera de fusta, sense deixar de moure de baix a dalt. Posar en la mà un poc de bicarbonat i afegir quatre pessics a la mescla sense deixar de remoure.",
+        "Posar paper antiadherent sobre la placa del forn i deixar caure cullerades de la massa sobre el paper. En una fulla de paper caben uns 6 mostatxons, per la qual cosa s'han de col·locar separats, per evitar que s'apeguen uns a altres.",
+        "Introduir la placa en el forn que prèviament haurem calfat a temperatura màxima. És important que el forn estiga ben calent ja que bastarà amb uns 7-8 minuts perquè es dauren i poder traure'ls."
+      ],
+      "notes": "Se li pot posar per damunt una mescla de sucre glacé i canella.",
+      "image": "/mostatxons.webp"
+    },
+    "culleradetes": {
+      "title": "Culleradetes",
+      "author": "LOLI \"PEDAS\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "30-60m",
+      "category": "sweets",
+      "ingredients": [
+        "300 g de farina",
+        "la ratlladura d'una llima",
+        "2 ous",
+        "2 gots de llet",
+        "½ sobre de llevat Royal",
+        "un poc de canella"
+      ],
+      "instructions": [
+        "Mesclar tots els ingredients en un bol, primer amb una cullera de fusta i finalment amb la batedora perquè no queden grumolls.",
+        "Preparar una paella pregona amb molt oli de gira-sol i quan estiga calent, deixar caure cullerades de pasta (la mescla).",
+        "Ja preparats es poden menjar arrebossats de sucre."
+      ],
+      "image": "/culleradetes.webp"
+    },
+    "torrades": {
+      "title": "Torrades",
+      "author": "EL GNOM",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "30m",
+      "category": "sweets",
+      "ingredients": [
+        "Pa dur",
+        "canella en rama",
+        "pell de llima",
+        "llet",
+        "1 ou",
+        "canella molta",
+        "sucre"
+      ],
+      "instructions": [
+        "Tallar una barra de pa dur en rodanxes.",
+        "Posar la llet al foc amb una pell de llima i un tub de canella en rama. Quan vegem que està calenta la retirarem.",
+        "Passar les rodanxes de pa per la llet tèbia i deixar reposar sobre un drap net una mitjana hora.",
+        "Batre un ou i passar les rodanxes per ell per a fregir-les en una paella amb oli calent. Deixar-les en un plat amb tovallons de paper perquè absorbisquen l'excés d'oli.",
+        "Mesclar sucre i un poc de canella molta i passar les torrades per aquesta mescla i llestes per a menjar."
+      ],
+      "image": "/torrades.webp"
+    },
+    "magdalenes-dametla": {
+      "title": "Magdalenes d'Ametla",
+      "author": "Antonia \"la Carnissera\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "6 ous",
+        "100 g ametla molta",
+        "6 tassetes (tamany café) d'oli",
+        "6 tassetes de llet",
+        "6 tassetes de sucre",
+        "4 sobres de gasosa",
+        "1 llima ratllada",
+        "300 g de farina",
+        "un poc de canella"
+      ],
+      "instructions": [
+        "Separar les clares dels rovells i batre les clares a punt de neu.",
+        "A continuació, afegir el sucre, i batre sense perdre el punt de neu.",
+        "Finalment, afegir la resta d'ingredients i batre-ho tot.",
+        "Quan estiga ben batut, omplir els motles de la magdalena."
+      ],
+      "image": "/magdalenes-dametla.webp"
+    },
+    "torro": {
+      "title": "Torró",
+      "author": "ANTONIA \"CONCORIA\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "1 kg de sucre",
+        "1 kg d'ametla sense pell",
+        "1 got d'aigua (que falten dos dits per a estar ple del tot)",
+        "2 rovells d'ou"
+      ],
+      "instructions": [
+        "Posar l'aigua i el sucre en una cassola al foc sense deixar de remoure. Retirar del foc quan el sucre estiga desfet i quan alcem la cullera quede com un fil.",
+        "Afegir les ametles moltes i remenar. Ha de quedar tot en remull.",
+        "Abocar la mescla anterior en un bol i afegir els dos rovells, mesclant-ho tot bé.",
+        "Posar en una caixeta de fusta paper de tonya i abocar la mescla dins, aplanant-la amb les mans perquè quedi ben premsada."
+      ],
+      "notes": "Aquesta recepta és per fer 4 caixetes de torró. Un cop gelat ja haurà quallat la mescla, per la qual cosa ja podem menjar-nos el nostre torró. Si veiem que la mescla de l'aigua i el sucre fa espuma, retirem un moment del foc i després ho tornem a posar.",
+      "image": "/torro.webp"
+    },
+    "ametlats": {
+      "title": "Ametlats",
+      "author": "ALEJANDRA",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "10m",
+      "category": "sweets",
+      "ingredients": [
+        "½ kg de ametla molta amb pell",
+        "canella en rama molta",
+        "½ kg de sucre",
+        "3 ous grans (o 4 mitjans)",
+        "la ratlladura de mitjana llima"
+      ],
+      "instructions": [
+        "Posar els ous en un bol i batre'ls amb el sucre.",
+        "Afegir l'ametla molta, la ratlladura de la llima i la canella i amassar.",
+        "Preparar una safata de forn amb paper de forn i damunt d'ella deixar els ametlats preparats.",
+        "Cada ametlat es fa agafant amb tres dits un pessic de massa. Quan més lletjos millor.",
+        "El forn s'ha de calfar a 180°C. Coure a eixa temperatura fins que els vegem començar a daurar-se, llavors els traurem."
+      ],
+      "notes": "També es poden fer amb ametla sense pell.",
+      "image": "/ametlats.webp"
+    },
+    "saginoses": {
+      "title": "Saginoses",
+      "author": "L'SKANDOL",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "45m",
+      "cookingTime": "10-15m",
+      "category": "sweets",
+      "ingredients": [
+        "400 g de mantega",
+        "400 g de sucre",
+        "3 rovells",
+        "1 clara d'ou",
+        "300 g de farina",
+        "200 g d'ametla",
+        "canella",
+        "1 llima ratllada"
+      ],
+      "instructions": [
+        "En primer lloc desfer la mantega.",
+        "Afegir el sucre i els rovells i remoure. Si es vol es pot afegir un poc de llima ratllada i canella.",
+        "Afegir la farina i l'ametla. Amassar, intentant aconseguir un nivell de consistència òptim, ni molt dur ni molt bla.",
+        "Un cop ben amassat, agafar una bola de massa, aplanar i amb els motles fer figures. Es recomana perquè siga més divertit fer-ne de formes diferents.",
+        "Posteriorment, amb una brotxa de cuina pintar amb clara d'ou i espolsar amb sucre i canella damunt de la saginosa.",
+        "Per últim, deixar entre 10 i 15 minuts al forn que prèviament haurem calfat a 180°C."
+      ],
+      "notes": "En l'elaboració de les saginoses l'ametla no és un ingredient imprescindible. Però sí que és molt recomanable per a millorar la qualitat i el sabor d'aquest dolç nadalenc.",
+      "image": "/saginoses.webp"
+    },
+    "fabiola": {
+      "title": "Fabiola",
+      "author": "LES FORTETES",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "25m",
+      "category": "sweets",
+      "ingredients": [
+        "120 g coco (60g per a la massa i 60g per a decorar)",
+        "6 ous",
+        "1 llima",
+        "¼ kg de farina",
+        "¼ kg de sucre",
+        "1 sobre i ½ de llevat Royal",
+        "Ingredients per al xarop:",
+        "½kg de sucre",
+        "2 gots d'aigua",
+        "1 got (dels de café) de rom blanc"
+      ],
+      "instructions": [
+        "Separar les clares dels rovells. Batre les clares a punt de neu. Afegir el sucre poc a poc sense deixar de batre.",
+        "A continuació, afegir els rovells i la ratlladura de llima. Remenar amb un cullerot i abocar poc a poc la farina mesclada amb el coco i el llevat Royal.",
+        "Untar el motle de la Fabiola amb mantega -perquè no s'enganxe- i abocar la massa anterior dins. Ha de quedar a ¾ de la seua capacitat. Coure en el forn a uns 170-180°C 20 minuts aproximadament.",
+        "Preparar un xarop per emborratxar la massa posant una cassola al foc amb els 2 gots d'aigua, el sucre i el rom blanc sense deixar de remoure fins aconseguir un almívar. Aproximadament tindrem la cassola al foc el mateix temps que està la Fabiola al forn.",
+        "Traure la Fabiola del forn i abocar poc a poc el xarop per damunt per emborratxar-la. Tornar a posar uns 5 minuts al forn.",
+        "Decorar per damunt amb coco i esperar que es gele."
+      ],
+      "notes": "És ideal per a acompanyar el café.",
+      "image": "/fabiola.webp"
+    },
+    "tonyes": {
+      "title": "Tonyes",
+      "author": "ROSA \"EL CASINO\"",
+      "difficulty": "hard",
+      "servings": 4,
+      "preparationTime": "3-4h",
+      "cookingTime": "15m",
+      "category": "sweets",
+      "ingredients": [
+        "1 Kg de farina de força",
+        "400 g de sucre",
+        "¼ de litre d'oli de gira-sol",
+        "4 ous",
+        "140 g de llevat",
+        "1 llima ratllada",
+        "¼ de litre de llet",
+        "½ got d'aigua per a desfer el llevat"
+      ],
+      "instructions": [
+        "Posar la farina en un recipient gran. Afegir els ous.",
+        "Desfer el llevat amb el ½ got d'aigua tèbia.",
+        "Desfer el sucre amb la llet.",
+        "Mesclar tots los ingredients i amassar posant l'oli poc a poc.",
+        "Un cop amassat es cobreix el recipient amb un tovalló per donar-li calor. Posar el recipient tapat al costat d'una font de calor (bossa d'aigua calenta, xemeneia...) durant dues hores i mitjana aproximadament. La massa haurà d'augmentar el doble del seu tamany inicial.",
+        "Passat aquest temps fer boles xicotetes amb la massa posant-les sobre un paper de forn en una superfície plana (taulell). Tapar i deixar reposar el temps suficient perquè la massa doble el seu tamany.",
+        "Batre un ou i afegir un poc d'aigua per rebaixar-lo. Pintar amb aquesta mescla la massa i posar sucre per damunt per decorar.",
+        "Ficar al forn, prèviament calfat a uns 160°C, aproximadament 15 minuts fins que vegem que estan morenetes."
+      ],
+      "notes": "És important que la massa estiga en un lloc resguardat i calent. De la massa de la tonya es poden fer rotllets. El procediment és el mateix que per a les tonyes, però no se li posa ni ou ni sucre per damunt.",
+      "image": "/tonyes.webp"
+    },
+    "rotllets-de-candial": {
+      "title": "Rotllets de Candial",
+      "author": "LOLA \"EL BOLILLO\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "20-25m",
+      "category": "sweets",
+      "ingredients": [
+        "1 tasseta de café d'anís sec",
+        "1 tasseta d'aigua",
+        "2 tassetes sucre",
+        "2 tassetes oli d'oliva",
+        "300 g de farina de candial",
+        "1 culleradeta -de les de café- de bicarbonat",
+        "el suc de ½ llima"
+      ],
+      "instructions": [
+        "Posar en una cassola l'aigua, el sucre i l'oli. Remenar la mescla amb una cullera fins que estiga el sucre desfet.",
+        "Retirar la cassola del foc i afegir l'anís.",
+        "Posar en un recipient la farina, afegir la mescla anterior amb el bicarbonat i el suc de la mitjana llima.",
+        "Fer rotllets amb la massa i posar-los en una safata de forn. Un cop preparats posar al forn, calent a 180°C, uns 20-25 minuts."
+      ],
+      "notes": "Ideal per a berenar. És difícil d'amassar. Els rotllets quedaran blancs per damunt.",
+      "image": "/rotllets-de-candial.webp"
+    },
+    "pastissets-de-moniato": {
+      "title": "Pastissets de Moniato",
+      "author": "AMPARO \"L'OBRER\"",
+      "difficulty": "medium-hard",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "45m",
+      "category": "sweets",
+      "ingredients": [
+        "Per a la massa:",
+        "1 got d'oli",
+        "1 got de sucre",
+        "1 got d'anís sec",
+        "125g de mantega de porc",
+        "2 ous",
+        "1 kg de farina aproximadament",
+        "(la mesura és un got dels d'aigua)",
+        "Per el farcit:",
+        "1 kg de moniatos (bullits i pelats)",
+        "750 g de sucre",
+        "ratlladura d'una llima",
+        "canella en pols"
+      ],
+      "instructions": [
+        "Posar en una cassola el moniato ja bullit i el sucre. Mesclar a foc lent durant una hora aproximadament.",
+        "Quan la mescla estiga gelada, afegir la ratlladura de la llima i un poc de canella i tornar a mesclar bé. Reservar aquest dolç de moniato per al farcit.",
+        "La preparació de la massa dels pastissets és la següent:",
+        "Posar en una cassola l'oli, l'anís, la mantega de porc i el sucre. Cuinar a foc lent fins que el sucre estiga desfet completament.",
+        "Col·locar la farina en un bol i agregar el preparat anterior i els dos ous. Amassar.",
+        "Fer boles xicotetes d'aquesta pasta i aplanar molt bé formant cercles. Per a fer-ho ens podem ajudar d'una tassa amb la boca bastant ampla. Omplir cada cercle amb una cullerada de dolç de moniato i tancar-lo formant empanades.",
+        "Un cop fetes, pintar-les amb ou batut i fornejar durant 45 minuts aproximadament. El forn ha d'estar calent a 170°C."
+      ],
+      "notes": "Encara que és recomanable preparar nosaltres mateixos el farcit, hi ha gent que opta per comprar el dolç de moniato ja fet. Amb açò es simplifica la recepta.",
+      "image": "/pastissets-de-moniato.webp"
+    },
+    "melmelada-de-taronja": {
+      "title": "Melmelada de Taronja",
+      "author": "LIZ GREEN \"CASA ROC\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "3h",
+      "category": "sweets",
+      "ingredients": [
+        "4 kg de taronges",
+        "el suc i pinyols de 2 llimes",
+        "3,4 litres d'aigua",
+        "2,7 kg de sucre"
+      ],
+      "instructions": [
+        "Exprimir el suc de les taronges i de les llimes.",
+        "Posar les pinyols de les llimes en una bosseta de mussolina i tancar bé.",
+        "Tallar la pell de les taronges a rodanxes fines.",
+        "Posar el suc, l'aigua, la bosseta de pinyols i els trossos de taronja en una cassola gran.",
+        "Deixar coure a foc lent durant 2 hores o fins que el líquid estiga reduït a la meitat.",
+        "Llevar la bosseta de pinyols i exprimir el líquid en la cassola.",
+        "Afegir el sucre i deixar coure a foc lent, remenant fins que tot el sucre s'haja dissolt.",
+        "Bullir a foc fort durant 15 o 20 minuts.",
+        "Traure la cassola del foc i esperar uns 15 minuts.",
+        "Ja per últim, posar la melmelada en pots de vidre."
+      ],
+      "notes": "Es pot utilitzar qualsevol tipus de taronja però ixirà millor amb les amargues. Es recomana: Usar una cassola gran, pregona i d'un metall fort. Calfar els pots abans d'afegir la melmelada.",
+      "image": "/melmelada-de-taronja.webp"
+    },
+    "orelletes": {
+      "title": "Orelletes",
+      "author": "LOLA \"LA PALMERA\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "1 ou",
+        "Mitjana closca d'ou d'oli",
+        "Mitjana closca d'ou de paloma",
+        "farina i oli per a fregir"
+      ],
+      "instructions": [
+        "Mesclar l'ou, la mesura de Mitjana closca d'oli i de paloma. Afegir la farina que admeta -aproximadament 150-200 g- i amassar bé perquè quedi una massa homogènia i fina.",
+        "Mentre, posar al foc una paella amb abundant oli.",
+        "Xafar la massa anterior amb un corró perquè quedi fina i d'aquesta massa retallar quadradets.",
+        "Quan l'oli estiga calent, pessigar cada quadradet i deixar caure en l'oli perquè agafen la seva forma característica.",
+        "Deixar sobre un plat preparat amb paper perquè absorbisca l'excés d'oli.",
+        "Servir en un plat amb sucre per damunt."
+      ],
+      "image": "/orelletes.webp"
+    },
+    "mantegada": {
+      "title": "Mantegada",
+      "author": "LA INTERNACIONAL",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "4 ous",
+        "250 g de sucre",
+        "canella en rama",
+        "1 litre de llet",
+        "la pell d'una llima"
+      ],
+      "instructions": [
+        "Bullir la llet amb una pell de llima i una rameta de canella. Colar-la i deixar-la refredar.",
+        "Batre els 4 rovells d'ou, afegir el sucre poc a poc sense deixar de batre. Afegir la llet que abans havíem preparat i posar-ho tot a foc suau sense deixar de remenar fins obtindre una crema.",
+        "Deixar refredar per complet i ficar-ho al congelador.",
+        "Traure la mescla del congelador cada 6 minuts i remenar bé fins obtindre una textura cremosa i amb consistència de gelat."
+      ],
+      "notes": "Se li poden afegir 2 rovells més si ens agrada amb més sabor d'ou i també un poc de vainilla.",
+      "image": "/mantegada.webp"
+    },
+    "brac-de-gitano": {
+      "title": "Braç de Gitano",
+      "author": "MARIA BALDÓ BOU",
+      "difficulty": "easy-medium",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "15-20m",
+      "category": "sweets",
+      "ingredients": [
+        "Per a la massa:",
+        "4 ous",
+        "250 g de sucre",
+        "50 g d'ametla molta",
+        "200 g de farina o de flor de midó",
+        "Per al dolç d'ametla:",
+        "1 got d'aigua",
+        "300 g d'ametla molta",
+        "200 g de sucre",
+        "un pesiguet de canella en pols",
+        "la ratlladura d'una llima"
+      ],
+      "instructions": [
+        "Separar les clares dels rovells. Batre les clares a punt de neu. A continuació, afegir el sucre poc a poc fins formar una merenga.",
+        "Afegir a la merenga els rovells i continuar batent.",
+        "Afegir la farina o flor de midó i, si es desitja la ametla, sense deixar de remenar fins obtindre una massa uniforme.",
+        "Abocar la massa en una safata preparada prèviament amb un paper de forn untat amb un poc de mantega.",
+        "Calfar el forn a 160°C i posar la safata durant 15 o 20 minuts.",
+        "Mentrestant, farem el dolç d'ametla:",
+        "Abocar el got d'aigua, el sucre, la ratlladura de la llima i la canella en una cassola.",
+        "Posar la cassola a foc suau fins que l'aigua comence a bullir.",
+        "Remenar fins que el sucre es desfaça i afegir, a continuació, l'ametla. No deixar de remenar fins que la mescla estiga cuita.",
+        "Deixar refredar un poc i ja tenim el farcit.",
+        "Preparar un drap amb sucre. Deixar caure la massa, sobre el drap, de manera que la massa estiga sobre el drap i el paper en la part superior.",
+        "Llevar el paper poc a poc i posar el dolç d'ametla en la massa estenet-lo bé.",
+        "Ja per últim, enrotllar la massa amb cura evitant que s'obriga i donant-li la forma d'espiral."
+      ],
+      "notes": "Si es desitja es pot adornar per damunt el braç de gitano amb merenga, xocolate, canella i sucre, etc.",
+      "image": "/brac-de-gitano.webp"
+    },
+    "pitxeret": {
+      "title": "Pitxeret",
+      "author": "PEPA \"EL CASINO\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "Aigua Llimó:",
+        "10 litres d'aigua",
+        "2 kg de sucre",
+        "3 kg de llimes",
+        "1 pessiguet de canella",
+        "Caramel:",
+        "200 g de sucre",
+        "100 cm3 d'aigua",
+        "Café licor:",
+        "1 litre d'alcohol de 90°",
+        "6 litres d'aigua",
+        "200 g de café molt"
+      ],
+      "instructions": [
+        "Aigua llimó:",
+        "Posar en un recipient l'aigua. Afegir la ratlladura de les llimes i el seu suc.",
+        "Afegir a continuació el sucre i la canella. Barrejar-ho tot i deixar-ho reposar.",
+        "Caramel:",
+        "Per a fer el caramel: cremar el sucre i afegir, poc a poc, l'aigua fins obtenir un xarop.",
+        "Afegir el sucre cremat al preparat de les llimes.",
+        "Colar i posar al congelador per a gelar.",
+        "Café licor:",
+        "Macerar 10 o 12 dies tots els ingredients del café licor.",
+        "Passar la mescla per un colador de tela.",
+        "Pitxeret:",
+        "Barrejar 1/3 de café licor amb 2/3 d'aigua llimó."
+      ],
+      "image": "/pitxeret.webp"
     }
   }
 }

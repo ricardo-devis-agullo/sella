@@ -72,7 +72,7 @@
       "instructions": [
         "Untar con aceite los pimientos, la cebolla, la berenjena y el tomate para asarlos –ya sea al horno o bien sobre una plancha-.",
         "Una vez asados quitar la piel de los pimientos. Hacer tiras con las verduras y ponerlas en un plato.",
-        "Opcionalmente, se puede añadir al plato el bacalao desmenuzado. Por último se pone la sal y el aceite al gusto."
+        "Opcionalmente, se puede añadir al caparra al espencat"
       ],
       "notes": "Se le puede añadir también alcaparra al espencat"
     },
@@ -869,6 +869,576 @@
         "Se pone al horno unos 20 minutos a una temperatura de 170°C – 180°C."
       ],
       "image": "/bescuit.webp"
+    },
+    "bunyols-de-carabassa": {
+      "title": "Buñuelos de Calabaza",
+      "author": "LA SOLSIDA",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "120m",
+      "category": "sweets",
+      "ingredients": [
+        "750 kg de harina",
+        "25 g de levadura",
+        "½ kg de calabaza",
+        "aceite de girasol -el suficiente para cubrir la buñolera-",
+        "1 huevo",
+        "1 vaso de leche"
+      ],
+      "instructions": [
+        "Hervir la calabaza pelada y sin semillas hasta que veamos que esté blandita. Pasar la calabaza por un pasapuré para que quede más fina y nos sea más fácil trabajar.",
+        "Poner en un bol o similar la harina, a la que añadimos la levadura que previamente habremos deshecho con un poco de agua tibia. Añadir la calabaza, el vaso de leche y el huevo batido. Amasar la mezcla bien para que no queden grumos.",
+        "Si la masa está muy dura añadir agua tibia hasta que quede más ligera.",
+        "Dejar reposar la masa hasta que haya subido.",
+        "Mientras reposa la masa, poner una sartén honda con aceite al fuego. Cuando el aceite esté caliente, sumergir la buñolera en ella.",
+        "Si ya tenemos la masa preparada y el aceite caliente empezar a freír los buñuelos."
+      ],
+      "notes": "Después de amasar el conjunto añadimos un poco de harina encima, cuando veamos que la harina se ha hundido sabremos que la masa está ya lista para empezar a hacer los buñuelos.",
+      "image": "/bunyols-de-carabassa.webp"
+    },
+    "coca-dametla": {
+      "title": "Coca de Almendra",
+      "author": "VA DE BÔ",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "sweets",
+      "ingredients": [
+        "350 g de harina",
+        "150 g de almendra molida",
+        "500 g de azúcar",
+        "6 huevos",
+        "1 limón",
+        "250 cl de leche entera",
+        "100 cl de aceite de girasol",
+        "4 sobres de bicarbonato",
+        "3 sobres de limón -Soda El Vesubio-"
+      ],
+      "instructions": [
+        "Precalentar el horno a 180 °C unos 20 minutos.",
+        "Mientras tanto, separar las claras de las yemas. Reservar las yemas y batir las claras al punto de nieve.",
+        "Al alcanzar el punto de nieve añadir el azúcar y seguir batiendo la mezcla. A continuación echar las yemas y batir.",
+        "A partir de ahora, vamos a dejar la batidora para usar una lengua o cucharón de madera para remover. A la mezcla anterior añadir: los 150 g de almendra molida, la leche, el aceite, un poco de canela molida y la harina.",
+        "Deshacer los 3 sobres de limón en un vaso de café con un poco de leche tibia y verter a la mezcla.",
+        "A continuación, añadir los 4 sobres de bicarbonato y mezclarlo todo.",
+        "Preparar un molde con papel antiadherente y verter la mezcla en ella repartiéndola bien para que quede uniforme.",
+        "Poner el molde en el horno -ya precalentado- durante una hora aproximadamente, vigilando que no se queme."
+      ],
+      "notes": "Es importante no tocar la coca mientras esté en el horno, ya que si no se hundirá.",
+      "image": "/coca-dametla.webp"
+    },
+    "pastis-de-carabassa": {
+      "title": "Pastel de Calabaza",
+      "author": "LA FONT",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "sweets",
+      "ingredients": [
+        "1 kg de calabaza hervida",
+        "1 vaso de harina",
+        "1 y ½ vaso de azúcar",
+        "1 vaso de aceite de girasol",
+        "3 huevos",
+        "1 sobre de flan de vainilla (a ser posible \"El Niño\")",
+        "1 sobre de levadura en polvo (Royal)"
+      ],
+      "instructions": [
+        "Pelar y quitar las pepitas a la calabaza. Poner a hervir los trozos unos 20 minutos (hasta que notemos que esté blandita).",
+        "Mezclar la harina, el azúcar, el sobre de flan y el de levadura.",
+        "Añadir a la mezcla anterior los huevos batidos y el aceite, remover bien y poner la calabaza. Batirlo todo hasta conseguir una masa uniforme.",
+        "Untar un molde con mantequilla y verter la mezcla. No llenarlo todo porque crece bastante.",
+        "Meter en el horno, calentado previamente, a 180°C durante 40 minutos aproximadamente. Pinchar en el centro con un palillo y si sale limpio, retirar del horno.",
+        "Dejar enfriar y desmoldar."
+      ],
+      "notes": "La medida de 1 vaso corresponde a la de 1 vaso de los de agua",
+      "image": "/pastis-de-carabassa.webp"
+    },
+    "rotllo-de-san-blai": {
+      "title": "Rollo de San Blas",
+      "author": "LA KAIXKERA",
+      "difficulty": "hard",
+      "servings": 4,
+      "preparationTime": "3h",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "1 vaso de agua",
+        "1 cucharita de semillas de matalahúva (anís)",
+        "la piel de un limón",
+        "1 tubito de canela en rama",
+        "150 g de levadura prensada",
+        "1 kg de harina de fuerza",
+        "400 g de azúcar",
+        "1 naranja",
+        "½ vaso de aceite",
+        "5 huevos medianos -uno de los cuales reservaremos para untar el rollo por encima-",
+        "50 g de azúcar para decorar"
+      ],
+      "instructions": [
+        "Poner al fuego un vaso de agua, cuando rompa a hervir echar las semillas de matalahúva, la canela y la piel del limón. Dejar unos minutos para que coja sabor el agua. Retirar del fuego y dejar enfriar un poco.",
+        "En esta agua tibia disolver la levadura. Es importante que el agua esté tibia, ya que si está muy caliente la masa no subirá.",
+        "Poner en un lebrillo o en una zafa la harina y el azúcar en forma de pirámide. Añadir la infusión anterior y amasar. Poco a poco, añadir el zumo de una naranja, el medio vaso de aceite. La masa resultante estará dura.",
+        "Añadir los 4 huevos, uno a uno y amasar, para que sea fácil de amasar se le puede añadir aceite y/o harina.",
+        "Dejar la masa reposar una media hora. La masa tendrá que estar en un sitio caliente para que pueda duplicar su volumen.",
+        "Ahora toca volver a amasar y darle la forma del rollo. Poner el rollo sobre un papel antiadherente. Darle color untándolo con un huevo batido y decorar con azúcar por encima. Dejar reposar en un sitio caliente para que vuelva a subir, cuando veamos que está el doble de su tamaño, ya está listo para poner al horno.",
+        "Precalentar el horno a unos 200 °C. Poner el rollo y esperar unos 15 minutos. Y ya estará listo."
+      ],
+      "notes": "Para saber si la masa está buena, después de obtener la masa, cogemos una bolita de la masa y la tiramos en un vaso con agua. Este vaso lo dejamos al lado de la masa, cuando haya subido arriba del todo, la masa ya está buena. El rollo se ha de llevar a bendecir si queremos que \"San Blas glorioso, nos libre de la tos\".",
+      "image": "/rotllo-de-san-blai.webp"
+    },
+    "mostatxons": {
+      "title": "Mostachones",
+      "author": "ESPENTOLÀES",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "20m",
+      "cookingTime": "5-7m",
+      "category": "sweets",
+      "ingredients": [
+        "4 huevos",
+        "Pesamos los huevos y lo que nos dé lo pondremos de harina y de azúcar",
+        "4 pellizcos de bicarbonato"
+      ],
+      "instructions": [
+        "Separar la clara de las yemas. Reservar las yemas.",
+        "Batir las claras al punto de nieve. Añadir el azúcar poco a poco y batir para que se deshaga bien en la mezcla.",
+        "Añadir a continuación las yemas y volver a batir.",
+        "Añadir la harina y mezclar con una cuchara de madera, sin dejar de mover, de abajo a arriba. Poner en la mano un poco de bicarbonato y echar cuatro pellizcos en la mezcla sin dejar de remover.",
+        "Poner papel antiadherente sobre la placa del horno y dejar caer cucharadas de la masa sobre el papel. En una hoja de papel caben unos 6 mostachones, por lo que se colocan separados, para evitar que se peguen unos a otros.",
+        "Introducir la placa en el horno que previamente se precalentará al máximo. Es importante que el horno esté bien caliente ya que bastará con unos 7-8 minutos para que se doren y sacarlos."
+      ],
+      "notes": "Se le puede poner por encima una mezcla de azúcar glas y canela.",
+      "image": "/mostatxons.webp"
+    },
+    "culleradetes": {
+      "title": "Cucharaditas",
+      "author": "LOLI \"PEDAS\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "30-60m",
+      "category": "sweets",
+      "ingredients": [
+        "300 g de harina",
+        "la ralladura de un limón",
+        "2 huevos",
+        "2 gots de llet",
+        "½ sobre de llevat Royal",
+        "una pizca de canela"
+      ],
+      "instructions": [
+        "Mezclar todos los ingredientes en un bol, primero con una cuchara de madera y finalmente con la batidora para que no queden grumos.",
+        "Preparar una sartén honda con abundante aceite de girasol y cuando esté caliente, echar cucharadas de pasta (la mezcla).",
+        "Ya preparados se pueden comer rebozados de azúcar."
+      ],
+      "image": "/culleradetes.webp"
+    },
+    "torrades": {
+      "title": "Torrijas",
+      "author": "EL GNOM",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "30m",
+      "category": "sweets",
+      "ingredients": [
+        "Pan duro",
+        "canela en rama",
+        "pell de limón",
+        "llet",
+        "1 huevo",
+        "canela molida",
+        "azúcar"
+      ],
+      "instructions": [
+        "Cortar una barra de pan duro en rodajas.",
+        "Poner al fuego la leche con una pell de limón y un tub de canela en rama. Cuando vemos que està calenta la retirarem.",
+        "Pasar les rodajas de pan per la llet tèbia i deixar reposar sobre un drap net una mitjana hora.",
+        "Batre un ou i passar les rodajas per ell per a posteriorment fregir-les en una paella amb oli calent. Deixar-les en un plat amb tovallons de paper perquè absorbisquen l'excés d'oli.",
+        "Mesclar sucre i un poc de canela molida i passar les torrija per aquesta mescla i llestes per a menjar."
+      ],
+      "image": "/torrades.webp"
+    },
+    "magdalenes-dametla": {
+      "title": "Magdalenas de Almendra",
+      "author": "Antonia \"la Carnicera\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "6 huevos",
+        "100 g almendra molida",
+        "6 tacitas (tamaño café) de aceite",
+        "6 tacitas de leche",
+        "6 tacitas de azúcar",
+        "4 sobres de gaseosa",
+        "1 limón rallado",
+        "300 g harina",
+        "un poco de canela"
+      ],
+      "instructions": [
+        "Separar la clara de las yemas y batir las claras al punto de nieve.",
+        "A continuación, añadir el azúcar, y batir sin perder el punto de nieve.",
+        "Finalmente añadir el resto de ingredientes y batir todo.",
+        "Cuando está bien batido rellenar los moldes de la magdalena."
+      ],
+      "image": "/magdalenes-dametla.webp"
+    },
+    "torro": {
+      "title": "Turrón",
+      "author": "ANTONIA \"CONCORIA\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "1 kg de azúcar",
+        "1 kg d'ametla sense pell",
+        "1 vaso de agua (que falten dos dits per a estar ple del tot)",
+        "2 yemas de huevo"
+      ],
+      "instructions": [
+        "Poner el agua y el azúcar en una cazuela al fuego sin dejar de remover. Retirar del fuego cuando el azúcar esté deshecho y al levantar la cuchara quede como un hilo.",
+        "Añadir las almendras molidas y remover. Debe quedar todo en remojo.",
+        "Volcar la anterior mezcla en un bol y añadir los dos yemas, mezclándolo todo bien.",
+        "Poner en una cajita de fusta papel de tonya y abocar la mescla dins, aplanant-la amb les mans perquè quedi ben premsada."
+      ],
+      "notes": "Aquesta recepta és per fer 4 caixetes de turró. Un cop gelat ya haurà quallat la mescla, per la qual cosa ja podem menjar-nos el nostre turró. Si veiem que la mescla de l'aigua i el sucre fa espuma, retirem un moment del foc i després ho tornem a posar.",
+      "image": "/torro.webp"
+    },
+    "ametlats": {
+      "title": "Almendrados",
+      "author": "ALEJANDRA",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "10m",
+      "category": "sweets",
+      "ingredients": [
+        "½ kg de ametla molta amb pell",
+        "Canela en rama molida",
+        "½ kg de azúcar",
+        "3 ous grans (o 4 mitjans)",
+        "La ralladura de medio limón"
+      ],
+      "instructions": [
+        "Poner los huevos en un bol y batir con el azúcar.",
+        "Añadir la almendra molida, la ralladura del limón y la canela y amasar.",
+        "Preparar una bandeja de horno con papel de horno y sobre ella dejar los almendrados preparados.",
+        "Cada almendrado se hace cogiendo con tres dedos un pellizco de la masa. Cuando más feos mejor.",
+        "El horno lo tenemos que precalentar a 180 °C. Cocer a esa temperatura hasta que los veamos que empiezan a estar doraditos que los tendremos que sacar."
+      ],
+      "notes": "También se pueden hacer con almendra sin piel.",
+      "image": "/ametlats.webp"
+    },
+    "saginoses": {
+      "title": "Mantecados",
+      "author": "L'SKANDOL",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "45m",
+      "cookingTime": "10-15m",
+      "category": "sweets",
+      "ingredients": [
+        "400 g de manteca",
+        "400 g de azúcar",
+        "3 yemas",
+        "1 clara de huevo",
+        "300 g de harina",
+        "200 g de almendra",
+        "canela",
+        "1 limón rallado"
+      ],
+      "instructions": [
+        "En primer lugar deshacer la manteca.",
+        "Una vez deshecha la manteca, añadir el azúcar y las yemas, y remover. Si se quiere añadir un poco de limón rallado y canela.",
+        "Añadir la harina y la almendra. Amasar intentando lograr un nivel de consistencia óptimo. La pasta no debe quedar ni muy dura ni muy blanda.",
+        "Una vez bien amasado, coger una bola de masa, aplanar y con los moldes hacer figuras, se recomienda para que sea más divertido que sean de formas diversas.",
+        "Posteriormente, con una brocha de cocina pasar con clara de huevo, y luego espolvorear con azúcar y canela encima del mantecado.",
+        "Por último, dejar entre 10-15 minutos en el horno precalentado a 180°C"
+      ],
+      "notes": "En la elaboración de los mantecados la almendra no es un ingrediente imprescindible. Pero sí que es muy recomendable para mejorar la calidad y el sabor de este dulce navideño.",
+      "image": "/saginoses.webp"
+    },
+    "fabiola": {
+      "title": "Fabiola",
+      "author": "LES FORTETES",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "25m",
+      "category": "sweets",
+      "ingredients": [
+        "120 g coco (60g para la masa y 60g para decorar)",
+        "6 huevos",
+        "1 limón",
+        "¼ kilo de harina",
+        "¼ kilo de azúcar",
+        "1 sobre y ½ de levadura Royal",
+        "Ingredientes para el jarabe:",
+        "½kg de azúcar",
+        "2 vasos de agua",
+        "1 vaso (de los de café) de ron blanco"
+      ],
+      "instructions": [
+        "Separar las claras de las yemas. Batir las claras a punto de nieve. Añadir el azúcar poco a poco sin dejar de batir.",
+        "A continuación añadir las yemas y la ralladura de limón. Remover con un cucharón e ir vertiendo poco a poco la harina en la que habremos mezclado el coco y la levadura Royal.",
+        "Untar el molde de la Fabiola con mantequilla -para que no se pegue- y verter la masa anterior dentro. Debe quedar a ¾ de su capacidad. Cocer en el horno a unos 170-180°C unos 20 minutos.",
+        "Preparar un jarabe para emborrachar la masa poniendo una cazuela al fuego con los 2 vasos de agua, el azúcar y el ron sin dejar de remover hasta conseguir un almíbar. (Aproximadamente tendremos el cazo al fuego el mismo tiempo que está la Fabiola en el horno)",
+        "Sacar la Fabiola del horno y echar poco a poco el jarabe por encima para emborracharla. Volver a poner unos 5 minutos en el horno.",
+        "Decorar por encima con coco y esperar a que se enfríe."
+      ],
+      "notes": "Es ideal para acompañar el café.",
+      "image": "/fabiola.webp"
+    },
+    "tonyes": {
+      "title": "Toñas",
+      "author": "ROSA \"EL CASINO\"",
+      "difficulty": "hard",
+      "servings": 4,
+      "preparationTime": "3-4h",
+      "cookingTime": "15m",
+      "category": "sweets",
+      "ingredients": [
+        "1Kg de Harina de Fuerza",
+        "400 g de azúcar",
+        "¼ de litro de aceite de girasol",
+        "4 huevos",
+        "140 g de levadura",
+        "1 limón rallado",
+        "¼ de litro de leche",
+        "½ vaso de agua para deshacer la levadura"
+      ],
+      "instructions": [
+        "Poner la harina en un recipiente grande. Añadir los huevos.",
+        "Deshacer la levadura con el ½ vaso de agua templada.",
+        "Deshacer el azúcar con la leche.",
+        "Mezclar todos los ingredientes y amasar echando el aceite poco a poco.",
+        "Una vez amasado se cubre el recipiente con una tela para darle calor. Meter el recipiente tapado al lado de una fuente de calor (bolsa de caliente, chimenea..) durante dos horas y media aproximadamente. La masa deberá aumentar el doble de su tamaño inicial.",
+        "Pasado este tiempo hacer pequeñas bolas de la masa poniéndolas sobre un papel de horno en una superficie plana. (Tabla de madera) Tapar y dejar reposar el tiempo suficiente para que la masa doble su tamaño.",
+        "Batir un huevo y añadir un poco de agua para rebajarlo. Pintar con esta mezcla la masa y poner azúcar por encima para decorar.",
+        "Meter al horno precalentado a unos 160°C aproximadamente unos 15 minutos hasta que veamos que están morenitas."
+      ],
+      "notes": "Es importante que la masa esté en un sitio resguardado y caliente. De la masa de la toña se pueden hacer rollitos. El procedimiento es el mismo que para las toñas, pero no se le pone ni huevo ni azúcar por encima.",
+      "image": "/tonyes.webp"
+    },
+    "rotllets-de-candial": {
+      "title": "Rollitos de Candeal",
+      "author": "LOLA \"EL BOLILLO\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "20-25m",
+      "category": "sweets",
+      "ingredients": [
+        "1 tacita de café de anís seco",
+        "1 tacita de agua",
+        "2 tacitas azúcar",
+        "2 tacitas aceite de oliva",
+        "900 g de harina de candeal",
+        "1 cucharadita -de las de café- de bicarbonato",
+        "el zumo de ½ limón escurrido"
+      ],
+      "instructions": [
+        "Poner en un cazo el agua, el azúcar y el aceite. Remover la mezcla con una cuchara hasta que esté el azúcar deshecho.",
+        "Retirar el cazo del fuego y añadir el anís.",
+        "Poner en un recipiente la harina, añadir la mezcla anterior junto con el bicarbonato y el zumo de medio limón.",
+        "Hacer con la masa rollitos e ir poniéndolos en una bandeja de horno. Una vez preparados poner al horno, precalentado a 180°C, unos 20-25 minutos."
+      ],
+      "notes": "Ideal para merendar. Es difícil de amasar. Los rollitos quedarán blancos por encima.",
+      "image": "/rotllets-de-candial.webp"
+    },
+    "pastissets-de-moniato": {
+      "title": "Pasteles de Boniato",
+      "author": "AMPARO \"L'OBRER\"",
+      "difficulty": "medium-hard",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "45m",
+      "category": "sweets",
+      "ingredients": [
+        "Para la masa:",
+        "1 vaso de aceite",
+        "1 vaso de azúcar",
+        "1 vaso de anís seco",
+        "125g de manteca de cerdo",
+        "2 huevos",
+        "1 kg de harina (aproximadamente)",
+        "(La medida es un vaso de los de agua)",
+        "Para el relleno:",
+        "1kg de boniatos (hervidos y pelados)",
+        "750 g de azúcar",
+        "Ralladura de un limón",
+        "Canela en polvo"
+      ],
+      "instructions": [
+        "Poner en una cazuela el boniato ya hervido junto con el azúcar. Mezclar a fuego lento durante aproximadamente una hora.",
+        "Cuando la mezcla ya esta fría añadir la ralladura de limón y un poco de canela y volver a mezclar bien. Reservar este dulce de boniato para el relleno.",
+        "La preparación de la masa de las empanadillas es la siguiente:",
+        "Poner en un cazo el aceite, el anís, la manteca de cerda y el azúcar. Cocinar a fuego lento hasta que el azúcar este deshecho completamente.",
+        "Colocar la harina en un bol y agregar el preparado anterior junto con los dos huevos y amasar.",
+        "Hacer pequeñas bolas de esta pasta y extender muy bien formando círculos. (Para ello nos podemos ayudar de una taza con una boca bastante ancha). Rellenar cada círculo con una cucharada de dulce de boniato y cerrarlo formando empanadillas.",
+        "Una vez hechas untar las empanadillas con huevo batido y hornear durante aproximadamente 45 minutos. (El horno previamente lo habremos precalentado a 170 °C)"
+      ],
+      "notes": "Aunque es recomendable preparar nosotros mismos el relleno, hay gente que opta por comprar el dulce de boniato ya hecho. Con esto se simplifica la receta.",
+      "image": "/pastissets-de-moniato.webp"
+    },
+    "melmelada-de-taronja": {
+      "title": "Mermelada de Naranja",
+      "author": "LIZ GREEN \"CASA ROC\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "3h",
+      "category": "sweets",
+      "ingredients": [
+        "4 kg de naranjas",
+        "El zumo y pepitas de 2 limones",
+        "3.4 litros de agua",
+        "2.7 kg de azúcar"
+      ],
+      "instructions": [
+        "Exprimir el zumo de las naranjas y de los limones.",
+        "Poner las pepitas de los limones en una bolsita de muselina y cerrar bien.",
+        "Cortar la piel de las naranjas en rodajas finas.",
+        "Poner el zumo, el agua, la bolsita de pepitas y las rodajas de naranja en una cazuela grande.",
+        "Dejar cocer a fuego lento durante 2 horas o hasta que el líquido esté reducido a la mitad.",
+        "Quitar la bolsita de pepitas y exprimir el líquido en la cazuela.",
+        "Añadir el azúcar y dejar cocer a fuego lento, removiendo hasta que todo el azúcar se haya disuelto.",
+        "Hervir a fuego fuerte durante 15 o 20 minutos.",
+        "Quitar la cazuela del fuego y esperar unos 15 minutos.",
+        "Ya por último, poner la mermelada en tarros de vidrio."
+      ],
+      "notes": "Se puede utilizar cualquier tipo de naranja pero saldrá mejor con las amargas. Se recomienda: Usar una cazuela grande, honda y de un metal fuerte. Calentar los tarros antes de añadir la mermelada.",
+      "image": "/melmelada-de-taronja.webp"
+    },
+    "orelletes": {
+      "title": "Orelletes",
+      "author": "LOLA \"LA PALMERA\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "1 huevo",
+        "Media cáscara de huevo de aceite",
+        "Media cáscara de huevo de paloma",
+        "Harina y aceite para freír"
+      ],
+      "instructions": [
+        "Mezclar el huevo, la medida de media cáscara de aceite y de paloma. Añadir la harina que admita -aproximadamente 150-200 g- y amasar bien para que quede una masa homogénea y fina.",
+        "Mientras, poner al fuego una sartén con abundante aceite.",
+        "Aplastar la masa anterior con un rodillo para que quede finita y de esta masa recortar cuadrados.",
+        "Cuando el aceite esté ya caliente, pellizcar cada cuadrado y dejar caer en el aceite para que tomen su forma característica.",
+        "Sacar sobre un plato preparado con papel para que absorba el exceso de aceite.",
+        "Servir en un plato con azúcar por encima."
+      ],
+      "image": "/orelletes.webp"
+    },
+    "mantegada": {
+      "title": "Mantecado",
+      "author": "LA INTERNACIONAL",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "4 huevos",
+        "250 g de azúcar",
+        "Canela en rama",
+        "1 litro de leche",
+        "La cáscara de un limón"
+      ],
+      "instructions": [
+        "Hervir un litro de leche con una piel de limón y un tubito de canela en rama. Colar y dejar enfriar.",
+        "Batir las 4 yemas de huevo, añadir el azúcar y batir. Añadir la leche que hemos preparado anteriormente y poner al fugo sin dejar de mover hasta que espese.",
+        "Dejar enfriar por completo y meter en el congelador.",
+        "Cada media hora sacar la mezcla del congelador y remover para que quede con una textura cremosa y consistencia de helado."
+      ],
+      "notes": "Se le pueden añadir 2 yemas más si nos agrada con más sabor de huevo y también un poco de vainilla.",
+      "image": "/mantegada.webp"
+    },
+    "brac-de-gitano": {
+      "title": "Brazo de Gitano",
+      "author": "MARIA BALDÓ BOU",
+      "difficulty": "easy-medium",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "15-20m",
+      "category": "sweets",
+      "ingredients": [
+        "Masa:",
+        "4 huevos",
+        "250 g de azúcar",
+        "50 g de almendra molina",
+        "200 g de harina o de flor de almidón",
+        "Relleno -Dulce de almendra-:",
+        "1 vaso de agua",
+        "300 g de almendra molida",
+        "200 g de azúcar",
+        "Una pizca de canela en polvo",
+        "La ralladura de un limón"
+      ],
+      "instructions": [
+        "Separar las claras de las yemas. Batir las claras hasta conseguir que estén al punto de nieve. A continuación añadir el azúcar poco a poco y seguir batiendo hasta formar un merengue.",
+        "Añadir al merengue las yemas y continuar batiendo.",
+        "Acto seguido añadir la harina o flor de almidón y, si se desea, la almendra removiendo hasta obtener una masa uniforme.",
+        "Verter la masa obtenida en un recipiente plano con papel de horno untado con un poco de mantequilla.",
+        "Precalentar el horno a 160° y poner la bandeja con la masa durante 15 o 20 minutos.",
+        "Mientras preparamos el dulce de almendra para ello:",
+        "Verter el vaso de agua, el azúcar, la ralladura de limón y la canela en una cacerola.",
+        "Poner a medio fuego hasta que el agua empiece a hervir.",
+        "Remover hasta que el azúcar se disuelva y volcar a continuación la almendra.",
+        "Ir removiendo durante un tiempo hasta que cueza.",
+        "Dejarlo enfriar un poco y ya está listo para ser utilizado como relleno para el brazo de gitano.",
+        "Preparar un paño espolvoreado de azúcar en el que se depositará la masa una vez horneada y esperar a que se enfríe unos minutos. Para depositar la masa sobre el paño tenemos que dar la vuelta al recipiente, dejando caer con cuidado su contenido sobre este. A continuación quitar poco a poco el papel de la masa.",
+        "Por último, enrollar la masa con delicadeza para evitar que esta se rompa, formar la espiral típica del brazo de gitano."
+      ],
+      "notes": "Si se desea se puede adornar el brazo de gitano con merengue, chocolate, un espolvoreado de canela, etc.",
+      "image": "/brac-de-gitano.webp"
+    },
+    "pitxeret": {
+      "title": "Pitxeret",
+      "author": "PEPA \"EL CASINO\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "Granizado de limón:",
+        "10 l de agua",
+        "2 kg de azúcar",
+        "3 kg de limones",
+        "1 pizca de canela",
+        "Caramelo:",
+        "200 g de azúcar",
+        "100 cm3 de agua",
+        "Café licor:",
+        "1 l de alcohol de 90°",
+        "6 l de agua",
+        "200 g de café molido"
+      ],
+      "instructions": [
+        "Granizado de limón:",
+        "Poner en un recipiente el agua. Rayar los limones en esta agua. Exprimir a continuación el zumo de los limones rayados.",
+        "Añadir el azúcar y la canela. Remover todo y dejar macerar.",
+        "Caramelo:",
+        "Preparar el caramelo: Quemar el azúcar y añadir, con cuidado, agua hasta obtener un jarabe.",
+        "Añadir el azúcar quemado al preparado de los limones.",
+        "Colar y poner a granizar.",
+        "Café licor:",
+        "Macerar durante 10 o 12 días todos los ingredientes del café licor.",
+        "Pasado este tiempo, filtrar con un colador de tela.",
+        "Jarra:",
+        "Mezclar 1/3 de café licor con 2/3 de granizado de limón."
+      ],
+      "image": "/pitxeret.webp"
     }
   }
 }
