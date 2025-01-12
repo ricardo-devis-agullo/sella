@@ -26,7 +26,7 @@
     "title": "Categoría {category}"
   },
   "recipes": {
-    "croquetes-bacalla": {
+    "croquetes": {
       "title": "Croquetas",
       "author": "Rosa 'la de Fermín'",
       "difficulty": "easy",
@@ -49,8 +49,7 @@
         "Con la ayuda de dos cucharas hacemos las croquetas.",
         "Se pasan por pan rallado y se fríen con aceite abundante muy caliente"
       ],
-      "notes": "Es recomendable usar una freidora para freírlas",
-      "image": "/croquetes.webp"
+      "notes": "Es recomendable usar una freidora para freírlas"
     },
     "espencat": {
       "title": "Espencat",
@@ -75,8 +74,7 @@
         "Una vez asados quitar la piel de los pimientos. Hacer tiras con las verduras y ponerlas en un plato.",
         "Opcionalmente, se puede añadir al plato el bacalao desmenuzado. Por último se pone la sal y el aceite al gusto."
       ],
-      "notes": "Se le puede añadir también alcaparra al espencat",
-      "image": "/espencat.webp"
+      "notes": "Se le puede añadir también alcaparra al espencat"
     },
     "sang-amb-ceba": {
       "title": "Sangre con Cebolla",
@@ -97,8 +95,7 @@
         "Cuando ya está cocida la sangre añadir el orégano al gusto.",
         "Se apaga el fuego... y ya se puede servir."
       ],
-      "notes": "Se aconseja hervir unos 5 minutos la sangre para que no esté muy dura. Es importante que ni la cebolla ni la sangre se doren excesivamente al sofreírlos, ya que si se quema perderá el sabor característico.",
-      "image": "/sang-amb-ceba.webp"
+      "notes": "Se aconseja hervir unos 5 minutos la sangre para que no esté muy dura. Es importante que ni la cebolla ni la sangre se doren excesivamente al sofreírlos, ya que si se quema perderá el sabor característico."
     },
     "faves": {
       "title": "Habas",
@@ -121,8 +118,7 @@
         "Poner las habas a remojo en agua durante dos días.",
         "En una olla con agua se pone un poco de aceite, las habas, el jamón, el chorizo, unos granos de pimienta, la guindilla y una pizca de sal."
       ],
-      "notes": "Se puede añadir laurel al gusto, o hacerlas solo con jamón o solo con chorizo picante.",
-      "image": "/faves.webp"
+      "notes": "Se puede añadir laurel al gusto, o hacerlas solo con jamón o solo con chorizo picante."
     },
     "coca-a-la-paleta": {
       "title": "Coca a la Paleta",
@@ -154,8 +150,7 @@
         "A la masa alisada, añadir el relleno preparado y la melva desmigada. Cerrarla formando una media luna y a continuación ponerla sobre la plancha bien caliente para que se cueza.",
         "Cada comensal puede añadir aceite si lo desea."
       ],
-      "notes": "Se puede sustituir la melva por jamón york para los más pequeños. Se pueden preparar \"prenyaets\" usando la misma masa. Después de alisarla se pone una longaniza o cualquier otro embutido y se enrolla con la masa. Se acaba la preparación dándole una vuelta a la sartén. Otra variante con la misma masa son las \"Tortitas Escaldadas\". La masa alisada se fríe. Una vez frita se le pone azúcar y canela ... ¡RIQUÍSIMAS!",
-      "image": "/coca-a-la-paleta.webp"
+      "notes": "Se puede sustituir la melva por jamón york para los más pequeños. Se pueden preparar \"prenyaets\" usando la misma masa. Después de alisarla se pone una longaniza o cualquier otro embutido y se enrolla con la masa. Se acaba la preparación dándole una vuelta a la sartén. Otra variante con la misma masa son las \"Tortitas Escaldadas\". La masa alisada se fríe. Una vez frita se le pone azúcar y canela ... ¡RIQUÍSIMAS!"
     },
     "coca-de-ceba-i-tonyina": {
       "title": "Coca de Cebolla y Atún",
@@ -188,8 +183,7 @@
         "La otra mitad de la masa alisarla con un rodillo de cocina. Debe quedar muy fina. Esta masa fina será la tapa de la coca y debe cubrir por completo el sofrito.",
         "Pintar la parte superior con huevo batido y poner al horno unos 30 minutos a 180°C"
       ],
-      "notes": "Para poner la masa aplanada sobre el relleno, se aconseja ponerla encima de un papel film cortado. Coger el papel film y extenderlo sobre el relleno.",
-      "image": "/coca-de-ceba-i-tonyina.webp"
+      "notes": "Para poner la masa aplanada sobre el relleno, se aconseja ponerla encima de un papel film cortado. Coger el papel film y extenderlo sobre el relleno."
     },
     "coca-de-pebrera-i-tomaca": {
       "title": "Coca de Pimiento y Tomate",
@@ -217,8 +211,7 @@
         "Para preparar el relleno sofreír el pimiento y el tomate.",
         "Poner sobre la masa el sofrito anterior y el embutido o salazón que se desee. Ponerla al horno.",
         "Calentar el horno unos 20 minutos a 200°C. Poner la bandeja con la masa en el horno unos 30 minutos a 180°C."
-      ],
-      "image": "/coca-de-pebrera-i-tomaca.webp"
+      ]
     },
     "coca-de-molletes": {
       "title": "Coca de Molletes",
@@ -245,8 +238,7 @@
         "A continuación extender la masa en una bandeja y poner encima los molletes.",
         "Para hacer los molletes poner la harina, el aceite y la sal en un bol. Remover todo el conjunto hasta ver que la pasta queda suelta.",
         "Poner la bandeja en el horno unos 30 minutos a 180°C. Calentar el horno previamente unos 20 minutos."
-      ],
-      "image": "/coca-de-molletes.webp"
+      ]
     },
     "coquetes-escaldades-empanadetes": {
       "title": "Tortas Escaldadas / Empanadillas",
@@ -272,8 +264,7 @@
         "Si se quiere hacer empanadillas amasar también la masa dándole forma redonda. Poner en el centro una cucharada de la verdura preparada y darle la vuelta para cerrar la empanadilla.",
         "Calentar el horno a unos 200°C durante 20 minutos y cuando está listo poner la bandeja unos 20 o 30 minutos a 200°C."
       ],
-      "notes": "Para darle la vuelta a la masa de las empanadillas, se aplana la masa sobre un film transparente de cocina y solo habrá que doblar el film.",
-      "image": "/coquetes-escaldades-empanadetes.webp"
+      "notes": "Para darle la vuelta a la masa de las empanadillas, se aplana la masa sobre un film transparente de cocina y solo habrá que doblar el film."
     },
     "minxos-coques-de-panis": {
       "title": "Minxos o Tortas de Maíz",
@@ -295,8 +286,7 @@
         "A continuación se hacen las tortas redondas con bordes.",
         "Y antes de introducirlas en el horno se les pone aceite y harina por encima."
       ],
-      "notes": "Se dejan enfriar las tortas y listas para comer",
-      "image": "/minxos-coques-de-panis.webp"
+      "notes": "Se dejan enfriar las tortas y listas para comer"
     },
     "borra": {
       "title": "Borra",
@@ -325,8 +315,7 @@
         "El tiempo de cocción es de 30 minutos aproximadamente. Estará bien cocido cuando al pinchar la patata esté blanda.",
         "Minutos antes de servir el plato añadir los 4 huevos a la parte superior del conjunto, para que se queden escalfados."
       ],
-      "notes": "Se aconseja poner en remojo 24 horas antes la melva y el bacalao, para evitar que esté todo muy salado. El tomate seco se deberá desalar también 24 horas antes.",
-      "image": "/borra.webp"
+      "notes": "Se aconseja poner en remojo 24 horas antes la melva y el bacalao, para evitar que esté todo muy salado. El tomate seco se deberá desalar también 24 horas antes."
     },
     "guisat-de-parva": {
       "title": "Guisado de Parva",
@@ -353,8 +342,7 @@
         "Poner en una olla el sofrito de cebolla y tomate, las patatas, el conejo y las judías. Cubrir con agua por completo las patatas y dejarlo al fuego para que se cueza a fuego lento.",
         "Picar un par de almendras fritas, pan frito y ajo en un mortero. Verter el picado en la olla cuando el conjunto anterior ya haya hervido."
       ],
-      "notes": "Se puede añadir también otro tipo de carne como el cabrito",
-      "image": "/guisat-de-parva.webp"
+      "notes": "Se puede añadir también otro tipo de carne como el cabrito"
     },
     "guisat-de-carabassa": {
       "title": "Guisado de Calabaza",
@@ -379,8 +367,7 @@
         "A continuación, con el aceite anterior y en la olla, sofreír la cebolla. Cuando esté bien hecha, añadir la patata cortada en trozos y la calabaza -con piel- también en trozos. Tanto la patata como la calabaza no es necesario que estén mucho tiempo, es suficiente con darle una vuelta para mezclarlo y sofreírlo un poco.",
         "Añadir 2 dientes de ajo que estén asados a esta mezcla. Cubrirlo todo con agua y ponerlo a fuego lento. Al empezar a hervir, añadir el azafrán, el bacalao y el picado. Durante la cocción rectificar de sal, ya que al llevar bacalao tal vez no necesitemos añadir mucha sal."
       ],
-      "notes": "Este plato se acompaña con alioli",
-      "image": "/guisat-de-carabassa.webp"
+      "notes": "Este plato se acompaña con alioli"
     },
     "pericana": {
       "title": "Pericana",
@@ -404,8 +391,7 @@
         "Añadir buena cantidad de aceite de oliva y para finalizar, escaldar la mezcla con agua hirviendo.",
         "Ahora... a servir, ya que se debe comer caliente. ¡Listo para mojar pan!"
       ],
-      "notes": "Se puede sustituir el bacalao por capellanes. Aunque también hay gente que los combina. Hay muchas variantes de este plato y en algunos casos recibe el nombre de \"Picant\".",
-      "image": "/pericana.webp"
+      "notes": "Se puede sustituir el bacalao por capellanes. Aunque también hay gente que los combina. Hay muchas variantes de este plato y en algunos casos recibe el nombre de \"Picant\"."
     },
     "farinetes": {
       "title": "Farinetes",
@@ -432,8 +418,7 @@
         "Pasar el caldo por un colador. De este caldo coger un litro para hacer las farinetes, el resto guardarlo para añadir más tarde si hace falta.",
         "Poner el caldo tibio en una cazuela de barro con el sofrito preparado. Poner a fuego lento y añadir poco a poco la harina sin dejar de remover. A partir de aquí ya es a gusto del cocinero. Se puede añadir más caldo del reservado si las \"farinetes\" quedan muy duras."
       ],
-      "notes": "Se puede hacer también con caldo de carne.",
-      "image": "/farinetes.webp"
+      "notes": "Se puede hacer también con caldo de carne."
     },
     "pebreres-en-oli": {
       "title": "Pimientos en Aceite",
@@ -455,8 +440,7 @@
         "Sacar los pimientos y la melva en un bol y cubrir por completo de aceite.",
         "Se puede comer ese mismo día o reservar para otro."
       ],
-      "notes": "Se puede añadir también una guindilla seca.",
-      "image": "/pebreres-en-oli.webp"
+      "notes": "Se puede añadir también una guindilla seca."
     },
     "talvina": {
       "title": "Talvina",
@@ -481,8 +465,7 @@
         "Añadir la harina poco a poco sin dejar de remover con una cuchara de madera. Poner un poco de sal. Cuatro o cinco minutos al fuego serán suficientes.",
         "Apagar el fuego cuando la mezcla se quede seca y la harina empiece a dorarse.",
         "Servir en el centro de un plato y poner los pimientos y la guindilla en los laterales."
-      ],
-      "image": "/talvina.webp"
+      ]
     },
     "arros-amb-bacallar-i-flor-i-col": {
       "title": "Arroz con Bacalao y Coliflor",
@@ -506,8 +489,7 @@
         "Sofreír los ajos, la coliflor y el bacalao en una sartén con un poco de aceite.",
         "Cuando esté sofrito, añadir el arroz, rehogar bien y añadir el agua caliente (o caldo de verduras) con un poco de azafrán. Poner el triple de agua que de arroz y probar de sal. Dejar cocer unos 10 minutos a fuego vivo. Apagar el fuego, tapar y dejar reposar 5 minutos más."
       ],
-      "notes": "Se aconseja poner el bacalao en remojo 24 horas antes, para evitar que esté demasiado salado. El arroz debe quedar un poco meloso, para que se aprecie mejor el sabor.",
-      "image": "/arros-amb-bacallar-i-flor-i-col.webp"
+      "notes": "Se aconseja poner el bacalao en remojo 24 horas antes, para evitar que esté demasiado salado. El arroz debe quedar un poco meloso, para que se aprecie mejor el sabor."
     },
     "arros-amb-fesols-i-penques": {
       "title": "Arroz con Alubias y Pencas",
@@ -541,8 +523,7 @@
         "Añadir el arroz, la morcilla y el blanquito.",
         "Servir cuando veamos que el arroz está cocido."
       ],
-      "notes": "Si el agua de las pencas está verde, añadiremos a la cazuela únicamente las pencas. En este tipo de arroz puede suprimirse el embutido y la carne, según el gusto de los comensales.",
-      "image": "/arros-amb-fesols-i-penques.webp"
+      "notes": "Si el agua de las pencas está verde, añadiremos a la cazuela únicamente las pencas. En este tipo de arroz puede suprimirse el embutido y la carne, según el gusto de los comensales."
     },
     "fassedures": {
       "title": "Fassedures",
@@ -579,8 +560,7 @@
         "Poner a hervir durante dos horas en una olla con agua todos los ingredientes de la olleta: las pencas, los nabos, la chirivía, el boniato, la patata, la pata y rabo del cerdo, el trozo de gallina, el blanquito, la sal, el azafrán, las habichuelas.",
         "Fassedura:",
         "Calentar un poco el aceite. Mezclar el aceite caliente con la harina de maíz y después añadir el pan a remojo bien escurrido, el tocino a trocitos, la longaniza blanca troceada, el perejil, la sal y el pimentón dulce. Amasar todos los ingredientes y moldear con la mano dándole forma redonda o un poco alargada. Añadir las fassedures a la olleta ya cocinada una hora antes de comer."
-      ],
-      "image": "/fassedures.webp"
+      ]
     },
     "bollitori-de-bacallar": {
       "title": "Bollitori de Bacalao",
@@ -606,8 +586,7 @@
         "Poner el bacalao por encima entre 15 o 20 minutos.",
         "Por último, colocar los huevos. Los huevos se pueden poner ya duros o bien escalfarlos, según el gusto de cada cocinero."
       ],
-      "notes": "El secreto de este plato es cocinarlo a fuego lento. Se acompaña con alioli.",
-      "image": "/bollitori-de-bacallar.webp"
+      "notes": "El secreto de este plato es cocinarlo a fuego lento. Se acompaña con alioli."
     },
     "putxero-amb-pilotes": {
       "title": "Puchero con Pelotas",
@@ -649,8 +628,7 @@
         "Poner a hervir la olla llena de agua, primero se ponen a hervir media hora los garbanzos que ya han estado a remojo la noche anterior, y después añadiremos el resto de ingredientes (nabo, chirivía, zanahoria, apio, puerros, blanquito, tocino, pollo, gallina, ternera y dejando las patatas para el final).",
         "Pelota:",
         "Mezclar todos los ingredientes de la pelota, amasar y darle forma redonda para añadir al puchero pasada una hora. Después, poner las pelotas y las patatas a hervir durante una hora más."
-      ],
-      "image": "/putxero-amb-pilotes.webp"
+      ]
     },
     "canuts-caldosos": {
       "title": "Canutos Caldosos",
@@ -679,8 +657,7 @@
         "Mientras, preparar en un mortero una picada de ajo y perejil y añadirlo a la olla.",
         "Cuando esté bien cocido, añadir los macarrones (un puñado por persona). Dejar cocer hasta que la pasta esté blanda."
       ],
-      "notes": "Hay personas que hacen este plato como si fuera \"arroz con alubias y pencas\", sustituyendo los macarrones por el arroz",
-      "image": "/canuts-caldosos.webp"
+      "notes": "Hay personas que hacen este plato como si fuera \"arroz con alubias y pencas\", sustituyendo los macarrones por el arroz"
     },
     "fesols-en-salsa": {
       "title": "Alubias en Salsa",
@@ -708,8 +685,7 @@
         "Mientras se hacen las alubias, sofreír con medio vasito de aceite una cebolla cortada en pedazos pequeños, una cucharada de harina y una cucharadita de pimentón. Es importante no dejar de remover para evitar que se pegue la harina.",
         "Poner este sofrito en la olla en la que tenemos las alubias cuando éstas estén bien cocidas. Probar de sal y rectificar al gusto. Dejar unos minutos al fuego. Este plato debe quedar espeso por tanto se debe tener cuidado de no dejar mucho tiempo para evitar que se quede muy seco o se peguen."
       ],
-      "notes": "Si vemos que el caldo se espesa mucho y no están cocidas las alubias, añadiremos más agua.",
-      "image": "/fesols-en-salsa.webp"
+      "notes": "Si vemos que el caldo se espesa mucho y no están cocidas las alubias, añadiremos más agua."
     },
     "miques": {
       "title": "Migas",
@@ -731,8 +707,7 @@
         "Hacer una fritanga -en una sartén o en una olla de barro- sofriendo en aceite el tomate rallado, la cebolla picada finita y sal.",
         "Cuando el sofrito esté listo añadir el pan sin dejar de remover hasta que veamos que las migas quedan sueltas y ligeramente doradas."
       ],
-      "notes": "Si se quiere se le puede añadir tocino y/o longanizas al sofrito para darle otro sabor. Existe una variante que se llama \"Migas de Pastor\". En este tipo de migas, cuando se está haciendo el sofrito se añade harina poco a poco, sin dejar de remover. Para evitar que se resequen se pone un poco de agua",
-      "image": "/miques.webp"
+      "notes": "Si se quiere se le puede añadir tocino y/o longanizas al sofrito para darle otro sabor. Existe una variante que se llama \"Migas de Pastor\". En este tipo de migas, cuando se está haciendo el sofrito se añade harina poco a poco, sin dejar de remover. Para evitar que se resequen se pone un poco de agua"
     },
     "sopa-dall": {
       "title": "Sopa de Ajo",
@@ -756,8 +731,7 @@
         "Añadir el ajo sofrito y cubrir el preparado con bastante agua. Añadir sal y azafrán.",
         "Cuando empiece a hervir el agua, echar los huevos que deben quedar escalfados."
       ],
-      "notes": "Es fácil y rápido de hacer",
-      "image": "/sopa-dall.webp"
+      "notes": "Es fácil y rápido de hacer"
     },
     "guisat-de-freixura": {
       "title": "Guisado de Asadura",
@@ -783,8 +757,7 @@
         "Añadir agua al sofrito. El agua debe cubrir unos dos o tres dedos de la mezcla anterior. Esperar a que hierva el agua para añadir las pencas tiernas cortadas a trocitos y una hoja de laurel.",
         "A continuación, añadir la patata a trocitos y un picado de almendra."
       ],
-      "notes": "Para que las pencas estén tiernas y para quitarle un poco su amargor, se le puede dar una hervida antes de añadirlas a la olla",
-      "image": "/guisat-de-freixura.webp"
+      "notes": "Para que las pencas estén tiernas y para quitarle un poco su amargor, se le puede dar una hervida antes de añadirlas a la olla"
     },
     "daus-de-porc-senglar": {
       "title": "Dados de Jabalí al Vino Tinto con Patatas Partidas",
@@ -814,8 +787,7 @@
         "Poner una cazuela al fuego con el aceite y se van echando los trozos de carne, debidamente salpimentados, de forma que se vayan rehogando. Cuando la carne esté bien rehogada, añadir los trozos de zanahorias, la cebolla y el laurel. Darle unas vueltas hasta que las verduras queden también rehogadas. Por último añadir el vino tinto. Cuando rompa a hervir y se haya evaporado el alcohol, bajar el fuego dejando a fuego lento y tapada, entre 1 hora y una hora y media, hasta que la carne esté tierna. Si durante este tiempo el caldo mengua, se puede añadir agua caliente.",
         "Una vez que la carne esté tierna, recuperar los trozos de carne, reservarlos en otra cazuela. El resto de ingredientes pasarlo por la batidora y colarlos con un colador chino, con el fin de conseguir una salsa limpia. Freír las patatas previamente cortadas a tacos grandes. Añadir las patatas a la cazuela en la que teníamos la carne, cubrir con la salsa y dejar cocer a fuego lento durante unos minutos hasta que las patatas queden tiernas."
       ],
-      "notes": "Como en cualquier receta de caza, es conveniente esperar unos días después de la muerte del animal, antes de cocinarla porque la carne pierda fuerza. Si la carne de caza la tenemos en el congelador, es preferible sacarla 24 horas antes de cocinarla y dejar que se descongele en la nevera.",
-      "image": "/daus-de-porc-senglar.webp"
+      "notes": "Como en cualquier receta de caza, es conveniente esperar unos días después de la muerte del animal, antes de cocinarla porque la carne pierda fuerza. Si la carne de caza la tenemos en el congelador, es preferible sacarla 24 horas antes de cocinarla y dejar que se descongele en la nevera."
     },
     "arros-amb-cigrons-tendres": {
       "title": "Arroz con Garbanzos Tiernos",
@@ -842,8 +814,7 @@
         "Añadir el agua y dejar una media hora al fuego.",
         "Pasado este tiempo agregar el arroz y dejar unos 15 minutos."
       ],
-      "notes": "Este arroz queda meloso. Si se tiene conejo de monte y se prepara al fuego de leña queda exquisito. Se le pueden añadir guisantes, para hacerlo, antes se les engaña para que saquen la pulpa y se sofríen con la carne.",
-      "image": "/arros-amb-cigrons-tendres.webp"
+      "notes": "Este arroz queda meloso. Si se tiene conejo de monte y se prepara al fuego de leña queda exquisito. Se le pueden añadir guisantes, para hacerlo, antes se les engaña para que saquen la pulpa y se sofríen con la carne."
     },
     "arros-amb-verdures-i-aladroc": {
       "title": "Arroz con Verduras y Boquerón",
@@ -872,8 +843,7 @@
         "Con este aceite, sofreír las verduras (habas, ajos tiernos, alcachofas, coliflor, espinacas) y reservarlas en un plato.",
         "Una vez fritas las verduras sofreír el tomate rallado y el arroz.",
         "Añadir a continuación las verduras reservadas, el azafrán y el agua hirviendo (doble cantidad de agua que de arroz). Pasados unos 5 o 10 minutos añadir el boquerón decorando la paella y dejar que se cueza el arroz."
-      ],
-      "image": "/arros-amb-verdures-i-aladroc.webp"
+      ]
     }
   }
 }

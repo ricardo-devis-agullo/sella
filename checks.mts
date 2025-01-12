@@ -1,5 +1,5 @@
 import type { Recipe } from "./src/data/recipes.ts";
-import { readFileSync } from "node:fs";
+import { readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 
 type Translations = Record<string, unknown> & {
@@ -13,6 +13,7 @@ const getTranslations = (locale: string): Translations => {
     )
   );
 };
+const publicFiles = readdirSync(path.join(process.cwd(), "public", "recipes"));
 
 const main = getTranslations("ca");
 const otherLanguages = {
@@ -25,6 +26,10 @@ function error(message: string): never {
 }
 
 for (const recipe of Object.keys(main.recipes)) {
+  if (!publicFiles.includes(`${recipe}.webp`)) {
+    error(`MISSING IMAGE! ${recipe}`);
+  }
+
   for (const language of Object.keys(otherLanguages)) {
     const other = otherLanguages[language];
 
@@ -64,9 +69,6 @@ for (const recipe of Object.keys(main.recipes)) {
         other.recipes[recipe].instructions.length
       ) {
         error(`INSTRUCTIONS MISMATCH! ${recipe} in ${language}`);
-      }
-      if (main.recipes[recipe].image !== other.recipes[recipe].image) {
-        error(`IMAGE MISMATCH! ${recipe} in ${language}`);
       }
     }
   }

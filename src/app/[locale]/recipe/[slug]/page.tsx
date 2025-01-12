@@ -47,7 +47,7 @@ export default async function Recipe({
           )}
         </div>
         <Image
-          src={t("image")}
+          src={`/recipes/${slug}.webp`}
           alt={t("title")}
           width={600}
           height={400}

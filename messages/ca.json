@@ -26,7 +26,7 @@
     "title": "Categoria {category}"
   },
   "recipes": {
-    "croquetes-bacalla": {
+    "croquetes": {
       "title": "Croquetes",
       "author": "Rosa 'la de Fermín'",
       "difficulty": "easy",
@@ -50,7 +50,7 @@
         "Es passen per pa rallat i es frigen amb oli abundant molt calent"
       ],
       "notes": "És recomanable usar una fregidora per fregir-les",
-      "image": "/croquetes.webp"
+      "image": "croquetes.webp"
     },
     "espencat": {
       "title": "Espencat",
@@ -76,7 +76,7 @@
         "Opcionalment, es pot afegir al plat el bacallar desfet. Per últim es posa la sal i l'oli al gust."
       ],
       "notes": "Se li pot afegir també capella a l'espencat",
-      "image": "/espencat.webp"
+      "image": "espencat.webp"
     },
     "sang-amb-ceba": {
       "title": "Sang amb Ceba",
@@ -97,8 +97,7 @@
         "Quan ja està cuita la sang afegir la orenga al gust.",
         "S'apaga el foc... i ja es pot servir."
       ],
-      "notes": "S'aconsella bullir uns 5 minuts la sang perquè no estiga molt dura. És important que ni la ceba ni la sang es dauren excessivament al sofregir-los, ja que si es crema perdrà el sabor característic.",
-      "image": "/sang-amb-ceba.webp"
+      "notes": "S'aconsella bullir uns 5 minuts la sang perquè no estiga molt dura. És important que ni la ceba ni la sang es dauren excessivament al sofregir-los, ja que si es crema perdrà el sabor característic."
     },
     "faves": {
       "title": "Faves",
@@ -121,8 +120,7 @@
         "Posar les faves a remull en aigua durant dos dies.",
         "En una olla amb aigua es posa un poc d'oli, les faves, el cuixot, el xoriç, uns grans de pebre, el vitet i un pessic de sal."
       ],
-      "notes": "Es pot afegir llorer al gust, o fer-les sols amb cuixot o sols amb xoriç coent.",
-      "image": "/faves.webp"
+      "notes": "Es pot afegir llorer al gust, o fer-les sols amb cuixot o sols amb xoriç coent."
     },
     "coca-a-la-paleta": {
       "title": "Coca a la Paleta",
@@ -154,8 +152,7 @@
         "A la massa allisada, afegir el farcit preparat i la melva esmollada. Tancar-la formant una mitja lluna i a continuació posar-la sobre la planxa ben calenta perquè es coca.",
         "Cada comensal pot afegir oli si ho desitja."
       ],
-      "notes": "Es pot substituir la melva per pernil dolç per als més xicotets. Es poden preparar \"prenyaets\" usant la mateixa pasta. Després d'allisar-la se posa una llonganissa o qualsevol altre embotit i s'enrotlla amb la pasta. S'acaba la preparació donant-li una volta a la paella. Una altra variant amb la mateixa massa són les \"Tortetes Escaldades\". La massa allisada es frig. Una volta fregida se li posa sucre i canella ... RIQUÍSSIMES!!",
-      "image": "/coca-a-la-paleta.webp"
+      "notes": "Es pot substituir la melva per pernil dolç per als més xicotets. Es poden preparar \"prenyaets\" usant la mateixa pasta. Després d'allisar-la se posa una llonganissa o qualsevol altre embotit i s'enrotlla amb la pasta. S'acaba la preparació donant-li una volta a la paella. Una altra variant amb la mateixa massa són les \"Tortetes Escaldades\". La massa allisada es frig. Una volta fregida se li posa sucre i canella ... RIQUÍSSIMES!!"
     },
     "coca-de-ceba-i-tonyina": {
       "title": "Coca de Ceba i Tonyina",
@@ -188,8 +185,7 @@
         "L'altra meitat de la massa allisar-la amb un corró de cuina. Ha de quedar molt fina. Aquesta massa fina serà la tapa de la coca i ha de cobrir per complet el sofregit.",
         "Pintar la part superior amb ou batut i posar al forn uns 30 minuts a 180°C"
       ],
-      "notes": "Per posar la massa aplanada sobre el farcit, s'aconsella posar-la damunt d'un paper film tallat. Agafar el paper film i estendre'l sobre el farcit.",
-      "image": "/coca-de-ceba-i-tonyina.webp"
+      "notes": "Per posar la massa aplanada sobre el farcit, s'aconsella posar-la damunt d'un paper film tallat. Agafar el paper film i estendre'l sobre el farcit."
     },
     "coca-de-pebrera-i-tomaca": {
       "title": "Coca de Pebrera i Tomaca",
@@ -217,8 +213,7 @@
         "Per a preparar el farcit sofregir la pebrera i la tomaca.",
         "Posar sobre la massa el sofregit anterior i l'embotit o salat que es vulga. Posar-la al forn.",
         "Calfar el forn uns 20 minuts a 200°C. Posar la safata amb la massa en el forn uns 30 minuts a 180°C."
-      ],
-      "image": "/coca-de-pebrera-i-tomaca.webp"
+      ]
     },
     "coca-de-molletes": {
       "title": "Coca de Molletes",
@@ -245,8 +240,7 @@
         "A continuació estendre la massa en una safata i posar damunt les molletes.",
         "Per a fer les molletes posar la farina, l'oli i la sal en un bol. Remenar tot el conjunt fins vorer que la pasta queda solta.",
         "Posar la safata al forn uns 30 minuts a 180°C. Calfar el forn prèviament uns 20 minuts."
-      ],
-      "image": "/coca-de-molletes.webp"
+      ]
     },
     "coquetes-escaldades-empanadetes": {
       "title": "Coquetes Escaldades / Empanadetes",
@@ -272,8 +266,7 @@
         "Si es vol fer empanadetes amassar també la massa donant-li forma redona. Posar en el centre una cullerada de la verdura preparada i donar-li la volta per tancar l'empanadeta.",
         "Calfar el forn a uns 200°C durant 20 minuts i quan està llest posar la safata uns 20 o 30 minuts a 200°C."
       ],
-      "notes": "Per a donar-li la volta a la massa de las empanadetes, s'aplana la massa sobre un film transparent de cuina i sols s'haurà de doblar el film.",
-      "image": "/coquetes-escaldades-empanadetes.webp"
+      "notes": "Per a donar-li la volta a la massa de las empanadetes, s'aplana la massa sobre un film transparent de cuina i sols s'haurà de doblar el film."
     },
     "minxos-coques-de-panis": {
       "title": "Minxos ó Coques de Panís",
@@ -295,8 +288,7 @@
         "A continuació es fa les coques rodones amb vores.",
         "I abans d'introduir-les al forn se'ls posa oli i farina per damunt."
       ],
-      "notes": "Es deixen gelar les coques i llestes per menjar",
-      "image": "/minxos-coques-de-panis.webp"
+      "notes": "Es deixen gelar les coques i llestes per menjar"
     },
     "borra": {
       "title": "Borra",
@@ -325,8 +317,7 @@
         "El temps de cocció és de 30 minuts aproximadament. Estarà ben cuit quan al punxar la creïlla estiga tova.",
         "Minuts abans de servir el plat afegir els 4 ous a la part superior del conjunt, per què es queden escaltats."
       ],
-      "notes": "S'aconsella que es posen a remull 24 hores abans la melva i el bacallar, per evitar que estiga tot molt salat. La tomaca seca s'haurà de dessalar també 24 hores abans.",
-      "image": "/borra.webp"
+      "notes": "S'aconsella que es posen a remull 24 hores abans la melva i el bacallar, per evitar que estiga tot molt salat. La tomaca seca s'haurà de dessalar també 24 hores abans."
     },
     "guisat-de-parva": {
       "title": "Guisat de Parva",
@@ -353,8 +344,7 @@
         "Posar en una olla el sofregit de ceba i tomaca, les creïlles, el conill i les bajoquetes. Cobrir amb aigua per complet les creïlles i deixar-lo al foc perquè es coga a foc lent.",
         "Picar un parell d'ametles fregides, pa fregit i all en un morter. Abocar el picat en l'olla quan el conjunt anterior ja haja bullit."
       ],
-      "notes": "Es pot afegir també un altre tipus de carn com el cabrit",
-      "image": "/guisat-de-parva.webp"
+      "notes": "Es pot afegir també un altre tipus de carn com el cabrit"
     },
     "guisat-de-carabassa": {
       "title": "Guisat de Carabassa",
@@ -379,8 +369,7 @@
         "A continuació, amb l'oli anterior i en l'olla, sofregir la ceba. Quan estiga ben feta, afegir la creïlla tallada en trossos i la carabassa -amb pell- també en trossos. Tant la creïlla com la carabassa no és necessari que estiguen molt de temps, és suficient amb donar-li una volta per a mesclar-ho i sofregir-ho un poc.",
         "Afegir 2 grans d'all que estiguen rostits a aquesta mescla. Cobrir-ho tot amb aigua i posar-ho a foc lent. En començar a bullir, afegir el safrà, el bacallar i el picat. Durant la cocció rectificar de sal, ja que al portar bacallar tal volta no necessitem afegir molta sal."
       ],
-      "notes": "Aquest plat s'acompanya amb allioli",
-      "image": "/guisat-de-carabassa.webp"
+      "notes": "Aquest plat s'acompanya amb allioli"
     },
     "pericana": {
       "title": "Pericana",
@@ -404,8 +393,7 @@
         "Afegir bona quantitat d'oli d'oliva i per a finalitzar, escaldar la mescla amb aigua bullint.",
         "Ara... a escudellar, ja que s'ha de menjar calent. Llest per a mullar pa!"
       ],
-      "notes": "Es pot substituir el bacallar per capellans. Encara que també hi ha gent que els combina. Hi ha moltes variants d'aquest plat i en alguns casos rep el nom de \"Picant\".",
-      "image": "/pericana.webp"
+      "notes": "Es pot substituir el bacallar per capellans. Encara que també hi ha gent que els combina. Hi ha moltes variants d'aquest plat i en alguns casos rep el nom de \"Picant\"."
     },
     "farinetes": {
       "title": "Farinetes",
@@ -432,8 +420,7 @@
         "Passar el caldo per un colador. D'aquest caldo agafar un litre per fer les farinetes, la resta guardar-la per afegir més tard si cal.",
         "Posar el caldo tebi en una cassola d'obra amb el sofregit preparat. Posar a foc lent i afegir poc a poc la farina sense deixar de remenar. A partir d'ací ja és a gust del cuiner. Es pot afegir més caldo del reservat si les \"farinetes\" queden molt dures."
       ],
-      "notes": "Es pot fer també amb brou de carn.",
-      "image": "/farinetes.webp"
+      "notes": "Es pot fer també amb brou de carn."
     },
     "pebreres-en-oli": {
       "title": "Pebreres en Oli",
@@ -455,8 +442,7 @@
         "Traure les pebreres i la melva en un bol icovering per complet d'oli.",
         "Es pot menjar eixe mateix dia o reservar per a un altre."
       ],
-      "notes": "Es pot afegir també un vitet sec.",
-      "image": "/pebreres-en-oli.webp"
+      "notes": "Es pot afegir també un vitet sec."
     },
     "talvina": {
       "title": "Talvina",
@@ -481,8 +467,7 @@
         "Afegir la farina poc a poc sense deixar de remenar amb una cullera de fusta. Posar un poc de sal. Quatre o cinc minuts al foc seran suficients.",
         "Apagar el foc quan la mescla es quede seca i la farina comence a daurar-se.",
         "Servir al centre d'un plat i posar les pebreres i el vitet en els laterals."
-      ],
-      "image": "/talvina.webp"
+      ]
     },
     "arros-amb-bacallar-i-flor-i-col": {
       "title": "Arròs amb Bacallar i Flor-i-col",
@@ -506,8 +491,7 @@
         "Sofregir els alls, la flor-i-col i el bacallar en una paella amb un poc d'oli.",
         "Quan estiga sofregit, afegir l'arròs, ofegar bé i afegir l'aigua calenta (o caldo de verdures) amb un poc de safrà. Posar el triple d'aigua que d'arròs i provar de sal. Deixar coure uns 10 minuts a foc viu. Apagar el foc, tapar i deixar reposar 5 minuts més."
       ],
-      "notes": "S'aconsella que es pose el bacallar a remull 24 hores abans, per evitar que estiga massa salat. L'arròs ha de quedar un poc melós, perquè s'aprecie millor el sabor.",
-      "image": "/arros-amb-bacallar-i-flor-i-col.webp"
+      "notes": "S'aconsella que es pose el bacallar a remull 24 hores abans, per evitar que estiga massa salat. L'arròs ha de quedar un poc melós, perquè s'aprecie millor el sabor."
     },
     "arros-amb-fesols-i-penques": {
       "title": "Arròs amb Fesols i Penques",
@@ -541,8 +525,7 @@
         "Afegir l'arròs, la botifarra i el blanquet.",
         "Servir quan vegem que l'arròs està cuit."
       ],
-      "notes": "Si l'aigua de les penques està verda, afegirem a la cassola únicament les penques. En aquest tipus d'arròs pot suprimir-se l'embotit i la carn, segons el gust dels comensals.",
-      "image": "/arros-amb-fesols-i-penques.webp"
+      "notes": "Si l'aigua de les penques està verda, afegirem a la cassola únicament les penques. En aquest tipus d'arròs pot suprimir-se l'embotit i la carn, segons el gust dels comensals."
     },
     "fassedures": {
       "title": "Fassedures",
@@ -579,8 +562,7 @@
         "Posar a bullir durant dues hores en una olla amb aigua tots els ingredients de l'olleta: les penques, els naps, la xirivia, el moniato, la creïlla, la pota i cua del porc, el tros de gallina, el blanquet, la sal, el safrà, els fesols.",
         "Fassedura:",
         "Calfar un poc l'oli. Mesclar l'oli calent amb la farina de dacsa i després afegir el pa a remull ben escorregut, la cansalada a trossets, la llonganissa blanca trossejada, el julivert, la sal i el pebre roig dolç. Amassar tots els ingredients i modelar amb la mà donant-li forma redona o un poc allargada. Afegir les fassedures a l'olleta ja cuinada una hora abans de dinar."
-      ],
-      "image": "/fassedures.webp"
+      ]
     },
     "bollitori-de-bacallar": {
       "title": "Bollitori de Bacallar",
@@ -606,8 +588,7 @@
         "Posar el bacallar per damunt entre 15 o 20 minuts.",
         "Per últim, col·locar els ous. Els ous es poden posar ja durs o bé escalfar-los, segons el gust de cada cuiner."
       ],
-      "notes": "El secret d'aquest plat és cuinar-lo a foc lent. S'acompanya amb allioli.",
-      "image": "/bollitori-de-bacallar.webp"
+      "notes": "El secret d'aquest plat és cuinar-lo a foc lent. S'acompanya amb allioli."
     },
     "putxero-amb-pilotes": {
       "title": "Putxero amb Pilotes",
@@ -649,8 +630,7 @@
         "Posar a bullir l'olla plena d'aigua, primer es posen a bullir mitjana hora els cigrons que ja han estat a remull la nit anterior, i després afegirem la resta d'ingredients (nap, xirivia, carrota, api, porros, blanquet, cansalada, pollastre, gallina, vedella i deixant les creïlles per al final).",
         "Pilota:",
         "Mesclar tots els ingredients de la pilota, amassar i donar-li forma redona per afegir al putxero passada una hora. Després, posar les pilotes i les creïlles a bullir durant una hora més."
-      ],
-      "image": "/putxero-amb-pilotes.webp"
+      ]
     },
     "canuts-caldosos": {
       "title": "Canuts Caldosos",
@@ -679,8 +659,7 @@
         "Mentrestant, preparar en un morter un picat d'all i julivert i afegir-ho a l'olla.",
         "Quan estiga ben cuit, afegir els macarrons (un grapat per persona). Deixar coure fins que la pasta estiga tova."
       ],
-      "notes": "Hi ha persones que fan aquest plat com si fora \"arròs amb fesols i penques\", substituint els macarrons per l'arròs",
-      "image": "/canuts-caldosos.webp"
+      "notes": "Hi ha persones que fan aquest plat com si fora \"arròs amb fesols i penques\", substituint els macarrons per l'arròs"
     },
     "fesols-en-salsa": {
       "title": "Fesols en Salsa",
@@ -708,8 +687,7 @@
         "Mentre es fan els fesols, sofregir amb mig gotet d'oli una ceba tallada en trossos xicotets, una cullerada de farina i una culleradeta de pebre roig dolç. És important no deixar de remenar per evitar que s'enganxe la farina.",
         "Posar el sofregit en l'olla en què tenim els fesols quan aquests estiguen ben cuits. Provar de sal i rectificar al gust. Deixar uns minuts al foc. Aquest plat ha de quedar espés, per tant s'ha de tindre en compte no deixar molt de temps al foc per evitar que es quede molt sec."
       ],
-      "notes": "Si veiem que el caldo s'espesseix molt i no estan cuits els fesols, afegirem més aigua.",
-      "image": "/fesols-en-salsa.webp"
+      "notes": "Si veiem que el caldo s'espesseix molt i no estan cuits els fesols, afegirem més aigua."
     },
     "miques": {
       "title": "Miques",
@@ -731,8 +709,7 @@
         "Fer un sofregit -en una paella o en una olla de fang- amb la tomaca ratllada, la ceba picada fineta i la sal.",
         "Quan el sofregit estiga llest, afegir el pa sense deixar de remenar fins que vegem que les miques queden soltes i lleugerament daurades."
       ],
-      "notes": "Si es vol se li pot afegir cansalada i/o llonganisses al sofregit per a donar-li un altre sabor. Existeix una variant que s'anomena \"Miques de Pastor\". En aquest tipus de miques, quan s'està fent el sofregit s'afegeix farina poc a poc, sense deixar de remenar. Per a evitar que es ressequen es posa un poc d'aigua",
-      "image": "/miques.webp"
+      "notes": "Si es vol se li pot afegir cansalada i/o llonganisses al sofregit per a donar-li un altre sabor. Existeix una variant que s'anomena \"Miques de Pastor\". En aquest tipus de miques, quan s'està fent el sofregit s'afegeix farina poc a poc, sense deixar de remenar. Per a evitar que es ressequen es posa un poc d'aigua"
     },
     "sopa-dall": {
       "title": "Sopa d'All",
@@ -756,8 +733,7 @@
         "Afegir l'all sofregit icovering el preparat amb prou aigua. Afegir sal i safrà.",
         "Quan comence a bullir l'aigua, afegir els ous per escalfar-los."
       ],
-      "notes": "És fàcil i ràpid de fer",
-      "image": "/sopa-dall.webp"
+      "notes": "És fàcil i ràpid de fer"
     },
     "guisat-de-freixura": {
       "title": "Guisat de Freixura",
@@ -783,8 +759,7 @@
         "Afegir aigua al sofregit. L'aigua ha de cobrir dos o tres dits de la mescla anterior. Esperar a que bulla l'aigua per a afegir les penques tendres tallades a trossets i una fulla de llorer.",
         "A continuació, afegir la creïlla a trossets i un picat d'ametla."
       ],
-      "notes": "Perquè les penques estiguen toves i per a llevar-li un poc la seua amargor, se li pot donar una bullida abans d'afegir-les a l'olla",
-      "image": "/guisat-de-freixura.webp"
+      "notes": "Perquè les penques estiguen toves i per a llevar-li un poc la seua amargor, se li pot donar una bullida abans d'afegir-les a l'olla"
     },
     "daus-de-porc-senglar": {
       "title": "Daus de Porc Senglar al Vi Negre amb Creïlles Partides",
@@ -814,8 +789,7 @@
         "Posar una cassola al foc amb l'oli i afegir els trossos de carn, prèviament salpimentats, de manera que vagen ofegant-se. Quan la carn estiga ben ofegada, afegir els trossos de carrota, de ceba i el llorer. Donar-li unes voltes fins que les verdures queden també ofegades. Per últim, afegir el vi negre. Quan comence a bullir i s'evapore l'alcohol, deixar a foc lent i tapat, entre 1 hora i 1 hora i mitjana, fins que la carn estiga tova. Si durant aquest temps el caldo minva, afegir aigua calenta.",
         "Un cop que la carn estiga tendra, recuperar els trossos de carn i reservar-los en una altra cassola. Passar la resta d'ingredients per la batedora i colar-los amb un colador xinés, per a aconseguir una salsa neta. Fregir les creïlles prèviament tallades a trossos grans. Afegir-les a la cassola on tenim la carn, cobrir amb la salsa i deixar coure a foc lent durant uns minuts fins que les creïlles queden tendres."
       ],
-      "notes": "Com en qualsevol recepta de caça, és convenient esperar uns dies després de la mort de l'animal, abans de cuinar-la perquè la carn perda força. Si la carn de caça la tenim en el congelador, és preferible traure-la 24 hores abans de cuinar-la i deixar que es descongele en la nevera.",
-      "image": "/daus-de-porc-senglar.webp"
+      "notes": "Com en qualsevol recepta de caça, és convenient esperar uns dies després de la mort de l'animal, abans de cuinar-la perquè la carn perda força. Si la carn de caça la tenim en el congelador, és preferible traure-la 24 hores abans de cuinar-la i deixar que es descongele en la nevera."
     },
     "arros-amb-cigrons-tendres": {
       "title": "Arròs amb Cigrons Tendres",
@@ -842,8 +816,7 @@
         "Afegir l'aigua i deixar una mitjana hora al foc.",
         "Passat aquest temps, afegir l'arròs i deixar-ho 15 minuts aproximadament."
       ],
-      "notes": "Aquest arròs queda melós. Si es té conill de serra i es prepara al foc de llenya queda exquisit. Se li poden afegir guixonetes, per a fer-ho, abans se'ls enganya perquè traguen la molla i es sofregeixen amb la carn.",
-      "image": "/arros-amb-cigrons-tendres.webp"
+      "notes": "Aquest arròs queda melós. Si es té conill de serra i es prepara al foc de llenya queda exquisit. Se li poden afegir guixonetes, per a fer-ho, abans se'ls enganya perquè traguen la molla i es sofregeixen amb la carn."
     },
     "arros-amb-verdures-i-aladroc": {
       "title": "Arròs amb Verdures i Aladroc",
@@ -872,8 +845,7 @@
         "Amb el mateix oli, sofregir les verdures (faves, alls tendres, carxofes, flor-i-col, espinacs) i deixar-les en un plat.",
         "Un cop fregides les verdures sofregir la tomaca ratllada i l'arròs.",
         "Afegir a continuació les verdures reservades, el safrà i l'aigua bullint (doble quantitat d'aigua que d'arròs). Als 5 o 10 minuts afegir l'aladroc decorant la paella i deixar que s'acabe de coure l'arròs."
-      ],
-      "image": "/arros-amb-verdures-i-aladroc.webp"
+      ]
     }
   }
 }
