@@ -16,13 +16,23 @@ export type Recipe = {
   notes?: string;
   image: string;
 };
+let recipes: Record<string, Recipe> | undefined = undefined;
+
+function loadRecipes(): Record<string, Recipe> {
+  if (recipes) return recipes;
+
+  const loadedRecipes = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), "messages", "ca.json"), "utf-8")
+  ).recipes;
+  recipes = loadedRecipes;
+
+  return loadedRecipes;
+}
 
 export function getRecipesByCategory(
   category: Category
 ): Array<Recipe & { slug: string }> {
-  const recipes: Record<string, Recipe> = JSON.parse(
-    fs.readFileSync(path.join(process.cwd(), "messages", `ca.json`), "utf-8")
-  ).recipes;
+  const recipes = loadRecipes();
 
   return Object.entries(recipes)
     .filter(([_slug, recipe]) => recipe.category === category)
@@ -32,9 +42,7 @@ export function getRecipesByCategory(
 export function getRecipeBySlug(
   slug: string
 ): (Recipe & { slug: string }) | undefined {
-  const recipes: Record<string, Recipe> = JSON.parse(
-    fs.readFileSync(path.join(process.cwd(), "messages", `ca.json`), "utf-8")
-  ).recipes;
+  const recipes = loadRecipes();
 
   const recipe = recipes[slug];
   return recipe ? { slug, ...recipe } : undefined;
