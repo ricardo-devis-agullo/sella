@@ -1,0 +1,81 @@
+{
+  "Layout": {
+    "title": "Recetas de Sella"
+  },
+  "Recipe": {
+    "difficulty": {
+      "title": "Dificultad",
+      "easy": "Fácil",
+      "medium": "Media",
+      "hard": "Difícil"
+    },
+    "prepTime": "Tiempo de preparación",
+    "cookTime": "Tiempo de cocción",
+    "ingredients": "Ingredientes",
+    "instructions": "Preparación",
+    "notes": "Notas",
+    "version": "versión"
+  },
+  "Category": {
+    "category": "Categoría",
+    "starters": "Entrantes",
+    "main-courses": "Platos principales",
+    "sweets": "Postres",
+    "cocas": "Cocas",
+    "noRecipes": "No hay recetas en esta categoría.",
+    "title": "Categoría {category}"
+  },
+  "recipes": {
+    "croquetes-bacalla": {
+      "title": "Croquetas",
+      "author": "Rosa 'la de Fermín'",
+      "difficulty": "easy",
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "starters",
+      "ingredients": [
+        "1 bacalao grande",
+        "3 o 4 kg de patatas",
+        "½ kg de pan rallado",
+        "½ docena de huevos",
+        "perejil",
+        "azafrán",
+        "1 pastilla de Starlux"
+      ],
+      "instructions": [
+        "Poner a hervir en una cazuela las patatas peladas y encima de las patatas el bacalao sin desalar.",
+        "Cuando estén las patatas cocidas, quitar las espinas del bacalao y deshacerlo todo.",
+        "A la mezcla de patatas y bacalao añadir ½ kg de pan rallado, ½ docena de huevos, 1 pastilla de starlux, perejil picado y ajo cortado en trocitos pequeños y un poco de azafrán para darle color.",
+        "Con la ayuda de dos cucharas hacemos las croquetas.",
+        "Se pasan por pan rallado y se fríen con aceite abundante muy caliente"
+      ],
+      "notes": "Es recomendable usar una freidora para freírlas",
+      "image": "/croquetes.webp"
+    },
+    "espencat": {
+      "title": "Espencat",
+      "author": "I SABENTHO",
+      "difficulty": "easy",
+      "preparationTime": "15m",
+      "cookingTime": "60m",
+      "category": "starters",
+      "ingredients": [
+        "1 pimiento rojo",
+        "1 pimiento verde",
+        "1 cebolla",
+        "1 berenjena",
+        "1 tomate",
+        "150 g de bacalao",
+        "1 diente de ajo",
+        "aceite"
+      ],
+      "instructions": [
+        "Untar con aceite los pimientos, la cebolla, la berenjena y el tomate para asarlos –ya sea al horno o bien sobre una plancha-.",
+        "Una vez asados quitar la piel de los pimientos. Hacer tiras con las verduras y ponerlas en un plato.",
+        "Opcionalmente, se puede añadir al plato el bacalao desmenuzado. Por último se pone la sal y el aceite al gusto."
+      ],
+      "notes": "Se le puede añadir también alcaparra al espencat",
+      "image": "/espencat.webp"
+    }
+  }
+}

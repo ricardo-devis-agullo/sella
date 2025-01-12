@@ -1,0 +1,81 @@
+{
+  "Layout": {
+    "title": "Recetes de Sella"
+  },
+  "Recipe": {
+    "difficulty": {
+      "title": "Dificultat",
+      "easy": "Baixa",
+      "medium": "Mitjana",
+      "hard": "Alta"
+    },
+    "prepTime": "Temps de preparació",
+    "cookTime": "Temps de cocció",
+    "ingredients": "Ingredients",
+    "instructions": "Preparació",
+    "notes": "Notes",
+    "version": "versió"
+  },
+  "Category": {
+    "category": "Categoria",
+    "starters": "Punxaetes",
+    "main-courses": "Plats de Cullera",
+    "sweets": "Dolços",
+    "cocas": "Coques",
+    "noRecipes": "No hi ha receptes en aquesta categoria.",
+    "title": "Categoria {category}"
+  },
+  "recipes": {
+    "croquetes-bacalla": {
+      "title": "Croquetes",
+      "author": "Rosa 'la de Fermín'",
+      "difficulty": "easy",
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "starters",
+      "ingredients": [
+        "1 bacallar gran",
+        "3 o 4 kg de creïlles",
+        "½ kg de pa rallat",
+        "½ dotzena d'ous",
+        "julivert",
+        "safrà",
+        "1 pastilla d'Starlux"
+      ],
+      "instructions": [
+        "Posar a bullir en una cassola les creïlles pelades i damunt de les creïlles el bacallar sense dessalar.",
+        "Quan estiguen les creïlles cuites, llevar les espines del bacallar i desfer-ho tot.",
+        "A la mescla de creïlles i bacallar afegir ½ kg de pa rallat, ½ dotzena d'ous, 1 pastilla de starlux, julivert picat i all tallat en trossets xicolets i un poc de safrà per donar-li color.",
+        "Amb l'ajuda de dos culleres fem les croquetes.",
+        "Es passen per pa rallat i es frigen amb oli abundant molt calent"
+      ],
+      "notes": "És recomanable usar una fregidora per fregir-les",
+      "image": "/croquetes.webp"
+    },
+    "espencat": {
+      "title": "Espencat",
+      "author": "I SABENTHO",
+      "difficulty": "easy",
+      "preparationTime": "15m",
+      "cookingTime": "60m",
+      "category": "starters",
+      "ingredients": [
+        "1 pebrera roja",
+        "1 pebrera verda",
+        "1 ceba",
+        "1 albergina",
+        "1 tomaca",
+        "150 g de bacallar",
+        "1 gra d'all",
+        "oli"
+      ],
+      "instructions": [
+        "Untar en oli les pebreres, la ceba, l'albergina i la tomaca per torrar-los –ja siga al forn o be sobre una planxa-.",
+        "Una vegada torrades llevar la pell de les pebreres. Fer tires amb les verdures i posar-les en un plat.",
+        "Opcionalment, es pot afegir al plat el bacallar desfet. Per últim es posa la sal i l'oli al gust."
+      ],
+      "notes": "Se li pot afegir també capella a l'espencat",
+      "image": "/espencat.webp"
+    }
+  }
+}
