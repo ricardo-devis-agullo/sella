@@ -23,30 +23,30 @@ export default async function Layout({ children, locale }: LayoutProps) {
             <SearchBar recipes={recipes} locale={locale as string} />
           </div>
           <div>
-            <a href="/ca">
+            <Link href="/ca">
               <button
                 type="button"
                 className={`mr-2 ${locale === "ca" ? "font-bold" : ""}`}
               >
                 Valencià
               </button>
-            </a>
-            <a href="/es">
+            </Link>
+            <Link href="/es">
               <button
                 type="button"
                 className={`mr-2 ${locale === "es" ? "font-bold" : ""}`}
               >
                 Español
               </button>
-            </a>
-            <a href="/en">
+            </Link>
+            <Link href="/en">
               <button
                 type="button"
                 className={locale === "en" ? "font-bold" : ""}
               >
                 English
               </button>
-            </a>
+            </Link>
           </div>
         </div>
       </header>
