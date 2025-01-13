@@ -1,10 +1,10 @@
 import Image from "next/image";
 import Layout from "../../../components/layout";
-import { getRecipeBySlug } from "@/data/recipes";
+import { getRecipeBySlug, type Recipe } from "@/data/recipes";
 import { notFound } from "next/navigation";
 import { getTranslations, getMessages } from "next-intl/server";
 
-export default async function Recipe({
+export default async function RecipePage({
   params,
 }: {
   params: Promise<{ slug: string }>;
@@ -19,8 +19,9 @@ export default async function Recipe({
   const t = await getTranslations(`recipes.${slug}`);
   const tr = await getTranslations("Recipe");
   const messages = await getMessages();
-  const ingredients: string[] = (messages.recipes as any)[slug].ingredients;
-  const instructions: string[] = (messages.recipes as any)[slug].instructions;
+  const { ingredients, instructions } = (
+    messages.recipes as any as Record<string, Recipe>
+  )[slug];
 
   return (
     <Layout>
@@ -58,7 +59,6 @@ export default async function Recipe({
           <h2 className="text-2xl font-semibold mb-2">Ingredients</h2>
           <ul className="list-disc list-inside">
             {ingredients.map((ingredient, index) => (
-              // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
               <li key={`ingredient-${index}`}>{ingredient}</li>
             ))}
           </ul>
@@ -67,7 +67,6 @@ export default async function Recipe({
           <h2 className="text-2xl font-semibold mb-2">{tr("instructions")}</h2>
           <ol className="list-decimal list-inside">
             {instructions.map((step, index) => (
-              // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
               <li key={`step-${index}`} className="mb-2">
                 {step}
               </li>
