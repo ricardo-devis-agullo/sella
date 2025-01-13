@@ -2,14 +2,14 @@ import Image from "next/image";
 import { getRecipeBySlug, type Recipe } from "@/data/recipes";
 import { notFound } from "next/navigation";
 import { getTranslations, getMessages } from "next-intl/server";
-import LayoutServer from "@/app/components/layout-server";
+import Layout from "@/components/layout";
 
 export default async function RecipePage({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ slug: string; locale: string }>;
 }) {
-  const { slug } = await params;
+  const { slug, locale } = await params;
   const recipe = getRecipeBySlug(slug);
 
   if (!recipe) {
@@ -24,7 +24,7 @@ export default async function RecipePage({
   )[slug];
 
   return (
-    <LayoutServer>
+    <Layout locale={locale}>
       <article className="bg-white p-6 rounded-lg shadow-lg">
         <h1 className="text-3xl font-bold mb-4">
           {t("title")}
@@ -80,6 +80,6 @@ export default async function RecipePage({
           </section>
         )}
       </article>
-    </LayoutServer>
+    </Layout>
   );
 }
