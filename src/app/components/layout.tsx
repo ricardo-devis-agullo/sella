@@ -28,7 +28,7 @@ export default function Layout({ children }: LayoutProps) {
               onClick={() => changeLanguage("ca")}
               className={`mr-2 ${locale === "ca" ? "font-bold" : ""}`}
             >
-              Català
+              Valencià
             </button>
             <button
               type="button"
