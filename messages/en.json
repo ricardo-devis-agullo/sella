@@ -50,8 +50,7 @@
         "Add back the sautéed garlic and cover with enough water. Add salt and saffron.",
         "When the water starts to boil, add the eggs to poach them."
       ],
-      "notes": "It's quick and easy to make",
-      "image": "/sopa-dall.webp"
+      "notes": "It's quick and easy to make"
     },
     "guisat-de-freixura": {
       "title": "Lamb Offal Stew",
@@ -77,8 +76,7 @@
         "Add water to the sautéed mixture. The water should cover about two or three fingers above the previous mixture. Wait for the water to boil before adding the chard stalks cut into pieces and a bay leaf.",
         "Then add the diced potatoes and crushed almonds."
       ],
-      "notes": "For the chard stalks to be tender and to remove some of their bitterness, you can boil them before adding them to the pot",
-      "image": "/guisat-de-freixura.webp"
+      "notes": "For the chard stalks to be tender and to remove some of their bitterness, you can boil them before adding them to the pot"
     },
     "arros-amb-cigrons-tendres": {
       "title": "Rice with Tender Chickpeas",
@@ -105,8 +103,7 @@
         "Add water and leave for half an hour on the heat.",
         "After this time, add the rice and leave for approximately 15 minutes."
       ],
-      "notes": "This rice turns out creamy. If you have wild rabbit and prepare it over a wood fire, it becomes exquisite. You can add peas; to do this, first shell them and fry them with the meat.",
-      "image": "/arros-amb-cigrons-tendres.webp"
+      "notes": "This rice turns out creamy. If you have wild rabbit and prepare it over a wood fire, it becomes exquisite. You can add peas; to do this, first shell them and fry them with the meat."
     },
     "arros-amb-verdures-i-aladroc": {
       "title": "Rice with Vegetables and Anchovies",
@@ -135,8 +132,7 @@
         "Using the same oil, fry the vegetables (broad beans, spring garlic, artichokes, cauliflower, spinach) and set them aside on a plate.",
         "Once the vegetables are fried, fry the grated tomato and rice.",
         "Then add the reserved vegetables, saffron, and boiling water (twice the amount of water as rice). After 5 or 10 minutes, add the anchovies decorating the paella and let the rice finish cooking."
-      ],
-      "image": "/arros-amb-verdures-i-aladroc.webp"
+      ]
     },
     "bunyols-de-carabassa": {
       "title": "Pumpkin Fritters",
@@ -161,8 +157,7 @@
         "While the dough rests, put a deep pan with oil on the heat. When the oil is hot, submerge the fritter mold.",
         "When we have the dough ready and the oil hot, start frying the fritters."
       ],
-      "notes": "After kneading the mixture, we add a little flour on top. When we see that the flour has sunk, we'll know that the dough is ready to start making the fritters.",
-      "image": "/bunyols-de-carabassa.webp"
+      "notes": "After kneading the mixture, we add a little flour on top. When we see that the flour has sunk, we'll know that the dough is ready to start making the fritters."
     },
     "coca-dametla": {
       "title": "Almond Sweet Bread",
@@ -192,8 +187,7 @@
         "Prepare a mold with non-stick paper and pour in the mixture, spreading it well so it's uniform.",
         "Put the mold in the oven for approximately one hour, watching that it doesn't burn."
       ],
-      "notes": "It's important not to touch the cake while it's in the oven, as it will sink if you do.",
-      "image": "/coca-dametla.webp"
+      "notes": "It's important not to touch the cake while it's in the oven, as it will sink if you do."
     },
     "magdalenes-dametla": {
       "title": "Almond Muffins",
@@ -219,8 +213,7 @@
         "Next, add the sugar, and beat without losing the peaks.",
         "Finally, add the rest of the ingredients and beat everything together.",
         "When well beaten, fill the muffin molds."
-      ],
-      "image": "/magdalenes-dametla.webp"
+      ]
     },
     "brac-de-gitano": {
       "title": "Swiss Roll",
@@ -258,8 +251,7 @@
         "Carefully remove the paper and spread the almond filling evenly on the sponge.",
         "Finally, carefully roll up the sponge avoiding it opening and giving it its spiral shape."
       ],
-      "notes": "If desired, you can decorate the Swiss roll with meringue, chocolate, cinnamon and sugar, etc.",
-      "image": "/brac-de-gitano.webp"
+      "notes": "If desired, you can decorate the Swiss roll with meringue, chocolate, cinnamon and sugar, etc."
     },
     "fabiola": {
       "title": "Fabiola Cake",
@@ -289,8 +281,7 @@
         "Remove the Fabiola from the oven and gradually pour the syrup over it to soak it. Return to the oven for 5 more minutes.",
         "Decorate with coconut on top and wait for it to set."
       ],
-      "notes": "It's ideal to serve with coffee.",
-      "image": "/fabiola.webp"
+      "notes": "It's ideal to serve with coffee."
     },
     "mostatxons": {
       "title": "Meringue Cookies",
@@ -313,8 +304,7 @@
         "Place parchment paper on the baking tray and drop spoonfuls of the mixture onto the paper. About 6 cookies fit on one sheet of paper, so they should be placed separately to prevent them from sticking to each other.",
         "Put the tray in the preheated oven at maximum temperature. It's important that the oven is very hot as 7-8 minutes will be enough for them to brown and be ready to remove."
       ],
-      "notes": "You can sprinkle a mixture of powdered sugar and cinnamon on top.",
-      "image": "/mostatxons.webp"
+      "notes": "You can sprinkle a mixture of powdered sugar and cinnamon on top."
     },
     "culleradetes": {
       "title": "Little Spoon Fritters",
@@ -336,8 +326,7 @@
         "Mix all ingredients in a bowl, first with a wooden spoon and finally with a beater to avoid lumps.",
         "Prepare a deep pan with plenty of sunflower oil and when hot, drop spoonfuls of batter (the mixture).",
         "Once prepared, they can be eaten coated in sugar."
-      ],
-      "image": "/culleradetes.webp"
+      ]
     },
     "torrades": {
       "title": "French Toast",
@@ -362,8 +351,7 @@
         "Dip the bread slices in the warm milk and let rest on a clean cloth for half an hour.",
         "Beat an egg and dip the slices in it before frying them in a pan with hot oil. Place them on a plate with paper towels to absorb excess oil.",
         "Mix sugar and a little ground cinnamon and coat the French toast with this mixture and they're ready to eat."
-      ],
-      "image": "/torrades.webp"
+      ]
     },
     "rotllets-de-candial": {
       "title": "Candeal Rolls",
@@ -388,8 +376,7 @@
         "Put the flour in a bowl, add the previous mixture with the bicarbonate and the juice of half a lemon.",
         "Make rolls with the dough and place them on a baking tray. Once prepared, put in the oven, preheated to 180°C, for 20-25 minutes."
       ],
-      "notes": "Perfect for a snack. It's difficult to knead. The rolls will remain white on top.",
-      "image": "/rotllets-de-candial.webp"
+      "notes": "Perfect for a snack. It's difficult to knead. The rolls will remain white on top."
     },
     "pitxeret": {
       "title": "Pitxeret",
@@ -426,8 +413,7 @@
         "After this time, filter through a cloth strainer.",
         "Pitcher:",
         "Mix 1/3 coffee liqueur with 2/3 lemon ice."
-      ],
-      "image": "/pitxeret.webp"
+      ]
     },
     "croquetes": {
       "title": "Croquettes",
@@ -452,8 +438,7 @@
         "Using two spoons, form the croquettes.",
         "Roll them in breadcrumbs and fry in plenty of hot oil"
       ],
-      "notes": "It is recommended to use a deep fryer to fry them",
-      "image": "/croquetes.webp"
+      "notes": "It is recommended to use a deep fryer to fry them"
     },
     "espencat": {
       "title": "Espencat",
@@ -478,8 +463,7 @@
         "Once roasted, remove the skin from the peppers. Cut the vegetables into strips and place them on a plate.",
         "Optionally, add the shredded cod to the plate. Finally, add salt and oil to taste."
       ],
-      "notes": "You can also add cured black olives to the espencat",
-      "image": "/espencat.webp"
+      "notes": "You can also add cured black olives to the espencat"
     },
     "sang-amb-ceba": {
       "title": "Sang amb Ceba",
@@ -501,8 +485,7 @@
         "When the blood is cooked, add oregano to taste.",
         "Turn off the heat... and it's ready to serve."
       ],
-      "notes": "It is recommended to boil the blood for about 5 minutes so it's not too hard. It's important that neither the onion nor the blood brown too much when sautéing, as burning will lose the characteristic flavor.",
-      "image": "/sang-amb-ceba.webp"
+      "notes": "It is recommended to boil the blood for about 5 minutes so it's not too hard. It's important that neither the onion nor the blood brown too much when sautéing, as burning will lose the characteristic flavor."
     },
     "faves": {
       "title": "Faves",
@@ -525,8 +508,7 @@
         "Soak the broad beans in water for two days.",
         "In a pot with water, add a little oil, the broad beans, ham, chorizo, some peppercorns, the chili pepper and a pinch of salt."
       ],
-      "notes": "You can add bay leaf to taste, or make them just with ham or just with spicy chorizo.",
-      "image": "/faves.webp"
+      "notes": "You can add bay leaf to taste, or make them just with ham or just with spicy chorizo."
     },
     "coca-a-la-paleta": {
       "title": "Coca a la Paleta",
@@ -558,8 +540,7 @@
         "On the smoothed dough, add the prepared filling and flaked tuna. Close it forming a half-moon and then place it on the very hot griddle to cook.",
         "Each diner can add oil if desired."
       ],
-      "notes": "The tuna can be replaced with ham for younger children. You can prepare \"prenyaets\" using the same dough. After smoothing it, put a sausage or any other cold cut and roll it with the dough. Finish the preparation by giving it a turn in the pan. Another variant with the same dough are the \"Tortetes Escaldades\". The smoothed dough is fried. Once fried, add sugar and cinnamon... DELICIOUS!!",
-      "image": "/coca-a-la-paleta.webp"
+      "notes": "The tuna can be replaced with ham for younger children. You can prepare \"prenyaets\" using the same dough. After smoothing it, put a sausage or any other cold cut and roll it with the dough. Finish the preparation by giving it a turn in the pan. Another variant with the same dough are the \"Tortetes Escaldades\". The smoothed dough is fried. Once fried, add sugar and cinnamon... DELICIOUS!!"
     },
     "coca-de-ceba-i-tonyina": {
       "title": "Coca de Ceba i Tonyina",
@@ -592,8 +573,7 @@
         "Roll out the other half of the dough with a rolling pin. It should be very thin. This thin dough will be the top of the coca and should completely cover the filling.",
         "Brush the top with beaten egg and bake for about 30 minutes at 180°C"
       ],
-      "notes": "To place the flattened dough over the filling, it is recommended to place it on a piece of plastic wrap. Take the plastic wrap and spread it over the filling.",
-      "image": "/coca-de-ceba-i-tonyina.webp"
+      "notes": "To place the flattened dough over the filling, it is recommended to place it on a piece of plastic wrap. Take the plastic wrap and spread it over the filling."
     },
     "coca-de-pebrera-i-tomaca": {
       "title": "Coca de Pebrera i Tomaca",
@@ -621,8 +601,7 @@
         "To prepare the filling, sauté the pepper and tomato.",
         "Place the previous sauté and the cold cuts or salted foods of your choice on the dough. Put it in the oven.",
         "Heat the oven for about 20 minutes at 200°C. Put the tray with the dough in the oven for about 30 minutes at 180°C."
-      ],
-      "image": "/coca-de-pebrera-i-tomaca.webp"
+      ]
     },
     "coca-de-molletes": {
       "title": "Coca de Molletes",
@@ -649,8 +628,7 @@
         "Then spread the dough on a tray and place the molletes on top.",
         "To make the molletes, put the flour, oil and salt in a bowl. Stir the mixture until you see that the dough becomes loose.",
         "Put the tray in the oven for about 30 minutes at 180°C. Preheat the oven for about 20 minutes beforehand."
-      ],
-      "image": "/coca-de-molletes.webp"
+      ]
     },
     "coquetes-escaldades-empanadetes": {
       "title": "Coquetes Escaldades / Empanadetes",
@@ -676,8 +654,7 @@
         "If you want to make small pies, also shape the dough into rounds. Place a spoonful of the prepared vegetables in the center and fold over to close the pie.",
         "Preheat the oven to about 200°C for 20 minutes and when ready, put the tray in for about 20 or 30 minutes at 200°C."
       ],
-      "notes": "To fold over the dough for the small pies, flatten the dough on plastic kitchen wrap and you'll just need to fold the wrap.",
-      "image": "/coquetes-escaldades-empanadetes.webp"
+      "notes": "To fold over the dough for the small pies, flatten the dough on plastic kitchen wrap and you'll just need to fold the wrap."
     },
     "minxos-coques-de-panis": {
       "title": "Minxos ó Coques de Panís",
@@ -699,8 +676,7 @@
         "Then make round flatbreads with edges.",
         "And before putting them in the oven, brush with oil and sprinkle flour on top."
       ],
-      "notes": "Let the flatbreads cool and they're ready to eat",
-      "image": "/minxos-coques-de-panis.webp"
+      "notes": "Let the flatbreads cool and they're ready to eat"
     },
     "borra": {
       "title": "Borra",
@@ -729,8 +705,7 @@
         "Cooking time is approximately 30 minutes. It will be well cooked when the potato is soft when pierced.",
         "Minutes before serving the dish, add the 4 eggs to the top of the mixture, so they become poached."
       ],
-      "notes": "It is recommended to soak the mackerel and cod 24 hours beforehand, to avoid everything being too salty. The dried tomatoes should also be desalted 24 hours before.",
-      "image": "/borra.webp"
+      "notes": "It is recommended to soak the mackerel and cod 24 hours beforehand, to avoid everything being too salty. The dried tomatoes should also be desalted 24 hours before."
     },
     "guisat-de-parva": {
       "title": "Guisat de Parva",
@@ -757,8 +732,7 @@
         "Put the sautéed onion and tomato, potatoes, rabbit and green beans in a pot. Cover the potatoes completely with water and leave it on low heat to cook.",
         "Crush a couple of fried almonds, fried bread and garlic in a mortar. Pour this mixture into the pot when the previous ingredients have already boiled."
       ],
-      "notes": "You can also add another type of meat such as kid goat",
-      "image": "/guisat-de-parva.webp"
+      "notes": "You can also add another type of meat such as kid goat"
     },
     "guisat-de-carabassa": {
       "title": "Guisat de Carabassa",
@@ -783,8 +757,7 @@
         "Next, with the previous oil and in the pot, sauté the onion. When it's well done, add the potatoes cut into pieces and the pumpkin -with skin- also in pieces. Neither the potato nor the pumpkin need to be there for long, it's enough to give them a turn to mix and sauté them a little.",
         "Add 2 roasted garlic cloves to this mixture. Cover everything with water and put on low heat. When it starts to boil, add the saffron, cod and picada. During cooking adjust the salt, since having cod maybe we don't need to add much salt."
       ],
-      "notes": "This dish is served with aioli",
-      "image": "/guisat-de-carabassa.webp"
+      "notes": "This dish is served with aioli"
     },
     "pericana": {
       "title": "Pericana",
@@ -808,8 +781,7 @@
         "Add a good amount of olive oil and to finish, scald the mixture with boiling water.",
         "Now... serve it up, as it should be eaten hot. Ready for dipping bread!"
       ],
-      "notes": "The cod can be replaced with dried small cod (capellans). Although some people combine both. There are many variants of this dish and in some cases it is called \"Picant\".",
-      "image": "/pericana.webp"
+      "notes": "The cod can be replaced with dried small cod (capellans). Although some people combine both. There are many variants of this dish and in some cases it is called \"Picant\"."
     },
     "farinetes": {
       "title": "Farinetes",
@@ -836,8 +808,7 @@
         "Strain the stock through a colander. Take one liter of this stock to make the farinetes, save the rest to add later if needed.",
         "Put the lukewarm stock in an earthenware pot with the prepared sauté. Put on low heat and gradually add the flour while stirring constantly. From here it's to the cook's taste. You can add more of the reserved stock if the \"farinetes\" become too thick."
       ],
-      "notes": "It can also be made with meat broth.",
-      "image": "/farinetes.webp"
+      "notes": "It can also be made with meat broth."
     },
     "pebreres-en-oli": {
       "title": "Pebreres en Oli",
@@ -859,8 +830,7 @@
         "Remove the peppers and mackerel to a bowl and cover completely with oil.",
         "It can be eaten that same day or reserved for another."
       ],
-      "notes": "You can also add a dried hot pepper.",
-      "image": "/pebreres-en-oli.webp"
+      "notes": "You can also add a dried hot pepper."
     },
     "talvina": {
       "title": "Talvina",
@@ -885,8 +855,7 @@
         "Add the flour gradually while stirring constantly with a wooden spoon. Add a little salt. Four or five minutes on the heat will be enough.",
         "Turn off the heat when the mixture becomes dry and the flour starts to brown.",
         "Serve in the center of a plate and place the peppers and hot pepper on the sides."
-      ],
-      "image": "/talvina.webp"
+      ]
     },
     "arros-amb-bacallar-i-flor-i-col": {
       "title": "Arròs amb Bacallar i Flor-i-col",
@@ -910,8 +879,7 @@
         "Sauté the garlic, cauliflower and cod in a pan with a little oil.",
         "When sautéed, add the rice, stir well and add hot water (or vegetable stock) with a little saffron. Use three times as much water as rice and check for salt. Cook for about 10 minutes over high heat. Turn off the heat, cover and let rest for 5 more minutes."
       ],
-      "notes": "It is recommended to soak the cod 24 hours beforehand, to avoid it being too salty. The rice should be a bit creamy, to better appreciate the flavor.",
-      "image": "/arros-amb-bacallar-i-flor-i-col.webp"
+      "notes": "It is recommended to soak the cod 24 hours beforehand, to avoid it being too salty. The rice should be a bit creamy, to better appreciate the flavor."
     },
     "arros-amb-fesols-i-penques": {
       "title": "Arròs amb Fesols i Penques",
@@ -945,8 +913,7 @@
         "Add the rice, blood sausage and white sausage.",
         "Serve when we see that the rice is cooked."
       ],
-      "notes": "If the chard stalk water is green, we will add only the chard stalks to the pot. In this type of rice, the sausages and meat can be omitted, according to diners' taste.",
-      "image": "/arros-amb-fesols-i-penques.webp"
+      "notes": "If the chard stalk water is green, we will add only the chard stalks to the pot. In this type of rice, the sausages and meat can be omitted, according to diners' taste."
     },
     "fassedures": {
       "title": "Fassedures",
@@ -983,8 +950,7 @@
         "Put all the stew ingredients to boil in a pot with water for two hours: the chard stalks, turnips, parsnip, sweet potato, potato, pork foot and tail, piece of chicken, white sausage, salt, saffron, beans.",
         "Fassedura:",
         "Heat the oil slightly. Mix the hot oil with the cornmeal and then add the well-drained soaked bread, diced bacon, chopped white sausage, parsley, salt and sweet paprika. Knead all ingredients and shape by hand giving it a round or slightly elongated form. Add the fassedures to the already cooked stew one hour before lunch."
-      ],
-      "image": "/fassedures.webp"
+      ]
     },
     "bollitori-de-bacallar": {
       "title": "Bollitori de Bacallar",
@@ -1010,8 +976,7 @@
         "Place the cod on top for 15 to 20 minutes.",
         "Finally, add the eggs. The eggs can be added already hard-boiled or just heated, according to each cook's preference."
       ],
-      "notes": "The secret of this dish is to cook it over low heat. It is served with aioli.",
-      "image": "/bollitori-de-bacallar.webp"
+      "notes": "The secret of this dish is to cook it over low heat. It is served with aioli."
     },
     "putxero-amb-pilotes": {
       "title": "Putxero amb Pilotes",
@@ -1053,8 +1018,7 @@
         "Put the pot full of water to boil, first boil the chickpeas (which have been soaking overnight) for half an hour, and then add the rest of ingredients (turnip, parsnip, carrot, celery, leeks, white sausage, bacon, chicken, hen, beef, leaving the potatoes for the end).",
         "Meatball:",
         "Mix all meatball ingredients, knead and shape into rounds to add to the stew after an hour. Then, add the meatballs and potatoes to boil for another hour."
-      ],
-      "image": "/putxero-amb-pilotes.webp"
+      ]
     },
     "canuts-caldosos": {
       "title": "Canuts Caldosos",
@@ -1083,8 +1047,7 @@
         "Meanwhile, prepare a mortar with crushed garlic and parsley and add it to the pot.",
         "When well cooked, add the macaroni (a handful per person). Cook until the pasta is soft."
       ],
-      "notes": "Some people make this dish like \"rice with beans and chard stalks\", substituting the macaroni with rice",
-      "image": "/canuts-caldosos.webp"
+      "notes": "Some people make this dish like \"rice with beans and chard stalks\", substituting the macaroni with rice"
     },
     "fesols-en-salsa": {
       "title": "Fesols en Salsa",
@@ -1112,8 +1075,7 @@
         "While the beans are cooking, sauté with half a small glass of oil a finely chopped onion, a tablespoon of flour and a teaspoon of sweet paprika. It's important to keep stirring to prevent the flour from sticking.",
         "Put the sauté in the pot with the beans when they are well cooked. Taste for salt and adjust to taste. Leave on the heat for a few minutes. This dish should be thick, so you should be careful not to leave it on the heat for too long to avoid it becoming too dry."
       ],
-      "notes": "If we see that the broth thickens a lot and the beans are not cooked, we will add more water.",
-      "image": "/fesols-en-salsa.webp"
+      "notes": "If we see that the broth thickens a lot and the beans are not cooked, we will add more water."
     },
     "miques": {
       "title": "Miques",
@@ -1135,8 +1097,7 @@
         "Make a sauté -in a pan or clay pot- with the grated tomato, finely chopped onion and salt.",
         "When the sauté is ready, add the bread while stirring continuously until we see that the miques become loose and slightly golden."
       ],
-      "notes": "If desired, you can add bacon and/or sausages to the sauté to give it another flavor. There is a variant called \"Shepherd's Miques\". In this type of miques, when making the sauté, flour is gradually added while stirring constantly. To prevent them from drying out, add a little water",
-      "image": "/miques.webp"
+      "notes": "If desired, you can add bacon and/or sausages to the sauté to give it another flavor. There is a variant called \"Shepherd's Miques\". In this type of miques, when making the sauté, flour is gradually added while stirring constantly. To prevent them from drying out, add a little water"
     },
     "daus-de-porc-senglar": {
       "title": "Wild Boar Stew with Red Wine",
@@ -1166,8 +1127,7 @@
         "Put a casserole on the heat with oil and add the pieces of meat, previously seasoned with salt and pepper, so they brown. When the meat is well browned, add the carrot and onion pieces and bay leaf. Give it a few turns until the vegetables are also browned. Finally, add the red wine. When it starts to boil and the alcohol evaporates, leave on low heat and covered for between 1 hour and 1.5 hours, until the meat is tender. If the broth reduces during this time, add hot water.",
         "Once the meat is tender, recover the pieces of meat and reserve them in another casserole. Pass the rest of ingredients through the blender and strain them with a Chinese strainer to achieve a clean sauce. Fry the potatoes previously cut into large pieces. Add them to the casserole where we have the meat, cover with the sauce and let cook on low heat for a few minutes until the potatoes are tender."
       ],
-      "notes": "As with any game recipe, it's advisable to wait a few days after the animal's death before cooking it so the meat loses its strength. If we have the game meat in the freezer, it's preferable to take it out 24 hours before cooking and let it thaw in the refrigerator.",
-      "image": "/daus-de-porc-senglar.webp"
+      "notes": "As with any game recipe, it's advisable to wait a few days after the animal's death before cooking it so the meat loses its strength. If we have the game meat in the freezer, it's preferable to take it out 24 hours before cooking and let it thaw in the refrigerator."
     },
     "torro": {
       "title": "Nougat",
@@ -1188,8 +1148,7 @@
         "Pour the previous mixture into a bowl and add the two egg yolks, mixing everything well.",
         "Put toña paper in a wooden box and pour the mixture inside, flattening it with your hands so it's well pressed."
       ],
-      "notes": "This recipe makes 4 boxes of nougat. Once set, the mixture will have solidified, so we can eat our nougat. If we see that the water and sugar mixture foams, remove it from the heat for a moment and then put it back.",
-      "image": "/torro.webp"
+      "notes": "This recipe makes 4 boxes of nougat. Once set, the mixture will have solidified, so we can eat our nougat. If we see that the water and sugar mixture foams, remove it from the heat for a moment and then put it back."
     },
     "ametlats": {
       "title": "Almond Cookies",
@@ -1213,8 +1172,7 @@
         "Each cookie is made by taking a pinch of dough with three fingers. The uglier they look, the better.",
         "The oven should be preheated to 180°C. Bake at this temperature until they start to brown, then remove them."
       ],
-      "notes": "They can also be made with skinless almonds.",
-      "image": "/ametlats.webp"
+      "notes": "They can also be made with skinless almonds."
     },
     "saginoses": {
       "title": "Mantecados",
@@ -1242,8 +1200,7 @@
         "Then, brush with egg white and sprinkle with sugar and cinnamon on top of the mantecado.",
         "Finally, leave in the oven preheated to 180°C for 10-15 minutes."
       ],
-      "notes": "In making mantecados, almonds are not an essential ingredient. However, they are highly recommended to improve the quality and flavor of this Christmas sweet.",
-      "image": "/saginoses.webp"
+      "notes": "In making mantecados, almonds are not an essential ingredient. However, they are highly recommended to improve the quality and flavor of this Christmas sweet."
     },
     "tonyes": {
       "title": "Easter Sweet Bread",
@@ -1273,8 +1230,7 @@
         "Beat an egg and add a little water to dilute it. Paint the dough with this mixture and put sugar on top to decorate.",
         "Put in the oven, preheated to about 160°C, for approximately 15 minutes until they are golden brown."
       ],
-      "notes": "It's important that the dough is in a sheltered and warm place. From the tonya dough, you can make small rolls. The procedure is the same as for tonyas, but no egg or sugar is put on top.",
-      "image": "/tonyes.webp"
+      "notes": "It's important that the dough is in a sheltered and warm place. From the tonya dough, you can make small rolls. The procedure is the same as for tonyas, but no egg or sugar is put on top."
     },
     "pastissets-de-moniato": {
       "title": "Sweet Potato Pastries",
@@ -1308,8 +1264,7 @@
         "Make small balls of this dough and flatten well forming circles. You can use a cup with a fairly wide mouth to help. Fill each circle with a spoonful of sweet potato filling and close it forming empanadas.",
         "Once made, brush them with beaten egg and bake for approximately 45 minutes. The oven should be preheated to 170°C."
       ],
-      "notes": "Although it's recommended to prepare the filling ourselves, some people choose to buy ready-made sweet potato filling. This simplifies the recipe.",
-      "image": "/pastissets-de-moniato.webp"
+      "notes": "Although it's recommended to prepare the filling ourselves, some people choose to buy ready-made sweet potato filling. This simplifies the recipe."
     },
     "melmelada-de-taronja": {
       "title": "Orange Marmalade",
@@ -1337,8 +1292,7 @@
         "Remove the pot from the heat and wait about 15 minutes.",
         "Finally, put the marmalade in glass jars."
       ],
-      "notes": "You can use any type of orange but it will turn out better with bitter ones. It is recommended to: Use a large, deep pot made of strong metal. Heat the jars before adding the marmalade.",
-      "image": "/melmelada-de-taronja.webp"
+      "notes": "You can use any type of orange but it will turn out better with bitter ones. It is recommended to: Use a large, deep pot made of strong metal. Heat the jars before adding the marmalade."
     },
     "orelletes": {
       "title": "Orelletes",
@@ -1361,8 +1315,7 @@
         "When the oil is hot, pinch each square and drop into the oil so they take their characteristic shape.",
         "Place on a plate prepared with paper to absorb excess oil.",
         "Serve on a plate with sugar on top."
-      ],
-      "image": "/orelletes.webp"
+      ]
     },
     "mantegada": {
       "title": "Custard Ice Cream",
@@ -1385,8 +1338,7 @@
         "Let cool completely and put in the freezer.",
         "Take the mixture out of the freezer every 6 minutes and stir well until obtaining a creamy texture and ice cream consistency."
       ],
-      "notes": "You can add 2 more egg yolks if you like it with more egg flavor and also a bit of vanilla.",
-      "image": "/mantegada.webp"
+      "notes": "You can add 2 more egg yolks if you like it with more egg flavor and also a bit of vanilla."
     },
     "bescuit": {
       "title": "Bescuit",
@@ -1409,8 +1361,7 @@
         "Finally, add the cornstarch and beat the mixture well.",
         "Once the mixture is prepared, pour into a mold previously greased with butter to make it easy to remove from the mold.",
         "Bake in the oven for about 20 minutes at a temperature of 170°C – 180°C."
-      ],
-      "image": "/bescuit.webp"
+      ]
     },
     "pastis-de-carabassa": {
       "title": "Pastís de Carabassa",
@@ -1436,8 +1387,7 @@
         "Put in the preheated oven at 180°C for approximately 40 minutes. Pierce the center with a toothpick and if it comes out clean, remove from the oven.",
         "Let cool and remove from the mold."
       ],
-      "notes": "The measure of 1 glass corresponds to a water glass",
-      "image": "/pastis-de-carabassa.webp"
+      "notes": "The measure of 1 glass corresponds to a water glass"
     },
     "rotllo-de-san-blai": {
       "title": "Rotllo de San Blai",
@@ -1469,8 +1419,7 @@
         "Now it's time to knead again and shape it into a roll. Place the roll on non-stick paper. Give it color by painting it with beaten egg and decorate with sugar on top. Let rest in a warm place to rise again, when we see it's double its size, it's ready to put in the oven.",
         "The oven should be hot at about 200°C. Put the roll in and wait about 15 minutes. And it will be ready."
       ],
-      "notes": "To know if the dough is good, after obtaining the dough, take a small ball of the dough and throw it in a glass with water. Leave this glass next to the dough, when it has risen to the top, the dough is good. The roll should be taken to be blessed if we want \"Glorious Saint Blaise to free us from cough\".",
-      "image": "/rotllo-de-san-blai.webp"
+      "notes": "To know if the dough is good, after obtaining the dough, take a small ball of the dough and throw it in a glass with water. Leave this glass next to the dough, when it has risen to the top, the dough is good. The roll should be taken to be blessed if we want \"Glorious Saint Blaise to free us from cough\"."
     }
   }
 }
