@@ -20,6 +20,7 @@ export default async function Recipe({
   const tr = await getTranslations("Recipe");
   const messages = await getMessages();
   const ingredients: string[] = (messages.recipes as any)[slug].ingredients;
+  const instructions: string[] = (messages.recipes as any)[slug].instructions;
 
   return (
     <Layout>
@@ -65,7 +66,7 @@ export default async function Recipe({
         <section className="mb-6">
           <h2 className="text-2xl font-semibold mb-2">{tr("instructions")}</h2>
           <ol className="list-decimal list-inside">
-            {recipe.instructions.map((step, index) => (
+            {instructions.map((step, index) => (
               // biome-ignore lint/suspicious/noArrayIndexKey: <explanation>
               <li key={`step-${index}`} className="mb-2">
                 {step}
