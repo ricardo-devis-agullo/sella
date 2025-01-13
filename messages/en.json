@@ -1,4 +1,32 @@
 {
+  "Layout": {
+    "title": "Recipes from Sella"
+  },
+  "Recipe": {
+    "difficulty": {
+      "title": "Difficulty",
+      "easy": "Easy",
+      "easy-medium": "Easy-Medium",
+      "medium": "Medium",
+      "medium-hard": "Medium-Hard",
+      "hard": "Hard"
+    },
+    "prepTime": "Preparation time",
+    "cookTime": "Cooking time",
+    "ingredients": "Ingredients",
+    "instructions": "Instructions",
+    "notes": "Notes",
+    "version": "version"
+  },
+  "Category": {
+    "category": "Category",
+    "starters": "Appetizers",
+    "main-courses": "Main Courses",
+    "sweets": "Sweets",
+    "cocas": "Flatbreads",
+    "noRecipes": "There are no recipes in this category.",
+    "title": "Category {category}"
+  },
   "recipes": {
     "sopa-dall": {
       "title": "Garlic Soup",
