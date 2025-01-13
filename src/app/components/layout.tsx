@@ -2,12 +2,15 @@
 import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { useParams } from "next/navigation";
+import SearchBar from "./search-bar";
+import { Recipe } from "@/data/recipes";
 
 type LayoutProps = {
   children: React.ReactNode;
+  recipes: Array<{ slug: string } & Recipe>;
 };
 
-export default function Layout({ children }: LayoutProps) {
+export default function Layout({ children, recipes }: LayoutProps) {
   const { locale } = useParams();
   const t = useTranslations("Layout");
 
@@ -19,9 +22,12 @@ export default function Layout({ children }: LayoutProps) {
     <div className="min-h-screen bg-amber-50 text-amber-900 font-serif">
       <header className="bg-amber-100 p-4 shadow-md">
         <div className="container mx-auto flex justify-between items-center">
-          <Link href="/" className="text-2xl font-bold">
-            {t("title")}
-          </Link>
+          <div className="flex items-center gap-8">
+            <Link href="/" className="text-2xl font-bold">
+              {t("title")}
+            </Link>
+            <SearchBar recipes={recipes} locale={locale as string} />
+          </div>
           <div>
             <button
               type="button"

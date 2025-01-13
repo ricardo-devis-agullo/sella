@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import Layout from "../../../components/layout";
+import LayoutServer from "../../../components/layout-server";
 import { Category, getRecipesByCategory } from "@/data/recipes";
 import { getTranslations } from "next-intl/server";
 
@@ -15,7 +15,7 @@ export default async function CategoryPage({
   const tr = await getTranslations("Recipe");
 
   return (
-    <Layout>
+    <LayoutServer>
       <h1 className="text-3xl font-bold mb-6">{t(slug)}</h1>
       <div className="grid gap-4">
         {recipes.map((recipe) => (
@@ -56,6 +56,6 @@ export default async function CategoryPage({
       {recipes.length === 0 && (
         <p className="text-gray-500">{t("noRecipes")}</p>
       )}
-    </Layout>
+    </LayoutServer>
   );
 }
