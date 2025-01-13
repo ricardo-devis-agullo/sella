@@ -46,8 +46,11 @@ export default async function RootLayout({
           <div className="min-h-screen bg-amber-50 text-amber-900 font-serif flex flex-col">
             <header className="bg-amber-100 p-4 shadow-md">
               <div className="container mx-auto flex justify-between items-center gap-4">
-                <Link href="/" className="text-2xl font-bold hidden sm:block">
-                  {t("title")}
+                <Link href="/" className="font-bold flex items-center">
+                  <span className="hidden sm:block">{t("title")}</span>
+                  <span className="sm:hidden w-8 h-8 bg-amber-700 text-amber-50 rounded-full flex items-center justify-center text-xl font-serif shadow-md">
+                    S
+                  </span>
                 </Link>
                 <div className="flex-1 sm:flex-initial">
                   <SearchBar recipes={recipes} locale={locale as string} />
