@@ -3,19 +3,19 @@ import { useState, useRef, useEffect } from "react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useTranslations } from "next-intl";
-import { Recipe } from "@/data/recipes";
+import { RecipeSummary } from "@/data/recipes";
 
 type SearchProps = {
-  recipes: Array<{ slug: string } & Recipe>;
+  recipes: Array<RecipeSummary>;
   locale: string;
 };
 
 export default function SearchBar({ recipes, locale }: SearchProps) {
   const [query, setQuery] = useState("");
   const [isOpen, setIsOpen] = useState(false);
-  const [filteredRecipes, setFilteredRecipes] = useState<
-    Array<{ slug: string } & Recipe>
-  >([]);
+  const [filteredRecipes, setFilteredRecipes] = useState<Array<RecipeSummary>>(
+    []
+  );
   const searchRef = useRef<HTMLDivElement>(null);
   const router = useRouter();
   const t = useTranslations("Recipe");

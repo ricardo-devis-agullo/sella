@@ -1,4 +1,4 @@
-import { loadRecipes } from "@/data/recipes";
+import { getRecipesSummary } from "@/data/recipes";
 import Layout from "./layout";
 
 type LayoutServerProps = {
@@ -6,11 +6,7 @@ type LayoutServerProps = {
 };
 
 export default function LayoutServer({ children }: LayoutServerProps) {
-  // Server-side data loading
-  const recipes = Object.entries(loadRecipes()).map(([slug, recipe]) => ({
-    slug,
-    ...recipe,
-  }));
+  const recipes = getRecipesSummary();
 
   return <Layout recipes={recipes}>{children}</Layout>;
 }

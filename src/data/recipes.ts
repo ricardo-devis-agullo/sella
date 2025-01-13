@@ -25,6 +25,13 @@ export const Recipe = z.object({
 });
 export type Recipe = z.infer<typeof Recipe>;
 
+export interface RecipeSummary {
+  slug: string;
+  title: string;
+  difficulty: string;
+  preparationTime: string;
+}
+
 let recipes: Record<string, Recipe> | undefined = undefined;
 
 export function loadRecipes(locale = "ca"): Record<string, Recipe> {
@@ -43,6 +50,16 @@ export function loadRecipes(locale = "ca"): Record<string, Recipe> {
   recipes = loadedRecipes;
 
   return loadedRecipes;
+}
+
+export function getRecipesSummary(locale = "ca"): Array<RecipeSummary> {
+  const recipes = loadRecipes(locale);
+  return Object.entries(recipes).map(([slug, recipe]) => ({
+    slug,
+    title: recipe.title,
+    difficulty: recipe.difficulty,
+    preparationTime: recipe.preparationTime,
+  }));
 }
 
 export function getRecipesByCategory(

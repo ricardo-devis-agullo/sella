@@ -3,11 +3,11 @@ import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { useParams } from "next/navigation";
 import SearchBar from "./search-bar";
-import { Recipe } from "@/data/recipes";
+import type { RecipeSummary } from "@/data/recipes";
 
 type LayoutProps = {
   children: React.ReactNode;
-  recipes: Array<{ slug: string } & Recipe>;
+  recipes: Array<RecipeSummary>;
 };
 
 export default function Layout({ children, recipes }: LayoutProps) {
