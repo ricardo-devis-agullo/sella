@@ -1,18 +1,17 @@
 "use client";
 import Link from "next/link";
-import { useState } from "react";
 import { useTranslations } from "next-intl";
+import { useParams } from "next/navigation";
 
 type LayoutProps = {
   children: React.ReactNode;
 };
 
 export default function Layout({ children }: LayoutProps) {
-  const [language, setLanguage] = useState("ca");
+  const { locale } = useParams();
   const t = useTranslations("Layout");
 
   const changeLanguage = (lang: string) => {
-    setLanguage(lang);
     window.location.href = `/${lang}`;
   };
 
@@ -27,16 +26,23 @@ export default function Layout({ children }: LayoutProps) {
             <button
               type="button"
               onClick={() => changeLanguage("ca")}
-              className={`mr-2 ${language === "ca" ? "font-bold" : ""}`}
+              className={`mr-2 ${locale === "ca" ? "font-bold" : ""}`}
             >
               Català
             </button>
             <button
               type="button"
               onClick={() => changeLanguage("es")}
-              className={language === "es" ? "font-bold" : ""}
+              className={`mr-2 ${locale === "es" ? "font-bold" : ""}`}
             >
               Español
+            </button>
+            <button
+              type="button"
+              onClick={() => changeLanguage("en")}
+              className={locale === "en" ? "font-bold" : ""}
+            >
+              English
             </button>
           </div>
         </div>

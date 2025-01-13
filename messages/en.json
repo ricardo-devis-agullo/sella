@@ -1,0 +1,1448 @@
+{
+  "recipes": {
+    "sopa-dall": {
+      "title": "Garlic Soup",
+      "author": "Maria \"Cabot\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "10m",
+      "category": "main-courses",
+      "ingredients": [
+        "4 or 5 thin slices of bread per person",
+        "1 egg per person",
+        "1 measure of oil",
+        "4 to 6 cloves of garlic",
+        "salt",
+        "saffron"
+      ],
+      "instructions": [
+        "Crush the unpeeled garlic cloves and prepare a pot with oil to sauté them.",
+        "Remove the sautéed garlic. Fry the bread slices in this oil.",
+        "Add back the sautéed garlic and cover with enough water. Add salt and saffron.",
+        "When the water starts to boil, add the eggs to poach them."
+      ],
+      "notes": "It's quick and easy to make",
+      "image": "/sopa-dall.webp"
+    },
+    "guisat-de-freixura": {
+      "title": "Lamb Offal Stew",
+      "author": "PEPICA \"EL SURDO\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "30m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 lamb offal (from a young animal)",
+        "1 kg of potatoes",
+        "2 onions",
+        "1 tomato",
+        "4 cloves of garlic",
+        "1 bay leaf",
+        "6 tender chard stalks",
+        "oil",
+        "salt"
+      ],
+      "instructions": [
+        "Sauté the chopped offal in small pieces with the chopped onion, tomato, and four crushed garlic cloves.",
+        "Add water to the sautéed mixture. The water should cover about two or three fingers above the previous mixture. Wait for the water to boil before adding the chard stalks cut into pieces and a bay leaf.",
+        "Then add the diced potatoes and crushed almonds."
+      ],
+      "notes": "For the chard stalks to be tender and to remove some of their bitterness, you can boil them before adding them to the pot",
+      "image": "/guisat-de-freixura.webp"
+    },
+    "arros-amb-cigrons-tendres": {
+      "title": "Rice with Tender Chickpeas",
+      "author": "Adolfo \"el Trosset\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "15m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 rabbit -not too large-",
+        "100 g of tender chickpeas",
+        "1 pepper",
+        "1 large tomato",
+        "4 cloves of garlic",
+        "1 onion",
+        "Rice"
+      ],
+      "instructions": [
+        "Fry the pepper and set aside.",
+        "Grate the tomato, the 4 cloves of garlic, and the onion.",
+        "Fry the rabbit meat. Then add the previously grated mixture.",
+        "Add the chickpeas and stir a couple of times.",
+        "Add water and leave for half an hour on the heat.",
+        "After this time, add the rice and leave for approximately 15 minutes."
+      ],
+      "notes": "This rice turns out creamy. If you have wild rabbit and prepare it over a wood fire, it becomes exquisite. You can add peas; to do this, first shell them and fry them with the meat.",
+      "image": "/arros-amb-cigrons-tendres.webp"
+    },
+    "arros-amb-verdures-i-aladroc": {
+      "title": "Rice with Vegetables and Anchovies",
+      "author": "PENSAT I FET",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "20m",
+      "category": "main-courses",
+      "ingredients": [
+        "½ kg of anchovies",
+        "½ kg of tender broad beans",
+        "a bunch of spring garlic",
+        "4 artichokes",
+        "half a cauliflower",
+        "a bunch of spinach",
+        "1 ripe tomato",
+        "400 g of rice",
+        "150 ml of oil",
+        "saffron threads",
+        "water",
+        "salt"
+      ],
+      "instructions": [
+        "Fry the anchovies in a paella pan. Set aside.",
+        "Using the same oil, fry the vegetables (broad beans, spring garlic, artichokes, cauliflower, spinach) and set them aside on a plate.",
+        "Once the vegetables are fried, fry the grated tomato and rice.",
+        "Then add the reserved vegetables, saffron, and boiling water (twice the amount of water as rice). After 5 or 10 minutes, add the anchovies decorating the paella and let the rice finish cooking."
+      ],
+      "image": "/arros-amb-verdures-i-aladroc.webp"
+    },
+    "bunyols-de-carabassa": {
+      "title": "Pumpkin Fritters",
+      "author": "LA SOLSIDA",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "120m",
+      "category": "sweets",
+      "ingredients": [
+        "750 kg of flour",
+        "25 g of yeast",
+        "½ kg of pumpkin",
+        "sunflower oil -enough to cover the fritter mold-",
+        "1 egg",
+        "1 glass of milk"
+      ],
+      "instructions": [
+        "Boil the peeled and seedless pumpkin until soft. Pass the pumpkin through a food mill to make it finer and easier to work with.",
+        "Put the flour in a bowl, add the yeast that we will have previously dissolved with a little warm water. Add the pumpkin, glass of milk, and beaten egg. Knead the mixture well to avoid lumps.",
+        "If the dough is too hard, add warm water until it becomes lighter.",
+        "Let the dough rest until it has risen.",
+        "While the dough rests, put a deep pan with oil on the heat. When the oil is hot, submerge the fritter mold.",
+        "When we have the dough ready and the oil hot, start frying the fritters."
+      ],
+      "notes": "After kneading the mixture, we add a little flour on top. When we see that the flour has sunk, we'll know that the dough is ready to start making the fritters.",
+      "image": "/bunyols-de-carabassa.webp"
+    },
+    "coca-dametla": {
+      "title": "Almond Sweet Bread",
+      "author": "VA DE BÔ",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "sweets",
+      "ingredients": [
+        "350 g of flour",
+        "150 g of ground almonds",
+        "500 g of sugar",
+        "6 eggs",
+        "1 lemon",
+        "250 cl of milk",
+        "100 cl of sunflower oil",
+        "4 sachets of bicarbonate",
+        "3 sachets of lemon -Soda El Vesubio-"
+      ],
+      "instructions": [
+        "Preheat the oven to 180°C for about 20 minutes.",
+        "Meanwhile, separate the egg whites from the yolks. Reserve the yolks, and beat the egg whites until stiff peaks form.",
+        "Once stiff peaks are achieved, add the sugar and continue beating the mixture. Then add the yolks and beat.",
+        "From now on, we'll leave the beater and use a wooden spoon or spatula to stir. Add the 150g of ground almonds, milk, oil, a little ground cinnamon, and flour to the previous mixture.",
+        "Dissolve the 3 lemon sachets in a coffee cup with a little warm milk and add to the mixture.",
+        "Next, add the 4 sachets of bicarbonate and mix everything together.",
+        "Prepare a mold with non-stick paper and pour in the mixture, spreading it well so it's uniform.",
+        "Put the mold in the oven for approximately one hour, watching that it doesn't burn."
+      ],
+      "notes": "It's important not to touch the cake while it's in the oven, as it will sink if you do.",
+      "image": "/coca-dametla.webp"
+    },
+    "magdalenes-dametla": {
+      "title": "Almond Muffins",
+      "author": "Antonia \"la Carnissera\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "6 eggs",
+        "100 g ground almonds",
+        "6 coffee cup measures of oil",
+        "6 coffee cup measures of milk",
+        "6 coffee cup measures of sugar",
+        "4 sachets of soda",
+        "1 grated lemon",
+        "300 g flour",
+        "a pinch of cinnamon"
+      ],
+      "instructions": [
+        "Separate the egg whites from the yolks and beat the whites until stiff peaks form.",
+        "Next, add the sugar, and beat without losing the peaks.",
+        "Finally, add the rest of the ingredients and beat everything together.",
+        "When well beaten, fill the muffin molds."
+      ],
+      "image": "/magdalenes-dametla.webp"
+    },
+    "brac-de-gitano": {
+      "title": "Swiss Roll",
+      "author": "MARIA BALDÓ BOU",
+      "difficulty": "easy-medium",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "15-20m",
+      "category": "sweets",
+      "ingredients": [
+        "For the sponge:",
+        "4 eggs",
+        "250 g of sugar",
+        "50 g of ground almonds",
+        "200 g of flour or cornstarch",
+        "For the almond filling:",
+        "1 glass of water",
+        "300 g of ground almonds",
+        "200 g of sugar",
+        "a pinch of ground cinnamon",
+        "lemon zest"
+      ],
+      "instructions": [
+        "Separate the egg whites from the yolks. Beat the egg whites until stiff peaks form. Then gradually add the sugar until forming a meringue.",
+        "Add the egg yolks to the meringue and continue beating.",
+        "Add the flour or cornstarch and, if desired, the almonds, stirring continuously until obtaining a uniform mixture.",
+        "Pour the mixture into a baking tray previously lined with parchment paper greased with a little butter.",
+        "Heat the oven to 160°C and bake for 15 to 20 minutes.",
+        "Meanwhile, prepare the almond filling:",
+        "Pour the glass of water, sugar, lemon zest, and cinnamon into a saucepan.",
+        "Put the saucepan on low heat until the water starts to boil.",
+        "Stir until the sugar dissolves and then add the almonds. Keep stirring until the mixture is cooked.",
+        "Let it cool slightly and the filling is ready.",
+        "Prepare a cloth with sugar. Drop the sponge onto the cloth so that the sponge is on the cloth and the paper is on top.",
+        "Carefully remove the paper and spread the almond filling evenly on the sponge.",
+        "Finally, carefully roll up the sponge avoiding it opening and giving it its spiral shape."
+      ],
+      "notes": "If desired, you can decorate the Swiss roll with meringue, chocolate, cinnamon and sugar, etc.",
+      "image": "/brac-de-gitano.webp"
+    },
+    "fabiola": {
+      "title": "Fabiola Cake",
+      "author": "LES FORTETES",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "25m",
+      "category": "sweets",
+      "ingredients": [
+        "120 g coconut (60g for the batter and 60g for decorating)",
+        "6 eggs",
+        "1 lemon",
+        "¼ kg flour",
+        "¼ kg sugar",
+        "1½ sachets of Royal baking powder",
+        "For the syrup:",
+        "½kg sugar",
+        "2 glasses of water",
+        "1 coffee cup of white rum"
+      ],
+      "instructions": [
+        "Separate the egg whites from the yolks. Beat the egg whites until stiff peaks form. Add the sugar gradually while continuing to beat.",
+        "Add the egg yolks and lemon zest. Stir with a spoon and gradually add the flour mixed with the coconut and Royal baking powder.",
+        "Grease the Fabiola mold with butter -to prevent sticking- and pour in the mixture. It should fill to ¾ of its capacity. Bake in the oven at 170-180°C for approximately 20 minutes.",
+        "Prepare a syrup to soak the cake by putting a saucepan on the heat with 2 glasses of water, sugar, and white rum, stirring continuously until achieving a syrup. We'll have the saucepan on the heat for approximately the same time as the Fabiola is in the oven.",
+        "Remove the Fabiola from the oven and gradually pour the syrup over it to soak it. Return to the oven for 5 more minutes.",
+        "Decorate with coconut on top and wait for it to set."
+      ],
+      "notes": "It's ideal to serve with coffee.",
+      "image": "/fabiola.webp"
+    },
+    "mostatxons": {
+      "title": "Meringue Cookies",
+      "author": "ESPENTOLÀES",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "20m",
+      "cookingTime": "5-7m",
+      "category": "sweets",
+      "ingredients": [
+        "4 eggs",
+        "We weigh the eggs and use the same weight in flour and sugar",
+        "4 pinches of bicarbonate"
+      ],
+      "instructions": [
+        "Separate the egg whites from the yolks. Reserve the yolks.",
+        "Beat the egg whites until stiff peaks form. Add the sugar little by little and beat so it dissolves well in the mixture.",
+        "Add the yolks and beat again.",
+        "Add the flour and mix with a wooden spoon, stirring from bottom to top. Put a little bicarbonate in your hand and add four pinches to the mixture while continuing to stir.",
+        "Place parchment paper on the baking tray and drop spoonfuls of the mixture onto the paper. About 6 cookies fit on one sheet of paper, so they should be placed separately to prevent them from sticking to each other.",
+        "Put the tray in the preheated oven at maximum temperature. It's important that the oven is very hot as 7-8 minutes will be enough for them to brown and be ready to remove."
+      ],
+      "notes": "You can sprinkle a mixture of powdered sugar and cinnamon on top.",
+      "image": "/mostatxons.webp"
+    },
+    "culleradetes": {
+      "title": "Little Spoon Fritters",
+      "author": "LOLI \"PEDAS\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "30-60m",
+      "category": "sweets",
+      "ingredients": [
+        "300 g of flour",
+        "lemon zest",
+        "2 eggs",
+        "2 glasses of milk",
+        "½ sachet of Royal baking powder",
+        "a bit of cinnamon"
+      ],
+      "instructions": [
+        "Mix all ingredients in a bowl, first with a wooden spoon and finally with a beater to avoid lumps.",
+        "Prepare a deep pan with plenty of sunflower oil and when hot, drop spoonfuls of batter (the mixture).",
+        "Once prepared, they can be eaten coated in sugar."
+      ],
+      "image": "/culleradetes.webp"
+    },
+    "torrades": {
+      "title": "French Toast",
+      "author": "EL GNOM",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "30m",
+      "category": "sweets",
+      "ingredients": [
+        "Stale bread",
+        "cinnamon stick",
+        "lemon peel",
+        "milk",
+        "1 egg",
+        "ground cinnamon",
+        "sugar"
+      ],
+      "instructions": [
+        "Cut a loaf of stale bread into slices.",
+        "Heat the milk with a lemon peel and a cinnamon stick. When we see it's hot, remove it.",
+        "Dip the bread slices in the warm milk and let rest on a clean cloth for half an hour.",
+        "Beat an egg and dip the slices in it before frying them in a pan with hot oil. Place them on a plate with paper towels to absorb excess oil.",
+        "Mix sugar and a little ground cinnamon and coat the French toast with this mixture and they're ready to eat."
+      ],
+      "image": "/torrades.webp"
+    },
+    "rotllets-de-candial": {
+      "title": "Candeal Rolls",
+      "author": "LOLA \"EL BOLILLO\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "20-25m",
+      "category": "sweets",
+      "ingredients": [
+        "1 coffee cup of anise liqueur",
+        "1 coffee cup of water",
+        "2 coffee cups of sugar",
+        "2 coffee cups of olive oil",
+        "300 g of candeal flour",
+        "1 coffee spoon of bicarbonate",
+        "juice of ½ lemon"
+      ],
+      "instructions": [
+        "Put the water, sugar, and oil in a saucepan. Stir the mixture with a spoon until the sugar has dissolved.",
+        "Remove the saucepan from the heat and add the anise.",
+        "Put the flour in a bowl, add the previous mixture with the bicarbonate and the juice of half a lemon.",
+        "Make rolls with the dough and place them on a baking tray. Once prepared, put in the oven, preheated to 180°C, for 20-25 minutes."
+      ],
+      "notes": "Perfect for a snack. It's difficult to knead. The rolls will remain white on top.",
+      "image": "/rotllets-de-candial.webp"
+    },
+    "pitxeret": {
+      "title": "Pitxeret",
+      "author": "PEPA \"EL CASINO\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "Lemon Ice:",
+        "10 liters of water",
+        "2 kg of sugar",
+        "3 kg of lemons",
+        "1 pinch of cinnamon",
+        "Caramel:",
+        "200 g of sugar",
+        "100 cm3 of water",
+        "Coffee liqueur:",
+        "1 liter of 90° alcohol",
+        "6 liters of water",
+        "200 g of ground coffee"
+      ],
+      "instructions": [
+        "Lemon ice:",
+        "Put the water in a container. Grate the lemons into this water. Then squeeze the juice from the grated lemons.",
+        "Add the sugar and cinnamon. Mix everything and let it macerate.",
+        "Caramel:",
+        "Prepare the caramel: Burn the sugar and carefully add water until obtaining a syrup.",
+        "Add the burnt sugar to the lemon preparation.",
+        "Strain and put to freeze.",
+        "Coffee liqueur:",
+        "Macerate all coffee liqueur ingredients for 10 to 12 days.",
+        "After this time, filter through a cloth strainer.",
+        "Pitcher:",
+        "Mix 1/3 coffee liqueur with 2/3 lemon ice."
+      ],
+      "image": "/pitxeret.webp"
+    },
+    "croquetes": {
+      "title": "Croquettes",
+      "author": "Rosa 'la de Fermín'",
+      "difficulty": "easy",
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "starters",
+      "ingredients": [
+        "1 large cod",
+        "3 or 4 kg of potatoes",
+        "½ kg of breadcrumbs",
+        "½ dozen eggs",
+        "parsley",
+        "saffron",
+        "1 Starlux cube"
+      ],
+      "instructions": [
+        "Put the peeled potatoes in a pot to boil and place the unsalted cod on top of the potatoes.",
+        "When the potatoes are cooked, remove the bones from the cod and mash everything together.",
+        "To the potato and cod mixture, add ½ kg of breadcrumbs, ½ dozen eggs, 1 Starlux cube, chopped parsley and finely chopped garlic, and a little saffron for color.",
+        "Using two spoons, form the croquettes.",
+        "Roll them in breadcrumbs and fry in plenty of hot oil"
+      ],
+      "notes": "It is recommended to use a deep fryer to fry them",
+      "image": "/croquetes.webp"
+    },
+    "espencat": {
+      "title": "Espencat",
+      "author": "I SABENTHO",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "60m",
+      "category": "starters",
+      "ingredients": [
+        "1 red pepper",
+        "1 green pepper",
+        "1 onion",
+        "1 eggplant",
+        "1 tomato",
+        "150 g of cod",
+        "1 clove of garlic",
+        "oil"
+      ],
+      "instructions": [
+        "Brush the peppers, onion, eggplant and tomato with oil to roast them - either in the oven or on a griddle.",
+        "Once roasted, remove the skin from the peppers. Cut the vegetables into strips and place them on a plate.",
+        "Optionally, add the shredded cod to the plate. Finally, add salt and oil to taste."
+      ],
+      "notes": "You can also add cured black olives to the espencat",
+      "image": "/espencat.webp"
+    },
+    "sang-amb-ceba": {
+      "title": "Sang amb Ceba",
+      "author": "L'ASSUT",
+      "difficulty": "easy",
+      "servings": 2,
+      "preparationTime": "30m",
+      "category": "starters",
+      "ingredients": [
+        "150 g of pork or beef blood",
+        "1 small onion",
+        "olive oil",
+        "salt",
+        "oregano"
+      ],
+      "instructions": [
+        "Cut the onion into very small pieces and put them in a pan with oil. Add a pinch of salt and sauté over low or medium heat.",
+        "Before the onion starts to brown, add the blood cut into cubes. Stir the blood constantly so it cooks on each side. Be careful as it doesn't require much exposure to heat.",
+        "When the blood is cooked, add oregano to taste.",
+        "Turn off the heat... and it's ready to serve."
+      ],
+      "notes": "It is recommended to boil the blood for about 5 minutes so it's not too hard. It's important that neither the onion nor the blood brown too much when sautéing, as burning will lose the characteristic flavor.",
+      "image": "/sang-amb-ceba.webp"
+    },
+    "faves": {
+      "title": "Faves",
+      "author": "LA FAM",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "48h",
+      "cookingTime": "45m",
+      "category": "starters",
+      "ingredients": [
+        "½ kg dried broad beans",
+        "ham in small pieces",
+        "chorizo in small pieces",
+        "peppercorns",
+        "one small chili pepper",
+        "oil",
+        "salt"
+      ],
+      "instructions": [
+        "Soak the broad beans in water for two days.",
+        "In a pot with water, add a little oil, the broad beans, ham, chorizo, some peppercorns, the chili pepper and a pinch of salt."
+      ],
+      "notes": "You can add bay leaf to taste, or make them just with ham or just with spicy chorizo.",
+      "image": "/faves.webp"
+    },
+    "coca-a-la-paleta": {
+      "title": "Coca a la Paleta",
+      "author": "L'ESTACAT",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "cocas",
+      "ingredients": [
+        "Dough:",
+        "7 glasses of water",
+        "1 glass of oil",
+        "1 pinch of salt",
+        "1 kg of flour",
+        "Filling:",
+        "2 bunches of spinach",
+        "1 bunch of chard",
+        "100 g of flaked tuna"
+      ],
+      "instructions": [
+        "Filling:",
+        "Put the spinach to boil in a pot. Don't cover with water as spinach releases water.",
+        "Reduce the spinach. Add the chard and salt. Let cook for about 20 minutes and drain well.",
+        "Sauté the drained vegetables in a little oil with some garlic cloves over low heat. Set the mixture aside.",
+        "Dough:",
+        "Bring the water to a boil. Before it starts boiling, add the oil and salt.",
+        "To scald the flour, add it to the water and stir well to avoid lumps. This can be done with the help of a wooden spoon.",
+        "Take small portions of the prepared dough, depending on the size you want to give the coca. To prevent the dough from sticking, grease your hands with oil and smooth the dough with your hands.",
+        "On the smoothed dough, add the prepared filling and flaked tuna. Close it forming a half-moon and then place it on the very hot griddle to cook.",
+        "Each diner can add oil if desired."
+      ],
+      "notes": "The tuna can be replaced with ham for younger children. You can prepare \"prenyaets\" using the same dough. After smoothing it, put a sausage or any other cold cut and roll it with the dough. Finish the preparation by giving it a turn in the pan. Another variant with the same dough are the \"Tortetes Escaldades\". The smoothed dough is fried. Once fried, add sugar and cinnamon... DELICIOUS!!",
+      "image": "/coca-a-la-paleta.webp"
+    },
+    "coca-de-ceba-i-tonyina": {
+      "title": "Coca de Ceba i Tonyina",
+      "author": "Mª ANGELES",
+      "difficulty": "medium",
+      "preparationTime": "2h 30m",
+      "category": "cocas",
+      "ingredients": [
+        "Dough:",
+        "500 g of flour",
+        "1 glass of white wine",
+        "1½ glasses of sunflower oil",
+        "A pinch of salt",
+        "Filling:",
+        "1 kg of onion",
+        "3 eggs",
+        "1 can of stuffed olives",
+        "½ kg of tuna",
+        "salt"
+      ],
+      "instructions": [
+        "For the filling:",
+        "Boil the eggs until hard-boiled. Cut them into small pieces and set aside.",
+        "Sauté the onion.",
+        "Cut the olives into small pieces as well. Flake the tuna and mix everything together.",
+        "Dough:",
+        "Mix the glass and a half of oil, the glass of white wine, flour and a pinch of salt. Knead until it has consistency (it shouldn't be too hard).",
+        "Spread half of the dough on the baking tray, so that it covers the entire surface.",
+        "Place the previously prepared filling on this dough.",
+        "Roll out the other half of the dough with a rolling pin. It should be very thin. This thin dough will be the top of the coca and should completely cover the filling.",
+        "Brush the top with beaten egg and bake for about 30 minutes at 180°C"
+      ],
+      "notes": "To place the flattened dough over the filling, it is recommended to place it on a piece of plastic wrap. Take the plastic wrap and spread it over the filling.",
+      "image": "/coca-de-ceba-i-tonyina.webp"
+    },
+    "coca-de-pebrera-i-tomaca": {
+      "title": "Coca de Pebrera i Tomaca",
+      "author": "LA CAMPANA",
+      "difficulty": "medium",
+      "preparationTime": "2h 30m",
+      "category": "cocas",
+      "ingredients": [
+        "Dough:",
+        "500 g of flour",
+        "1 egg",
+        "1 glass of lukewarm water",
+        "25 g of yeast",
+        "½ glass of olive oil",
+        "a few drops of vinegar",
+        "1 pinch of salt",
+        "1 green pepper",
+        "2 tomatoes or a can of tomato",
+        "Cold cuts or salted foods to taste"
+      ],
+      "instructions": [
+        "Put the flour, egg, oil, drops of vinegar and salt in a bowl or container. Knead.",
+        "Then pour the glass of lukewarm water with the yeast over this dough. Let rest for 15 minutes.",
+        "Grease the baking tray with a little oil and after fifteen minutes, place the dough on the bottom of the tray and spread it. Let rest.",
+        "To prepare the filling, sauté the pepper and tomato.",
+        "Place the previous sauté and the cold cuts or salted foods of your choice on the dough. Put it in the oven.",
+        "Heat the oven for about 20 minutes at 200°C. Put the tray with the dough in the oven for about 30 minutes at 180°C."
+      ],
+      "image": "/coca-de-pebrera-i-tomaca.webp"
+    },
+    "coca-de-molletes": {
+      "title": "Coca de Molletes",
+      "author": "LA COENTOR",
+      "difficulty": "easy",
+      "preparationTime": "30m",
+      "cookingTime": "30m",
+      "category": "cocas",
+      "ingredients": [
+        "Dough:",
+        "350g of flour",
+        "18 g of yeast",
+        "200 cl of lukewarm water",
+        "100 cl of olive oil",
+        "1 pinch of salt",
+        "Molletes:",
+        "1/4 of flour",
+        "1/2 glass of oil",
+        "Salt"
+      ],
+      "instructions": [
+        "Mix the flour with the yeast. Add the glass of water, glass of oil and salt.",
+        "Knead and let rest for 10 minutes.",
+        "Then spread the dough on a tray and place the molletes on top.",
+        "To make the molletes, put the flour, oil and salt in a bowl. Stir the mixture until you see that the dough becomes loose.",
+        "Put the tray in the oven for about 30 minutes at 180°C. Preheat the oven for about 20 minutes beforehand."
+      ],
+      "image": "/coca-de-molletes.webp"
+    },
+    "coquetes-escaldades-empanadetes": {
+      "title": "Coquetes Escaldades / Empanadetes",
+      "author": "Mercedes \"Fonda\"",
+      "difficulty": "medium",
+      "preparationTime": "2h 30m",
+      "cookingTime": "20-30m",
+      "category": "cocas",
+      "ingredients": [
+        "Dough:",
+        "2 glasses of water",
+        "½ glass of olive oil",
+        "½ kg of flour",
+        "Salt",
+        "Filling:",
+        "Boiled and garlic-fried vegetables",
+        "mackerel",
+        "tuna"
+      ],
+      "instructions": [
+        "Heat the water. When it's boiling add the oil and a pinch of salt. When it comes back to a boil, gradually add the flour while stirring continuously until you get a smooth dough.",
+        "If you want to make scalded flatbreads, place the dough on parchment paper in a round shape (flattening it with your hands and a rolling pin). Once flattened, make a small rim so the filling doesn't spill out and top with cold cuts, salted foods, fried pepper or tomato, or simply oil and salt - according to diners' taste.",
+        "If you want to make small pies, also shape the dough into rounds. Place a spoonful of the prepared vegetables in the center and fold over to close the pie.",
+        "Preheat the oven to about 200°C for 20 minutes and when ready, put the tray in for about 20 or 30 minutes at 200°C."
+      ],
+      "notes": "To fold over the dough for the small pies, flatten the dough on plastic kitchen wrap and you'll just need to fold the wrap.",
+      "image": "/coquetes-escaldades-empanadetes.webp"
+    },
+    "minxos-coques-de-panis": {
+      "title": "Minxos ó Coques de Panís",
+      "author": "Maria Agulló",
+      "difficulty": "easy",
+      "preparationTime": "20m",
+      "cookingTime": "30m",
+      "category": "cocas",
+      "ingredients": [
+        "½ kg of cornmeal",
+        "1 pinch of salt",
+        "1 beaten egg (as for an omelette)",
+        "1 pinch of anise seeds or a little Casalla anise",
+        "300 ml of olive oil",
+        "250 ml of water"
+      ],
+      "instructions": [
+        "Knead all ingredients well together.",
+        "Then make round flatbreads with edges.",
+        "And before putting them in the oven, brush with oil and sprinkle flour on top."
+      ],
+      "notes": "Let the flatbreads cool and they're ready to eat",
+      "image": "/minxos-coques-de-panis.webp"
+    },
+    "borra": {
+      "title": "Borra",
+      "author": "LA REVOLICA",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "30m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 kg of potatoes",
+        "2-3 onions",
+        "¼ of fresh mackerel",
+        "¼ of cod",
+        "2 dried peppers",
+        "8 dried tomatoes",
+        "½ kg of spinach",
+        "4 eggs",
+        "1 glass of olive oil",
+        "1 head of garlic",
+        "saffron"
+      ],
+      "instructions": [
+        "Bring water to a boil. When boiling, add the onions, potatoes, spinach, dried peppers, dried tomatoes, head of garlic, saffron and oil. It's important to add the oil when it's boiling.",
+        "Let all ingredients boil and then add the cod and mackerel. Do this in this order, as if added earlier, the cod and mackerel can break apart and will be more difficult to serve.",
+        "Cooking time is approximately 30 minutes. It will be well cooked when the potato is soft when pierced.",
+        "Minutes before serving the dish, add the 4 eggs to the top of the mixture, so they become poached."
+      ],
+      "notes": "It is recommended to soak the mackerel and cod 24 hours beforehand, to avoid everything being too salty. The dried tomatoes should also be desalted 24 hours before.",
+      "image": "/borra.webp"
+    },
+    "guisat-de-parva": {
+      "title": "Guisat de Parva",
+      "author": "Antonia \"el Serrà\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 large rabbit",
+        "1kg of potatoes",
+        "1 tomato",
+        "1 onion",
+        "3-4 wide green beans",
+        "Almonds",
+        "bread",
+        "garlic"
+      ],
+      "instructions": [
+        "Sauté the chopped rabbit in a pan. When the meat is golden, remove it.",
+        "Next, fry the irregularly cut potatoes. Once fried, remove them.",
+        "Sauté the onion and crushed tomato.",
+        "Put the sautéed onion and tomato, potatoes, rabbit and green beans in a pot. Cover the potatoes completely with water and leave it on low heat to cook.",
+        "Crush a couple of fried almonds, fried bread and garlic in a mortar. Pour this mixture into the pot when the previous ingredients have already boiled."
+      ],
+      "notes": "You can also add another type of meat such as kid goat",
+      "image": "/guisat-de-parva.webp"
+    },
+    "guisat-de-carabassa": {
+      "title": "Guisat de Carabassa",
+      "author": "Maria \"Bota\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 piece of English cod (250 g)",
+        "8 potatoes",
+        "1 piece of bumpy pumpkin with skin (approximately 1/4)",
+        "2 measures of oil (0.75 dl each measure)",
+        "salt",
+        "1 packet of saffron",
+        "1 onion",
+        "3-4 almonds and bread for the picada"
+      ],
+      "instructions": [
+        "Prepare a picada in a mortar with the almonds and bread that we will have previously fried. In the same pot where the dish will be cooked, sauté the cod. Set aside.",
+        "Next, with the previous oil and in the pot, sauté the onion. When it's well done, add the potatoes cut into pieces and the pumpkin -with skin- also in pieces. Neither the potato nor the pumpkin need to be there for long, it's enough to give them a turn to mix and sauté them a little.",
+        "Add 2 roasted garlic cloves to this mixture. Cover everything with water and put on low heat. When it starts to boil, add the saffron, cod and picada. During cooking adjust the salt, since having cod maybe we don't need to add much salt."
+      ],
+      "notes": "This dish is served with aioli",
+      "image": "/guisat-de-carabassa.webp"
+    },
+    "pericana": {
+      "title": "Pericana",
+      "author": "L'Aigüera",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "cookingTime": "variable",
+      "category": "main-courses",
+      "ingredients": [
+        "3 dried peppers",
+        "1 hot pepper",
+        "1 head of garlic",
+        "1 piece of cod"
+      ],
+      "instructions": [
+        "Roast the dried peppers and break into pieces in a bowl.",
+        "Next, also roast the hot pepper, chop it and put it in the bowl too. You can add more hot peppers, depending on the desired level of heat.",
+        "Roast the head of garlic, chop it and add it to the bowl.",
+        "Finally roast the cod, flake it and add it to the previous mixture.",
+        "Add a good amount of olive oil and to finish, scald the mixture with boiling water.",
+        "Now... serve it up, as it should be eaten hot. Ready for dipping bread!"
+      ],
+      "notes": "The cod can be replaced with dried small cod (capellans). Although some people combine both. There are many variants of this dish and in some cases it is called \"Picant\".",
+      "image": "/pericana.webp"
+    },
+    "farinetes": {
+      "title": "Farinetes",
+      "author": "SELLERS",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "Stock: ½ kg of fish scraps",
+        "1 ½ liters of water",
+        "2 ripe tomatoes",
+        "1 onion",
+        "Parsley",
+        "5-6 cloves of garlic",
+        "300g of flour",
+        "Salt",
+        "Olive oil"
+      ],
+      "instructions": [
+        "Sauté the tomato, onion, parsley and garlic, all chopped into small pieces in a separate pan. Add salt and taste. Once sautéed, set aside.",
+        "When it starts to boil, leave on the heat for half an hour to cook well.",
+        "Let rest.",
+        "Strain the stock through a colander. Take one liter of this stock to make the farinetes, save the rest to add later if needed.",
+        "Put the lukewarm stock in an earthenware pot with the prepared sauté. Put on low heat and gradually add the flour while stirring constantly. From here it's to the cook's taste. You can add more of the reserved stock if the \"farinetes\" become too thick."
+      ],
+      "notes": "It can also be made with meat broth.",
+      "image": "/farinetes.webp"
+    },
+    "pebreres-en-oli": {
+      "title": "Pebreres en Oli",
+      "author": "Amparo \"de la Era El Carro\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 dozen dried peppers",
+        "¼ liter of olive oil",
+        "½ mackerel"
+      ],
+      "instructions": [
+        "Put the peppers to boil with cold water. The water should cover the peppers. Discard the water after it has boiled for 10 minutes.",
+        "Add cold water again and when it has boiled for 10 minutes, discard again.",
+        "Once more add cold water and add the mackerel to the peppers -all in one piece so it doesn't break apart-.",
+        "After boiling for 10 minutes turn off the heat.",
+        "Remove the peppers and mackerel to a bowl and cover completely with oil.",
+        "It can be eaten that same day or reserved for another."
+      ],
+      "notes": "You can also add a dried hot pepper.",
+      "image": "/pebreres-en-oli.webp"
+    },
+    "talvina": {
+      "title": "Talvina",
+      "author": "Luis \"de la Era El Carro\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 head of garlic",
+        "4 bunches of spinach",
+        "150-200 g of flour",
+        "¼ liter of olive oil",
+        "1 hot pepper",
+        "4 dried peppers",
+        "salt"
+      ],
+      "instructions": [
+        "Cook the spinach in water for about 10 minutes. Then, drain until all water is released. Set aside.",
+        "Sauté the dried peppers and hot pepper. Add salt to taste and set aside.",
+        "Chop the garlic. Sauté it lightly and add the spinach, giving it a couple of turns.",
+        "Add the flour gradually while stirring constantly with a wooden spoon. Add a little salt. Four or five minutes on the heat will be enough.",
+        "Turn off the heat when the mixture becomes dry and the flour starts to brown.",
+        "Serve in the center of a plate and place the peppers and hot pepper on the sides."
+      ],
+      "image": "/talvina.webp"
+    },
+    "arros-amb-bacallar-i-flor-i-col": {
+      "title": "Arròs amb Bacallar i Flor-i-col",
+      "author": "EL GOTET",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "30m",
+      "category": "main-courses",
+      "ingredients": [
+        "200 g of English cod for eating raw",
+        "400 g of rice",
+        "400 g of cauliflower",
+        "Spring garlic",
+        "Olive oil",
+        "Saffron",
+        "Water or Vegetable stock"
+      ],
+      "instructions": [
+        "Clean, peel and cut the garlic. Break the cauliflower into small florets. Drain the cod well.",
+        "Sauté the garlic, cauliflower and cod in a pan with a little oil.",
+        "When sautéed, add the rice, stir well and add hot water (or vegetable stock) with a little saffron. Use three times as much water as rice and check for salt. Cook for about 10 minutes over high heat. Turn off the heat, cover and let rest for 5 more minutes."
+      ],
+      "notes": "It is recommended to soak the cod 24 hours beforehand, to avoid it being too salty. The rice should be a bit creamy, to better appreciate the flavor.",
+      "image": "/arros-amb-bacallar-i-flor-i-col.webp"
+    },
+    "arros-amb-fesols-i-penques": {
+      "title": "Arròs amb Fesols i Penques",
+      "author": "EL DESFASE",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "2h",
+      "category": "main-courses",
+      "ingredients": [
+        "¼ kg of beans",
+        "1 ham bone",
+        "1 pig's foot",
+        "1 pig's ear",
+        "1 blood sausage",
+        "1 white sausage",
+        "3 large chard stalks",
+        "1 turnip",
+        "1 carrot",
+        "1 parsnip",
+        "3 tablespoons of oil",
+        "salt",
+        "½ kg of rice"
+      ],
+      "instructions": [
+        "Put the beans to boil in a pot. When they boil, add cold water to break the boil. This operation will be done once more before adding them to the rice pot.",
+        "In another pot, put the chard stalks with enough salt.",
+        "Put three tablespoons of oil in the pot where we are going to prepare the rice. Heat it (it should be almost ready to fry). Add one and a half liters of water to the pot, all the vegetables and meat (all the meat except the blood sausage and white sausage).",
+        "Add the beans to the pot, after having broken their boil twice.",
+        "Once in the pot, break the boil two more times with ½ or 1 liter more water. It will be ready when the beans are open and the broth starts to thicken.",
+        "Add the rice, blood sausage and white sausage.",
+        "Serve when we see that the rice is cooked."
+      ],
+      "notes": "If the chard stalk water is green, we will add only the chard stalks to the pot. In this type of rice, the sausages and meat can be omitted, according to diners' taste.",
+      "image": "/arros-amb-fesols-i-penques.webp"
+    },
+    "fassedures": {
+      "title": "Fassedures",
+      "author": "AMICS 85",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "2h",
+      "cookingTime": "20m",
+      "category": "main-courses",
+      "ingredients": [
+        "Fassedures:",
+        "250 g of cornmeal",
+        "50 g of bacon",
+        "white sausage",
+        "soaked bread",
+        "parsley",
+        "salt",
+        "sweet paprika",
+        "Stew:",
+        "2 chard stalks",
+        "2 turnips",
+        "1 parsnip",
+        "1 sweet potato",
+        "1 or 2 potatoes",
+        "1 pork foot and tail bone",
+        "a piece of chicken (approximately 250 g)",
+        "a white sausage",
+        "salt",
+        "saffron",
+        "150 g dried beans"
+      ],
+      "instructions": [
+        "Stew:",
+        "Put all the stew ingredients to boil in a pot with water for two hours: the chard stalks, turnips, parsnip, sweet potato, potato, pork foot and tail, piece of chicken, white sausage, salt, saffron, beans.",
+        "Fassedura:",
+        "Heat the oil slightly. Mix the hot oil with the cornmeal and then add the well-drained soaked bread, diced bacon, chopped white sausage, parsley, salt and sweet paprika. Knead all ingredients and shape by hand giving it a round or slightly elongated form. Add the fassedures to the already cooked stew one hour before lunch."
+      ],
+      "image": "/fassedures.webp"
+    },
+    "bollitori-de-bacallar": {
+      "title": "Bollitori de Bacallar",
+      "author": "Trini \"de Josefina de Ramón de Cruz\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "15m",
+      "cookingTime": "80-90m",
+      "category": "main-courses",
+      "ingredients": [
+        "2 measures of oil",
+        "1 onion",
+        "4 dried red peppers",
+        "4 eggs (hard-boiled)",
+        "cabbage (to taste)",
+        "1 kg potatoes",
+        "4 cod loins",
+        "aioli"
+      ],
+      "instructions": [
+        "Cook the cabbage, onion, dried red peppers and oil in a pot with water for 40 minutes.",
+        "Then, add the potatoes for approximately 25 minutes.",
+        "Place the cod on top for 15 to 20 minutes.",
+        "Finally, add the eggs. The eggs can be added already hard-boiled or just heated, according to each cook's preference."
+      ],
+      "notes": "The secret of this dish is to cook it over low heat. It is served with aioli.",
+      "image": "/bollitori-de-bacallar.webp"
+    },
+    "putxero-amb-pilotes": {
+      "title": "Putxero amb Pilotes",
+      "author": "Les cuineres de Sant Antoni 2012 (Amelia \"Guillermina\", Amparo \"Llober\", Antonia \"la Carnissera\", Encarnita \"el Surdo\", Eva Alemany)",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "120m",
+      "category": "main-courses",
+      "ingredients": [
+        "Stew:",
+        "one turnip",
+        "one parsnip",
+        "2 carrots",
+        "3 celery stalks",
+        "2 leeks",
+        "2 potatoes",
+        "one white sausage",
+        "250 g of chickpeas",
+        "a piece of bacon",
+        "200 g of beef",
+        "250 g of hen",
+        "250 g of chicken",
+        "salt",
+        "saffron",
+        "Meatball:",
+        "250 g of ground beef and lean pork",
+        "a little pepper",
+        "a handful of pine nuts",
+        "1 beaten egg",
+        "a piece of well-drained soaked bread",
+        "a little grated lime",
+        "parsley",
+        "a little salt",
+        "Optional, a pinch of oregano"
+      ],
+      "instructions": [
+        "Stew:",
+        "Put the pot full of water to boil, first boil the chickpeas (which have been soaking overnight) for half an hour, and then add the rest of ingredients (turnip, parsnip, carrot, celery, leeks, white sausage, bacon, chicken, hen, beef, leaving the potatoes for the end).",
+        "Meatball:",
+        "Mix all meatball ingredients, knead and shape into rounds to add to the stew after an hour. Then, add the meatballs and potatoes to boil for another hour."
+      ],
+      "image": "/putxero-amb-pilotes.webp"
+    },
+    "canuts-caldosos": {
+      "title": "Canuts Caldosos",
+      "author": "Josefina \"els Jerseis\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "120m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 onion",
+        "1 tomato",
+        "1 pepper",
+        "meat (pork ribs or chicken)",
+        "potatoes",
+        "green beans",
+        "garlic",
+        "parsley",
+        "oil",
+        "salt",
+        "macaroni"
+      ],
+      "instructions": [
+        "Sauté an onion, a piece of tomato, two strips of pepper, a couple of potatoes -not too large- and the meat.",
+        "Once sautéed, add water to the pot and let it boil.",
+        "Meanwhile, prepare a mortar with crushed garlic and parsley and add it to the pot.",
+        "When well cooked, add the macaroni (a handful per person). Cook until the pasta is soft."
+      ],
+      "notes": "Some people make this dish like \"rice with beans and chard stalks\", substituting the macaroni with rice",
+      "image": "/canuts-caldosos.webp"
+    },
+    "fesols-en-salsa": {
+      "title": "Fesols en Salsa",
+      "author": "Rosa \"el Conde\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "2h",
+      "category": "main-courses",
+      "ingredients": [
+        "2 handfuls of white beans per person",
+        "1 or 2 bay leaves",
+        "1 and a half onions",
+        "1 head of garlic",
+        "1 piece of cooking chorizo",
+        "1 potato",
+        "1 carrot",
+        "1 teaspoon of sweet paprika",
+        "flour",
+        "salt",
+        "oil"
+      ],
+      "instructions": [
+        "Put a pot to boil with water and the beans. Then, add the piece of onion, head of garlic, bay leaf, carrot, potato and chorizo. The mixture will be cooked when we see that the beans start to open and the broth is thick.",
+        "While the beans are cooking, sauté with half a small glass of oil a finely chopped onion, a tablespoon of flour and a teaspoon of sweet paprika. It's important to keep stirring to prevent the flour from sticking.",
+        "Put the sauté in the pot with the beans when they are well cooked. Taste for salt and adjust to taste. Leave on the heat for a few minutes. This dish should be thick, so you should be careful not to leave it on the heat for too long to avoid it becoming too dry."
+      ],
+      "notes": "If we see that the broth thickens a lot and the beans are not cooked, we will add more water.",
+      "image": "/fesols-en-salsa.webp"
+    },
+    "miques": {
+      "title": "Miques",
+      "author": "Maria \"Sanxet\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "2h",
+      "category": "main-courses",
+      "ingredients": [
+        "1 stale bread loaf",
+        "1 grated tomato",
+        "1 onion",
+        "oil",
+        "salt"
+      ],
+      "instructions": [
+        "Cut the stale bread into pieces and soak. Remove excess water by squeezing the bread with your hands. The bread should remain moist and soft.",
+        "Make a sauté -in a pan or clay pot- with the grated tomato, finely chopped onion and salt.",
+        "When the sauté is ready, add the bread while stirring continuously until we see that the miques become loose and slightly golden."
+      ],
+      "notes": "If desired, you can add bacon and/or sausages to the sauté to give it another flavor. There is a variant called \"Shepherd's Miques\". In this type of miques, when making the sauté, flour is gradually added while stirring constantly. To prevent them from drying out, add a little water",
+      "image": "/miques.webp"
+    },
+    "daus-de-porc-senglar": {
+      "title": "Wild Boar Stew with Red Wine",
+      "author": "DANI i RAUL FRACÉS AGULLÓ",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "90m",
+      "category": "main-courses",
+      "ingredients": [
+        "1 kg of wild boar meat",
+        "4 medium potatoes",
+        "2 Blanquilla pears",
+        "2 Golden apples",
+        "3 carrots",
+        "1 large onion",
+        "1 bottle of red wine",
+        "Aromatic herbs (thyme and rosemary)",
+        "3 bay leaves",
+        "Olive oil",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": [
+        "Cut the wild boar meat into cubes and place in a container to marinate. Peel and chop the apples and pears. Place in the container along with the carrots cut into slices and the onion, peeled and cut into pieces. Add aromatic herbs to taste, and wine until everything is covered.",
+        "Cover the container and let marinate in a cool place -the bottom part of the refrigerator works well- for about 24 hours. After this time, strain, collecting the wine that will be used for cooking the meat. From what remains in the strainer, separate the meat on one side and the carrots and onion pieces on the other, removing the pieces of pear, apple, and aromatic herbs.",
+        "Put a casserole on the heat with oil and add the pieces of meat, previously seasoned with salt and pepper, so they brown. When the meat is well browned, add the carrot and onion pieces and bay leaf. Give it a few turns until the vegetables are also browned. Finally, add the red wine. When it starts to boil and the alcohol evaporates, leave on low heat and covered for between 1 hour and 1.5 hours, until the meat is tender. If the broth reduces during this time, add hot water.",
+        "Once the meat is tender, recover the pieces of meat and reserve them in another casserole. Pass the rest of ingredients through the blender and strain them with a Chinese strainer to achieve a clean sauce. Fry the potatoes previously cut into large pieces. Add them to the casserole where we have the meat, cover with the sauce and let cook on low heat for a few minutes until the potatoes are tender."
+      ],
+      "notes": "As with any game recipe, it's advisable to wait a few days after the animal's death before cooking it so the meat loses its strength. If we have the game meat in the freezer, it's preferable to take it out 24 hours before cooking and let it thaw in the refrigerator.",
+      "image": "/daus-de-porc-senglar.webp"
+    },
+    "torro": {
+      "title": "Nougat",
+      "author": "ANTONIA \"CONCORIA\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "1 kg of sugar",
+        "1 kg of peeled almonds",
+        "1 glass of water (not quite full)",
+        "2 egg yolks"
+      ],
+      "instructions": [
+        "Put the water and sugar in a pot on the heat, stirring constantly. Remove from heat when the sugar has dissolved and when lifting the spoon it forms a thread.",
+        "Add the ground almonds and stir. Everything should be well soaked.",
+        "Pour the previous mixture into a bowl and add the two egg yolks, mixing everything well.",
+        "Put toña paper in a wooden box and pour the mixture inside, flattening it with your hands so it's well pressed."
+      ],
+      "notes": "This recipe makes 4 boxes of nougat. Once set, the mixture will have solidified, so we can eat our nougat. If we see that the water and sugar mixture foams, remove it from the heat for a moment and then put it back.",
+      "image": "/torro.webp"
+    },
+    "ametlats": {
+      "title": "Almond Cookies",
+      "author": "ALEJANDRA",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "10m",
+      "category": "sweets",
+      "ingredients": [
+        "½ kg of ground almonds with skin",
+        "Ground cinnamon stick",
+        "½ kg of sugar",
+        "3 large eggs (or 4 medium)",
+        "Zest of half a lemon"
+      ],
+      "instructions": [
+        "Put the eggs in a bowl and beat with the sugar.",
+        "Add the ground almonds, lemon zest, and cinnamon and knead.",
+        "Prepare a baking tray with parchment paper and place the prepared cookies on it.",
+        "Each cookie is made by taking a pinch of dough with three fingers. The uglier they look, the better.",
+        "The oven should be preheated to 180°C. Bake at this temperature until they start to brown, then remove them."
+      ],
+      "notes": "They can also be made with skinless almonds.",
+      "image": "/ametlats.webp"
+    },
+    "saginoses": {
+      "title": "Mantecados",
+      "author": "L'SKANDOL",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "45m",
+      "cookingTime": "10-15m",
+      "category": "sweets",
+      "ingredients": [
+        "400 g of lard",
+        "400 g of sugar",
+        "3 egg yolks",
+        "1 egg white",
+        "300 g of flour",
+        "200 g of almonds",
+        "cinnamon",
+        "1 grated lemon"
+      ],
+      "instructions": [
+        "First melt the lard.",
+        "Add the sugar and egg yolks and stir. If desired, add some grated lemon and cinnamon.",
+        "Add the flour and almonds. Knead, trying to achieve an optimal consistency, neither too hard nor too soft.",
+        "Once well kneaded, take a ball of dough, flatten it and use molds to make shapes. It's recommended to make different shapes for more fun.",
+        "Then, brush with egg white and sprinkle with sugar and cinnamon on top of the mantecado.",
+        "Finally, leave in the oven preheated to 180°C for 10-15 minutes."
+      ],
+      "notes": "In making mantecados, almonds are not an essential ingredient. However, they are highly recommended to improve the quality and flavor of this Christmas sweet.",
+      "image": "/saginoses.webp"
+    },
+    "tonyes": {
+      "title": "Easter Sweet Bread",
+      "author": "ROSA \"EL CASINO\"",
+      "difficulty": "hard",
+      "servings": 4,
+      "preparationTime": "3-4h",
+      "cookingTime": "15m",
+      "category": "sweets",
+      "ingredients": [
+        "1 Kg of strong flour",
+        "400 g of sugar",
+        "¼ liter of sunflower oil",
+        "4 eggs",
+        "140 g of yeast",
+        "1 grated lemon",
+        "¼ liter of milk",
+        "½ glass of water for dissolving the yeast"
+      ],
+      "instructions": [
+        "Put the flour in a large container. Add the eggs.",
+        "Dissolve the yeast with the ½ glass of warm water.",
+        "Dissolve the sugar with the milk.",
+        "Mix all ingredients and knead while gradually adding the oil.",
+        "Once kneaded, cover the container with a cloth to provide warmth. Place the covered container next to a heat source (hot water bottle, fireplace...) for about two and a half hours. The dough should double in size.",
+        "After this time, make small balls with the dough, placing them on baking paper on a flat surface (board). Cover and let rest until the dough doubles in size.",
+        "Beat an egg and add a little water to dilute it. Paint the dough with this mixture and put sugar on top to decorate.",
+        "Put in the oven, preheated to about 160°C, for approximately 15 minutes until they are golden brown."
+      ],
+      "notes": "It's important that the dough is in a sheltered and warm place. From the tonya dough, you can make small rolls. The procedure is the same as for tonyas, but no egg or sugar is put on top.",
+      "image": "/tonyes.webp"
+    },
+    "pastissets-de-moniato": {
+      "title": "Sweet Potato Pastries",
+      "author": "AMPARO \"L'OBRER\"",
+      "difficulty": "medium-hard",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "45m",
+      "category": "sweets",
+      "ingredients": [
+        "For the dough:",
+        "1 glass of oil",
+        "1 glass of sugar",
+        "1 glass of anise liqueur",
+        "125g of lard",
+        "2 eggs",
+        "1 kg of flour approximately",
+        "(The measure is a water glass)",
+        "For the filling:",
+        "1kg sweet potatoes (boiled and peeled)",
+        "750 g of sugar",
+        "Lemon zest",
+        "Ground cinnamon"
+      ],
+      "instructions": [
+        "Put the boiled sweet potato and sugar in a pot. Mix over low heat for approximately one hour.",
+        "When the mixture is cold, add the lemon zest and a little cinnamon and mix well again. Reserve this sweet potato filling.",
+        "The preparation of the pastry dough is as follows:",
+        "Put the oil, anise, lard, and sugar in a pot. Cook over low heat until the sugar is completely dissolved.",
+        "Place the flour in a bowl and add the previous mixture and the two eggs. Knead.",
+        "Make small balls of this dough and flatten well forming circles. You can use a cup with a fairly wide mouth to help. Fill each circle with a spoonful of sweet potato filling and close it forming empanadas.",
+        "Once made, brush them with beaten egg and bake for approximately 45 minutes. The oven should be preheated to 170°C."
+      ],
+      "notes": "Although it's recommended to prepare the filling ourselves, some people choose to buy ready-made sweet potato filling. This simplifies the recipe.",
+      "image": "/pastissets-de-moniato.webp"
+    },
+    "melmelada-de-taronja": {
+      "title": "Orange Marmalade",
+      "author": "LIZ GREEN \"CASA ROC\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "0m",
+      "cookingTime": "3h",
+      "category": "sweets",
+      "ingredients": [
+        "4 kg of oranges",
+        "juice and seeds of 2 lemons",
+        "3.4 liters of water",
+        "2.7 kg of sugar"
+      ],
+      "instructions": [
+        "Squeeze the juice from the oranges and lemons.",
+        "Put the lemon seeds in a muslin bag and tie well.",
+        "Cut the orange peel into thin strips.",
+        "Put the juice, water, seed bag, and orange pieces in a large pot.",
+        "Cook over low heat for 2 hours or until the liquid is reduced by half.",
+        "Remove the seed bag and squeeze the liquid into the pot.",
+        "Add the sugar and cook over low heat, stirring until all the sugar has dissolved.",
+        "Boil over high heat for 15 or 20 minutes.",
+        "Remove the pot from the heat and wait about 15 minutes.",
+        "Finally, put the marmalade in glass jars."
+      ],
+      "notes": "You can use any type of orange but it will turn out better with bitter ones. It is recommended to: Use a large, deep pot made of strong metal. Heat the jars before adding the marmalade.",
+      "image": "/melmelada-de-taronja.webp"
+    },
+    "orelletes": {
+      "title": "Orelletes",
+      "author": "LOLA \"LA PALMERA\"",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "30m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "1 egg",
+        "Half an eggshell of oil",
+        "Half an eggshell of anise",
+        "flour and oil for frying"
+      ],
+      "instructions": [
+        "Mix the egg, the measure of half eggshell of oil and anise. Add the flour that it will take -approximately 150-200 g- and knead well to get a homogeneous and fine dough.",
+        "Meanwhile, put a pan with plenty of oil on the heat.",
+        "Flatten the previous dough with a rolling pin until thin and cut this dough into squares.",
+        "When the oil is hot, pinch each square and drop into the oil so they take their characteristic shape.",
+        "Place on a plate prepared with paper to absorb excess oil.",
+        "Serve on a plate with sugar on top."
+      ],
+      "image": "/orelletes.webp"
+    },
+    "mantegada": {
+      "title": "Custard Ice Cream",
+      "author": "LA INTERNACIONAL",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "60m",
+      "cookingTime": "0m",
+      "category": "sweets",
+      "ingredients": [
+        "4 eggs",
+        "250 g of sugar",
+        "cinnamon stick",
+        "1 liter of milk",
+        "lemon peel"
+      ],
+      "instructions": [
+        "Boil the milk with a lemon peel and a cinnamon stick. Strain it and let it cool.",
+        "Beat the 4 egg yolks, add the sugar gradually while beating. Add the milk we prepared earlier and put everything on low heat without stopping to stir until obtaining a cream.",
+        "Let cool completely and put in the freezer.",
+        "Take the mixture out of the freezer every 6 minutes and stir well until obtaining a creamy texture and ice cream consistency."
+      ],
+      "notes": "You can add 2 more egg yolks if you like it with more egg flavor and also a bit of vanilla.",
+      "image": "/mantegada.webp"
+    },
+    "bescuit": {
+      "title": "Bescuit",
+      "author": "Amelia \"Guilermina\"",
+      "difficulty": "medium",
+      "servings": 4,
+      "preparationTime": "40m",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "8 eggs",
+        "8 ounces of sugar (250 g)",
+        "8 ounces of cornstarch"
+      ],
+      "instructions": [
+        "Separate the whites from the yolks. Reserve these to add later.",
+        "Beat the egg whites until stiff peaks form.",
+        "Add the sugar gradually while beating continuously so it dissolves well.",
+        "Add the yolks and beat.",
+        "Finally, add the cornstarch and beat the mixture well.",
+        "Once the mixture is prepared, pour into a mold previously greased with butter to make it easy to remove from the mold.",
+        "Bake in the oven for about 20 minutes at a temperature of 170°C – 180°C."
+      ],
+      "image": "/bescuit.webp"
+    },
+    "pastis-de-carabassa": {
+      "title": "Pastís de Carabassa",
+      "author": "LA FONT",
+      "difficulty": "easy",
+      "servings": 4,
+      "preparationTime": "90m",
+      "category": "sweets",
+      "ingredients": [
+        "1 kg of boiled pumpkin",
+        "1 glass of flour",
+        "1½ glasses of sugar",
+        "1 glass of sunflower oil",
+        "3 eggs",
+        "1 packet of vanilla custard powder (preferably El Niño brand)",
+        "1 packet of baking powder (Royal)"
+      ],
+      "instructions": [
+        "Peel and remove seeds from the pumpkin. Boil the pieces for about 20 minutes (until they feel soft).",
+        "Mix the flour, sugar, custard powder packet and baking powder.",
+        "Add the beaten eggs and oil to the previous mixture, stir well and add the pumpkin. Beat everything until achieving a uniform batter.",
+        "Grease a mold with butter and pour in the mixture. Don't fill it completely as it rises quite a bit.",
+        "Put in the preheated oven at 180°C for approximately 40 minutes. Pierce the center with a toothpick and if it comes out clean, remove from the oven.",
+        "Let cool and remove from the mold."
+      ],
+      "notes": "The measure of 1 glass corresponds to a water glass",
+      "image": "/pastis-de-carabassa.webp"
+    },
+    "rotllo-de-san-blai": {
+      "title": "Rotllo de San Blai",
+      "author": "LA KAIXKERA",
+      "difficulty": "hard",
+      "servings": 4,
+      "preparationTime": "3h",
+      "cookingTime": "20m",
+      "category": "sweets",
+      "ingredients": [
+        "1 glass of water",
+        "1 teaspoon of anise seeds",
+        "lemon peel",
+        "1 cinnamon stick",
+        "150 g of pressed yeast",
+        "1 kg of strong flour",
+        "400 g of sugar",
+        "1 orange",
+        "½ glass of oil",
+        "5 medium eggs -one of which we'll reserve for brushing the roll on top-",
+        "50 g of sugar for decorating"
+      ],
+      "instructions": [
+        "Put a glass of water on the heat, when it starts to boil add the anise seeds, cinnamon and lemon peel. Leave for a few minutes to flavor the water. Remove from heat and let cool a bit.",
+        "Dissolve the yeast in this lukewarm water. It's important that the water is lukewarm, as if it's too hot the dough won't rise.",
+        "Put the flour and sugar in a bowl in a pyramid shape. Add the previous infusion and knead. Gradually add the juice of one orange and the half glass of oil. The resulting dough will be hard.",
+        "Add the 4 eggs, one by one and knead, to make it easier to knead you can add oil and/or flour.",
+        "Let the dough rest for half an hour. The dough will need to be in a warm place so it can double in volume.",
+        "Now it's time to knead again and shape it into a roll. Place the roll on non-stick paper. Give it color by painting it with beaten egg and decorate with sugar on top. Let rest in a warm place to rise again, when we see it's double its size, it's ready to put in the oven.",
+        "The oven should be hot at about 200°C. Put the roll in and wait about 15 minutes. And it will be ready."
+      ],
+      "notes": "To know if the dough is good, after obtaining the dough, take a small ball of the dough and throw it in a glass with water. Leave this glass next to the dough, when it has risen to the top, the dough is good. The roll should be taken to be blessed if we want \"Glorious Saint Blaise to free us from cough\".",
+      "image": "/rotllo-de-san-blai.webp"
+    }
+  }
+}

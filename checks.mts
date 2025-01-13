@@ -18,6 +18,7 @@ const publicFiles = readdirSync(path.join(process.cwd(), "public", "recipes"));
 const main = getTranslations("ca");
 const otherLanguages = {
   es: getTranslations("es"),
+  en: getTranslations("en"),
 };
 
 function error(message: string): never {
