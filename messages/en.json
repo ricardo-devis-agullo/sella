@@ -1,6 +1,7 @@
 {
   "Layout": {
-    "title": "Recipes from Sella"
+    "title": "Recipes from Sella",
+    "search": "Search recipes..."
   },
   "Recipe": {
     "difficulty": {

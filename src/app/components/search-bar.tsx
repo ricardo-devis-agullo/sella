@@ -18,7 +18,7 @@ export default function SearchBar({ recipes, locale }: SearchProps) {
   );
   const searchRef = useRef<HTMLDivElement>(null);
   const router = useRouter();
-  const t = useTranslations("Recipe");
+  const t = useTranslations();
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
@@ -60,7 +60,7 @@ export default function SearchBar({ recipes, locale }: SearchProps) {
         type="text"
         value={query}
         onChange={(e) => handleSearch(e.target.value)}
-        placeholder="Search recipes..."
+        placeholder={t("Layout.search")}
         className="w-full px-4 py-2 rounded-lg bg-amber-50 border border-amber-200 focus:outline-none focus:ring-2 focus:ring-amber-300"
       />
       {isOpen && filteredRecipes.length > 0 && (
@@ -81,7 +81,7 @@ export default function SearchBar({ recipes, locale }: SearchProps) {
               <div className="text-left">
                 <div className="font-semibold">{recipe.title}</div>
                 <div className="text-xs text-amber-700">
-                  {t(`difficulty.${recipe.difficulty}`)} •{" "}
+                  {t(`Recipe.difficulty.${recipe.difficulty}`)} •{" "}
                   {recipe.preparationTime}
                 </div>
               </div>
