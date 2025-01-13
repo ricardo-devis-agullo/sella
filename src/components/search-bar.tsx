@@ -55,7 +55,7 @@ export default function SearchBar({ recipes, locale }: SearchProps) {
   };
 
   return (
-    <div className="relative w-64" ref={searchRef}>
+    <div className="relative w-full sm:w-64" ref={searchRef}>
       <input
         type="text"
         value={query}
