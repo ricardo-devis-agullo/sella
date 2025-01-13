@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { categories } from "@/data/recipes";
 import { getTranslations } from "next-intl/server";
-import Layout from "@/components/layout";
 
 export default async function Home({
   params,
@@ -12,7 +11,7 @@ export default async function Home({
   const t = await getTranslations("Category");
 
   return (
-    <Layout locale={locale}>
+    <>
       <h1 className="text-4xl font-bold mb-8 text-center">Home</h1>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         {categories.map((category) => (
@@ -25,6 +24,6 @@ export default async function Home({
           </Link>
         ))}
       </div>
-    </Layout>
+    </>
   );
 }
