@@ -6,7 +6,32 @@
   "Home": {
     "title": "Recetes de Sella",
     "prologue": "Una cuina qualsevol, la meua cuina, la teua cuina, la nostra cuina, la vostra cuina. Eixa cuina que ens identifica. La nostra, la d'ací, la de Sella, la de \"ca la tia\", la de \"ca ma mare\", la de la barraca, la del \"perdigot\", la de \"San Blai\", la del \"llious Sant\". Un trosset de cada cuinera, de cada cuiner, de cada recepta, de cada ingredient, de cada truc, de cada sabor d'aquest \"gran poblet\". Aquest any hem cuinat poc a poc, a foc lent, amb molt afecte, amb molta paciència, amb molta col·laboració, per elaborar aquest llibre \"Cuina de Sella\" receptes d'ací fetes per gent d'ací.\n\nLa Comissió de Festes de la Divina Aurora 2012, ens vam embarcar fa uns mesos en esta aventura cuinera, per recopilar una sèrie de receptes que ens identificaren a totes i tots i en les que participara el major nombre de gent, aportant eixa herència culinària de les nostres iaies a les nostres cuines. Així va nàixer este llibre com un dels nostres desitjos de recollir les receptes dels nostres majors i deixar-les escrites per als nostres menuts.\n\nUn llibre que vam començar a estructurar, un dia del mes de desembre quan vam anar a casa de Rosa El Casino i que junt a Mercedes Fonda, que allí estava, van començar a contar-nos plats els quals vam escriure en una llista: dolç, salat, postres,... Al mateix temps ens van dir a qui podíem demanar les receptes. Començarem amb la gent major que ens digueren, però el temps passa i els nostres majors van creixent, i ens vam adonar que teníem que buscar una altra forma d'aconseguir eixes receptes que es couen en les cases. Vam parlar amb Maria El Surdo, que ens va enviar a les seues filles, i d'ahí vam eixir amb la idea de fer participar a més gent. Gent no tan major, gent jove, homes, dones i per què no, a les barraques, és la forma que trobem d'incloure a més gent en aquest xicotet receptari, del qual tots aportaríem els nostres secrets, els nostres trucs per elaborar-lo.\n\nLes receptes són versions de gent d'ací que ens han aportat els seus ingredients, la seua preparació... En totes les cases es couen estes receptes, però cadascú i cadascuna li aportem les nostres tradicions heretades. Així que és una simple guia d'alguns plats que, tal volta Tú, els fas igual o li afegeixes alguna cosa o li lleves una altra... però el resultat és el mateix: plats que identifiquen la nostra Cuina de Sella. Hem recollit uns i deixat altres, però són els que entre tots i totes ens heu recomanat.\n\nGràcies a vosaltres, que ens heu obert la porta de la vostra casa i de les barraques, que ens heu ensenyat la \"tasseta de mesura\" de la vostra iaia, que ens heu introduït amb els vostres records en les vostres festes familiars, en la vostra joventut i vivències, que ens heu fet provar la vostra cuina, que ens heu enviat un e-mail amb les receptes,.... Gràcies",
-    "author": "Comissió de Festes de la Divina Aurora 2012"
+    "author": "Comissió de Festes de la Divina Aurora 2012",
+    "credits": {
+      "title": "Edita",
+      "editor": "LA COMISSIÓ DE FESTES DIVINA AURORA DE SELLA 2012",
+      "supervision": {
+        "title": "Baix la supervisió en la recollida, edició i fotografies de les receptes de:"
+      },
+      "textRevision": {
+        "title": "En la revisió dels textos i traducció de:"
+      },
+      "specialThanks": {
+        "title": "Amb l'ajuda especial de:",
+        "credits": {
+          "translation": "en la revisió, traducció i correcció dels textos en valencià",
+          "cover": "en la fotografia de la portada i les fotografies de les seccions",
+          "photography": "en la cessió de fotografies de les receptes",
+          "printing": "en la primera presa de contacte amb l'imprempta",
+          "adaptation": "en la revisió dels textos i la elaboració d'alguns dels plats per obtindre les imatges que han fet realitat el llibre. Gràcies per la vostra ajuda i paciència"
+        }
+      },
+      "printing": {
+        "title": "Disseny i impressió:",
+        "company": "AR Impresores, SL"
+      },
+      "copyright": "Copyright Comissió de festes Divina Aurora de Sella 2012"
+    }
   },
   "Recipe": {
     "difficulty": {
